@@ -117,14 +117,18 @@ nav{position:fixed;top:0;left:0;right:0;z-index:200;height:var(--nav-h);backgrou
 
 /* ── EP CARDS (grille) ── */
 .ep-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px;}
-.ep-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;cursor:pointer;-webkit-tap-highlight-color:transparent;}
+.ep-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;cursor:pointer;transition:transform .22s,box-shadow .22s,border-color .22s;-webkit-tap-highlight-color:transparent;}
+.ep-card:not(.unavailable):hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(0,0,0,.6),0 0 0 1px rgba(59,126,255,.25);border-color:rgba(59,126,255,.3);}
 .ep-card.unavailable{opacity:.5;cursor:not-allowed}
 .ep-thumb{position:relative;aspect-ratio:16/9;overflow:hidden;background:var(--bg3);}
-.ep-thumb img{width:100%;height:100%;object-fit:cover;}
+.ep-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .4s;}
+.ep-card:not(.unavailable):hover .ep-thumb img{transform:scale(1.06)}
 .ep-thumb-overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(7,9,15,.85) 0%,transparent 55%);}
-.ep-play-btn{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;}
-.ep-play-circle{width:40px;height:40px;border-radius:50%;background:rgba(59,126,255,.85);display:flex;align-items:center;justify-content:center;box-shadow:0 0 20px rgba(59,126,255,.5);}
+.ep-play-btn{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;opacity:0;transition:opacity .22s;}
+.ep-play-circle{width:44px;height:44px;border-radius:50%;background:rgba(59,126,255,.9);display:flex;align-items:center;justify-content:center;box-shadow:0 0 22px rgba(59,126,255,.6);}
+.ep-card:not(.unavailable):hover .ep-play-btn{opacity:1}
 .ep-card.unavailable .ep-play-btn{display:none}
+@media(hover:none){.ep-play-btn{opacity:1}}
 .ep-num-badge{position:absolute;top:7px;left:7px;background:rgba(7,9,15,.85);border:1px solid var(--border2);color:var(--accent2);font-size:10px;font-weight:700;padding:2px 8px;border-radius:5px;}
 .ep-unavail-badge{position:absolute;top:7px;right:7px;background:rgba(60,60,60,.8);color:#aaa;font-size:10px;font-weight:700;padding:2px 7px;border-radius:5px;}
 .ep-info{padding:10px 12px 12px}
@@ -194,7 +198,6 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:24px;dis
 @media(max-width:900px){
   .watch-layout{grid-template-columns:1fr;padding:8px 14px 20px}
   .sidebar-col{display:none}
-  .mobile-ep-section{display:block}
   .anime-info-layout{grid-template-columns:140px 1fr;gap:16px;margin-top:-80px;padding:0 16px 40px}
   .anime-poster{width:140px}.anime-big-title{margin-top:56px;font-size:22px}
   .hero-content{padding:0 18px 28px}
@@ -765,9 +768,9 @@ function showPage(name){
   const nl=document.getElementById('nav-'+name); if(nl)nl.classList.add('active');
   const mn=document.getElementById('mobnav-'+name); if(mn)mn.classList.add('active');
   window.scrollTo({top:0,behavior:'smooth'});
-  // Show mobile ep list only on watch
+  // Mobile ep list: visible seulement sur watch + écran ≤900px
   const mes=document.getElementById('mobile-ep-section');
-  if(mes) mes.style.display = (name==='watch') ? 'block' : 'none';
+  if(mes) mes.style.display = (name==='watch' && window.innerWidth<=900) ? 'block' : 'none';
 }
 
 /* ── GO TO ANIME ── */
@@ -1008,6 +1011,11 @@ window.addEventListener('resize',()=>{
   // Re-render anime page layout on resize (portrait/landscape switch)
   if(document.getElementById('page-anime').classList.contains('active')) renderAnimePage();
   if(document.getElementById('page-home').classList.contains('active')) renderHomeForAnime();
+  // Sync mobile ep section visibility on resize
+  const mes=document.getElementById('mobile-ep-section');
+  if(mes && document.getElementById('page-watch').classList.contains('active')){
+    mes.style.display = window.innerWidth<=900 ? 'block' : 'none';
+  }
 });
 
 function openAnimePage(){activeSeasonNum=1;renderAnimePage();showPage('anime');}
