@@ -802,7 +802,7 @@ function onSearch(q){
   const results=document.getElementById('search-results');
   const empty=document.getElementById('search-empty');
   const animes=Object.values(ANIME_DB);
-  const matches=q ? animes.filter(a=>a.title.toLowerCase().includes(q)||a.genres.some(g=>g.toLowerCase().includes(q))) : animes;
+  const matches=q ? animes.filter(a=>a.title.toLowerCase().includes(q)||a.genres.some(g=>g.toLowerCase().split(/\s+/).some(w=>w.startsWith(q)))) : animes;
   if(q){label.innerHTML=`Résultats pour <span>"${q}"</span>`;label.style.display='block';}
   else{label.style.display='none';}
   if(matches.length===0){results.innerHTML='';empty.style.display='block';}
