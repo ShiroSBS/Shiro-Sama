@@ -86,6 +86,13 @@ nav{position:fixed;top:0;left:0;right:0;z-index:200;height:62px;background:rgba(
 .s-tab.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
 .anime-selector{display:flex;gap:14px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding-bottom:6px;scrollbar-width:none;}
 .anime-selector::-webkit-scrollbar{display:none}
+@media(min-width:901px){
+  .anime-selector{scrollbar-width:thin;scrollbar-color:var(--accent) var(--bg3);padding-bottom:12px;}
+  .anime-selector::-webkit-scrollbar{display:block;height:8px}
+  .anime-selector::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
+  .anime-selector::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
+  .anime-selector::-webkit-scrollbar-thumb:hover{background:var(--accent2)}
+}
 .anime-sel-card{cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid var(--border);transition:all .2s;flex-shrink:0;width:110px;scroll-snap-align:start;}
 .anime-sel-card:hover{border-color:rgba(59,126,255,.4);transform:translateY(-3px)}
 .anime-sel-card.active{border-color:var(--accent);box-shadow:0 0 16px rgba(59,126,255,.3)}
