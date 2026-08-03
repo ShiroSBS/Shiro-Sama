@@ -1,0 +1,550 @@
+{
+  "id": "dr-stone",
+  "title": "Dr. Stone",
+  "poster": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+  "banner": "https://wallpapers.com/images/hd/dr-stone-blazing-fire-s0iux1tt3pldcv1j.jpg",
+  "bannerFallback": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+  "description": "Senku Ishigami se réveille 3700 ans après une mystérieuse pétrification de l'humanité. Armé de son génie scientifique, il jure de reconstruire la civilisation pierre par pierre.",
+  "genres": [
+    "Science-Fiction",
+    "Aventure",
+    "Action",
+    "Comédie",
+    "Shounen"
+  ],
+  "rating": "8.3",
+  "year": "2019",
+  "status": "cours",
+  "statusLabel": "En cours",
+  "heroTitle": "Dr. <span>Stone</span>",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 4 Saisons"
+    },
+    {
+      "text": "📅 2019–2026"
+    },
+    {
+      "color": "#4ade80",
+      "text": "● En cours"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "🪨 S1 — Stone World",
+      "title": "Saison 1 — Stone World",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone World",
+          "id": "4121007"
+        },
+        {
+          "n": 2,
+          "title": "King of the Stone World",
+          "id": "4121006"
+        },
+        {
+          "n": 3,
+          "title": "Two Way Science",
+          "id": "4127654"
+        },
+        {
+          "n": 4,
+          "title": "Fire the Smoke Signal",
+          "id": "4127655"
+        },
+        {
+          "n": 5,
+          "title": "Stone World the Beginning",
+          "id": "4135106"
+        },
+        {
+          "n": 6,
+          "title": "Two Nations of the Stone World",
+          "id": "4135107"
+        },
+        {
+          "n": 7,
+          "title": "Where Two Million Years Have Gone",
+          "id": "4142353"
+        },
+        {
+          "n": 8,
+          "title": "Feathers",
+          "id": "4142354"
+        },
+        {
+          "n": 9,
+          "title": "Let There Be the Light of Science",
+          "id": "4150951"
+        },
+        {
+          "n": 10,
+          "title": "New World Mapmaker",
+          "id": "4150952"
+        },
+        {
+          "n": 11,
+          "title": "Clear World",
+          "id": "4160542"
+        },
+        {
+          "n": 12,
+          "title": "Buddies Back to Back",
+          "id": "4160543"
+        },
+        {
+          "n": 13,
+          "title": "Masked Warrior",
+          "id": "4166215"
+        },
+        {
+          "n": 14,
+          "title": "Master of Flame",
+          "id": "4166211"
+        },
+        {
+          "n": 15,
+          "title": "One Hundred Nights, One Thousand Skies",
+          "id": "4173121"
+        },
+        {
+          "n": 16,
+          "title": "A Tale for Thousands",
+          "id": "4173122"
+        },
+        {
+          "n": 17,
+          "title": "A Weapon of Science",
+          "id": "4179951"
+        },
+        {
+          "n": 18,
+          "title": "Stone Road",
+          "id": "4179917"
+        },
+        {
+          "n": 19,
+          "title": "To Destroy and to Save",
+          "id": "4194681"
+        },
+        {
+          "n": 20,
+          "title": "The Age of Energy",
+          "id": "4194682"
+        },
+        {
+          "n": 21,
+          "title": "Two Strokes",
+          "id": "4201066"
+        },
+        {
+          "n": 22,
+          "title": "Equal End",
+          "id": "4201067"
+        },
+        {
+          "n": 23,
+          "title": "Wave of Science",
+          "id": "4206858"
+        },
+        {
+          "n": 24,
+          "title": "Voices from 3,700 Years Ago",
+          "id": "4206857"
+        }
+      ]
+    },
+    "2": {
+      "label": "⚔️ S2 — Stone Wars",
+      "title": "Saison 2 — Stone Wars",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone Wars Beginning",
+          "id": "4245862"
+        },
+        {
+          "n": 2,
+          "title": "Hot Line",
+          "id": "4252688"
+        },
+        {
+          "n": 3,
+          "title": "Call from the Dead",
+          "id": "4259353"
+        },
+        {
+          "n": 4,
+          "title": "Full Assault",
+          "id": "4263926"
+        },
+        {
+          "n": 5,
+          "title": "Steam Gorilla",
+          "id": "4271530"
+        },
+        {
+          "n": 6,
+          "title": "Prison Break",
+          "id": "4284962"
+        },
+        {
+          "n": 7,
+          "title": "Secret Mission",
+          "id": "4289426"
+        },
+        {
+          "n": 8,
+          "title": "Final Battle",
+          "id": "4294306"
+        },
+        {
+          "n": 9,
+          "title": "To Destroy and to Save",
+          "id": "4300037"
+        },
+        {
+          "n": 10,
+          "title": "Humanity's Strongest Tag Team",
+          "id": "4305018"
+        },
+        {
+          "n": 11,
+          "title": "Prologue of Dr. Stone",
+          "id": "4309846"
+        }
+      ]
+    },
+    "3": {
+      "label": "🚀 S3 — New World",
+      "title": "Saison 3 — New World",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "New World",
+          "id": "5134987"
+        },
+        {
+          "n": 2,
+          "title": "Treasure Box",
+          "id": "5135109"
+        },
+        {
+          "n": 3,
+          "title": "First Dream",
+          "id": "5145155"
+        },
+        {
+          "n": 4,
+          "title": "Treasure Hunt",
+          "id": "5152307"
+        },
+        {
+          "n": 5,
+          "title": "Science Back",
+          "id": "5159424"
+        },
+        {
+          "n": 6,
+          "title": "The Strongest Weapon",
+          "id": "5165676"
+        },
+        {
+          "n": 7,
+          "title": "Lost",
+          "id": "5173415"
+        },
+        {
+          "n": 8,
+          "title": "Corn City",
+          "id": "5178947"
+        },
+        {
+          "n": 9,
+          "title": "Kingdom of Science",
+          "id": "5183983"
+        },
+        {
+          "n": 10,
+          "title": "Science Wars",
+          "id": "5190602"
+        },
+        {
+          "n": 11,
+          "title": "New Allies",
+          "id": "5197093"
+        },
+        {
+          "n": 12,
+          "title": "The Age of Craft Science",
+          "id": "5277564"
+        },
+        {
+          "n": 13,
+          "title": "The Strongest Mineral",
+          "id": "5287900"
+        },
+        {
+          "n": 14,
+          "title": "Treasure of Knowledge",
+          "id": "5297890"
+        },
+        {
+          "n": 15,
+          "title": "First Contact",
+          "id": "5305971"
+        },
+        {
+          "n": 16,
+          "title": "Medusa",
+          "id": "5313920"
+        },
+        {
+          "n": 17,
+          "title": "Secret of Petrification",
+          "id": "5324385"
+        },
+        {
+          "n": 18,
+          "title": "Final Showdown",
+          "id": "5334479"
+        },
+        {
+          "n": 19,
+          "title": "Master of Science",
+          "id": "5345580"
+        },
+        {
+          "n": 20,
+          "title": "Age of Energy",
+          "id": "5355878"
+        },
+        {
+          "n": 21,
+          "title": "100 Billion Volt",
+          "id": "5364051"
+        },
+        {
+          "n": 22,
+          "title": "Dr. Stone",
+          "id": "5372156"
+        }
+      ]
+    },
+    "4": {
+      "label": "🔬 S4 — Science Future",
+      "title": "Saison 4 — Science Future",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Ryusui vs. Senku",
+          "id": "5794142"
+        },
+        {
+          "n": 2,
+          "title": "Science Journey",
+          "id": "5799707"
+        },
+        {
+          "n": 3,
+          "title": "Light Trap in the Darkness",
+          "id": "5805204"
+        },
+        {
+          "n": 4,
+          "title": "Dr. X",
+          "id": "5809812"
+        },
+        {
+          "n": 5,
+          "title": "Doctor vs. Doctor",
+          "id": "5816905"
+        },
+        {
+          "n": 6,
+          "title": "Science Is Elegant",
+          "id": "5824077"
+        },
+        {
+          "n": 7,
+          "title": "The Two Scientists",
+          "id": "5830165"
+        },
+        {
+          "n": 8,
+          "title": "Lock On",
+          "id": "5837584"
+        },
+        {
+          "n": 9,
+          "title": "Light of Science",
+          "id": "5843699"
+        },
+        {
+          "n": 10,
+          "title": "Dirty Roads",
+          "id": "5849903"
+        },
+        {
+          "n": 11,
+          "title": "Those Who Know the Rules",
+          "id": "5855583"
+        },
+        {
+          "n": 12,
+          "title": "Reunion",
+          "id": "5862166"
+        },
+        {
+          "n": 13,
+          "title": "Watching the Same Moon",
+          "id": "5959597"
+        },
+        {
+          "n": 14,
+          "title": "Earth Race",
+          "id": "5966790"
+        },
+        {
+          "n": 15,
+          "title": "The Escape",
+          "id": "5985022"
+        },
+        {
+          "n": 16,
+          "title": "Medusa Mechanism",
+          "id": "5994905"
+        },
+        {
+          "n": 17,
+          "title": "Sickening Yet Beautiful",
+          "id": "6000668"
+        },
+        {
+          "n": 18,
+          "title": "Diamond Heart",
+          "id": "6000671"
+        },
+        {
+          "n": 19,
+          "title": "Stone Sanctuary",
+          "id": "6011085"
+        },
+        {
+          "n": 20,
+          "title": "What I Once Sought to Destroy",
+          "id": "6011144"
+        },
+        {
+          "n": 21,
+          "title": "Our Dr. Stone",
+          "id": "6011145"
+        },
+        {
+          "n": 22,
+          "title": "Until We Meet Again",
+          "id": "6011146"
+        },
+        {
+          "n": 23,
+          "title": "Scientist, All Alone",
+          "id": "6015692"
+        },
+        {
+          "n": 24,
+          "title": "Whole New World",
+          "id": "6024648"
+        },
+        {
+          "n": 25,
+          "title": "Future Engine",
+          "id": null
+        },
+        {
+          "n": 26,
+          "title": "Fire",
+          "id": null
+        },
+        {
+          "n": 27,
+          "title": "The Universe Is Written in Mathematics",
+          "id": "6173581"
+        },
+        {
+          "n": 28,
+          "title": "Dawn of the Computer",
+          "id": "6178095"
+        },
+        {
+          "n": 29,
+          "title": "The Truth About the Rocket",
+          "id": "6182318"
+        },
+        {
+          "n": 30,
+          "title": "Stone to Space",
+          "id": "6187080"
+        },
+        {
+          "n": 31,
+          "title": "Unknown Known",
+          "id": "6191896"
+        },
+        {
+          "n": 32,
+          "title": "Challengers of Science",
+          "id": "6197666"
+        },
+        {
+          "n": 33,
+          "title": "Wanting Everything",
+          "id": "6204650"
+        },
+        {
+          "n": 34,
+          "title": "Countdown",
+          "id": "6210721"
+        },
+        {
+          "n": 35,
+          "title": "Giant Leap",
+          "id": "6230531"
+        },
+        {
+          "n": 36,
+          "title": "Why Man",
+          "id": "6230539"
+        },
+        {
+          "n": 37,
+          "title": "Ushers of an Exhilarating Future",
+          "id": "6230546"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "lookism",
+  "title": "Lookism",
+  "poster": "https://image.tmdb.org/t/p/original/3b3C7FWpQQa15J02x2zp53D8imF.jpg",
+  "banner": "https://leisurebyte.com/wp-content/uploads/2022/09/LookismOfficialTeaserNetflix-1-1024x576.jpg",
+  "bannerFallback": "https://cdn.myanimelist.net/images/anime/1448/127167.jpg",
+  "description": "Daniel Park, lycéen victime de harcèlement en raison de son physique, se réveille un matin dans un corps complètement différent : grand, musclé et d'une beauté exceptionnelle. Il découvre qu'il peut basculer entre ses deux corps — l'un dort pendant que l'autre est éveillé. Dans son nouveau corps, il intègre un lycée d'arts et se retrouve soudainement populaire et admiré. Une comédie dramatique percutante qui explore sans détour les injustices du jugement sur l'apparence physique, la valeur sociale et la quête d'identité.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Tranche de vie",
+    "Webtoon"
+  ],
+  "rating": "7.5",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Look<span>ism</span>",
+  "stats": [
+    {
+      "v": "8",
+      "l": "Épisodes VF"
+    },
+    {
+      "v": "7.5",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "30 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.5"
+    },
+    {
+      "text": "🎬 8 Épisodes"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "💪 Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Nouveau Corps",
+          "id": "4973008"
+        },
+        {
+          "n": 2,
+          "title": "Deux Vies",
+          "id": "4973009"
+        },
+        {
+          "n": 3,
+          "title": "La Popularité",
+          "id": "4973011"
+        },
+        {
+          "n": 4,
+          "title": "Les Apparences Trompeuses",
+          "id": "4973013"
+        },
+        {
+          "n": 5,
+          "title": "Le Vrai Visage",
+          "id": "4973015"
+        },
+        {
+          "n": 6,
+          "title": "Amis ou Ennemis",
+          "id": "4973016"
+        },
+        {
+          "n": 7,
+          "title": "Se Battre pour Exister",
+          "id": "4973018"
+        },
+        {
+          "n": 8,
+          "title": "Ce Que Je Vaux Vraiment",
+          "id": "4973019"
+        }
+      ]
+    }
+  }
+}

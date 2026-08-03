@@ -1,0 +1,253 @@
+{
+  "id": "death-note",
+  "title": "Death Note",
+  "poster": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/death-note.jpg",
+  "banner": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/death-note.jpg",
+  "bannerFallback": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+  "description": "Light Yagami, lycéen brillant, trouve un carnet mystérieux : le Death Note. Quiconque dont le nom y est inscrit mourra. Light décide de l'utiliser pour purger le monde des criminels et devenir un dieu de justice. Mais le détective légendaire L est sur sa piste.",
+  "genres": [
+    "Thriller",
+    "Psychologique",
+    "Surnaturel",
+    "Mystère",
+    "Shounen"
+  ],
+  "rating": "9.0",
+  "year": "2006",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Death <span>Note</span>",
+  "stats": [
+    {
+      "v": "37",
+      "l": "Épisodes VF"
+    },
+    {
+      "v": "9.0",
+      "l": "Note"
+    },
+    {
+      "v": "2006",
+      "l": "Année"
+    },
+    {
+      "v": "23 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "9.0"
+    },
+    {
+      "text": "🎬 37 Épisodes"
+    },
+    {
+      "text": "📅 2006–2007"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "📓 Partie 1 — L",
+      "title": "Partie 1 — L",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Rebirth",
+          "id": "4745088"
+        },
+        {
+          "n": 2,
+          "title": "Confrontation",
+          "id": "4745089"
+        },
+        {
+          "n": 3,
+          "title": "Dealings",
+          "id": "4745090"
+        },
+        {
+          "n": 4,
+          "title": "Pursuit",
+          "id": "4745091"
+        },
+        {
+          "n": 5,
+          "title": "Tactics",
+          "id": "4745092"
+        },
+        {
+          "n": 6,
+          "title": "Unraveling",
+          "id": "4745094"
+        },
+        {
+          "n": 7,
+          "title": "Overcast",
+          "id": "4745097"
+        },
+        {
+          "n": 8,
+          "title": "Glare",
+          "id": "4745099"
+        },
+        {
+          "n": 9,
+          "title": "Encounter",
+          "id": "4745101"
+        },
+        {
+          "n": 10,
+          "title": "Doubt",
+          "id": "4745102"
+        },
+        {
+          "n": 11,
+          "title": "Assault",
+          "id": "4745103"
+        },
+        {
+          "n": 12,
+          "title": "Love",
+          "id": "4745104"
+        },
+        {
+          "n": 13,
+          "title": "Confession",
+          "id": "4745105"
+        },
+        {
+          "n": 14,
+          "title": "Friend",
+          "id": "4745106"
+        },
+        {
+          "n": 15,
+          "title": "Wager",
+          "id": "4745107"
+        },
+        {
+          "n": 16,
+          "title": "Decision",
+          "id": "4745108"
+        },
+        {
+          "n": 17,
+          "title": "Execution",
+          "id": "4745111"
+        },
+        {
+          "n": 18,
+          "title": "Ally",
+          "id": "4745113"
+        },
+        {
+          "n": 19,
+          "title": "Matsuda",
+          "id": "4745114"
+        },
+        {
+          "n": 20,
+          "title": "Makeshift",
+          "id": "4745115"
+        },
+        {
+          "n": 21,
+          "title": "Performance",
+          "id": "4745117"
+        },
+        {
+          "n": 22,
+          "title": "Guidance",
+          "id": "4745118"
+        },
+        {
+          "n": 23,
+          "title": "Frenzy",
+          "id": "4745125"
+        },
+        {
+          "n": 24,
+          "title": "Revival",
+          "id": "4745134"
+        }
+      ]
+    },
+    "2": {
+      "label": "🔍 Partie 2 — Near & Mello",
+      "title": "Partie 2 — Near & Mello",
+      "episodes": [
+        {
+          "n": 25,
+          "title": "Silence",
+          "id": "4745137"
+        },
+        {
+          "n": 26,
+          "title": "Renewal",
+          "id": "4745138"
+        },
+        {
+          "n": 27,
+          "title": "Abduction",
+          "id": "4745140"
+        },
+        {
+          "n": 28,
+          "title": "Impatience",
+          "id": "4745144"
+        },
+        {
+          "n": 29,
+          "title": "Father",
+          "id": "4745149"
+        },
+        {
+          "n": 30,
+          "title": "Justice",
+          "id": "4745153"
+        },
+        {
+          "n": 31,
+          "title": "Reg",
+          "id": "4745156"
+        },
+        {
+          "n": 32,
+          "title": "Potentia Moriendi",
+          "id": "4745157"
+        },
+        {
+          "n": 33,
+          "title": "Scorn",
+          "id": "4745162"
+        },
+        {
+          "n": 34,
+          "title": "Vigilance",
+          "id": "4745164"
+        },
+        {
+          "n": 35,
+          "title": "Malice",
+          "id": "4745165"
+        },
+        {
+          "n": 36,
+          "title": "1.28",
+          "id": "4745169"
+        },
+        {
+          "n": 37,
+          "title": "New World",
+          "id": "4745172"
+        }
+      ]
+    }
+  }
+}
