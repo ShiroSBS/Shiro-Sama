@@ -1,0 +1,248 @@
+{
+  "id": "oshi-no-ko",
+  "title": "Oshi no Ko",
+  "poster": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_xlarge/public/product-images/csm-tv/oshi-no-ko.jpg",
+  "banner": "https://image.animationdigitalnetwork.com/license/oshinoko/pv/web/pv1_1920x1080.jpg?",
+  "bannerFallback": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_xlarge/public/product-images/csm-tv/oshi-no-ko.jpg",
+  "description": "Gorou, gynécologue passionné par l'idole Ai Hoshino, se retrouve témoin malgré lui de sa grossesse secrète. Réincarnés en tant que ses jumeaux Aqua et Ruby, lui et une autre âme replongent dans les coulisses impitoyables du show-business japonais, entre rêves d'idoles, mensonges du métier, ambitions dévorantes et vengeance à accomplir.",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Tranche de vie",
+    "Seinen"
+  ],
+  "rating": "8.5",
+  "year": "2023",
+  "status": "cours",
+  "statusLabel": "En cours",
+  "heroTitle": "Oshi no <span>Ko</span>",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.5",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.5"
+    },
+    {
+      "text": "🎬 3 Saisons · 35 Éps"
+    },
+    {
+      "text": "📅 2023–2026"
+    },
+    {
+      "color": "#4ade80",
+      "text": "● En cours"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "🎤 Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Mother and Children",
+          "id": "5244555"
+        },
+        {
+          "n": 2,
+          "title": "Third Option",
+          "id": "5244558"
+        },
+        {
+          "n": 3,
+          "title": "Manga-Based TV Drama",
+          "id": "5244560"
+        },
+        {
+          "n": 4,
+          "title": "Actors",
+          "id": "5244561"
+        },
+        {
+          "n": 5,
+          "title": "Reality Dating Show",
+          "id": "5244563"
+        },
+        {
+          "n": 6,
+          "title": "Egosurfing",
+          "id": "5244564"
+        },
+        {
+          "n": 7,
+          "title": "Buzz",
+          "id": "5244565"
+        },
+        {
+          "n": 8,
+          "title": "First Time",
+          "id": "5244566"
+        },
+        {
+          "n": 9,
+          "title": "B Komachi",
+          "id": "5244568"
+        },
+        {
+          "n": 10,
+          "title": "Pressure",
+          "id": "5244570"
+        },
+        {
+          "n": 11,
+          "title": "Idol",
+          "id": "5244571"
+        }
+      ]
+    },
+    "2": {
+      "label": "🗡️ S2 — Tokyo Blade",
+      "title": "Saison 2 — Tokyo Blade",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Tokyo Blade",
+          "id": "5808935"
+        },
+        {
+          "n": 2,
+          "title": "Game of Telephone",
+          "id": "5808936"
+        },
+        {
+          "n": 3,
+          "title": "Rewriting",
+          "id": "5808938"
+        },
+        {
+          "n": 4,
+          "title": "Emotional Acting",
+          "id": "5808939"
+        },
+        {
+          "n": 5,
+          "title": "The Curtain Rises",
+          "id": "5808942"
+        },
+        {
+          "n": 6,
+          "title": "Growth",
+          "id": "5808944"
+        },
+        {
+          "n": 7,
+          "title": "Sun",
+          "id": "5808947"
+        },
+        {
+          "n": 8,
+          "title": "Trigger",
+          "id": "5808949"
+        },
+        {
+          "n": 9,
+          "title": "Dream",
+          "id": "5808950"
+        },
+        {
+          "n": 10,
+          "title": "Liberation",
+          "id": "5808952"
+        },
+        {
+          "n": 11,
+          "title": "Freedom",
+          "id": "5808954"
+        },
+        {
+          "n": 12,
+          "title": "Reunion",
+          "id": "5808956"
+        },
+        {
+          "n": 13,
+          "title": "Wish",
+          "id": "5808957"
+        }
+      ]
+    },
+    "3": {
+      "label": "🎬 S3 — Ai's Secret",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Down Bad",
+          "id": "6220232"
+        },
+        {
+          "n": 2,
+          "title": "Calculating",
+          "id": "6220240"
+        },
+        {
+          "n": 3,
+          "title": "Correctness",
+          "id": "6220244"
+        },
+        {
+          "n": 4,
+          "title": "Blind",
+          "id": "6220246"
+        },
+        {
+          "n": 5,
+          "title": "Casting",
+          "id": "6220249"
+        },
+        {
+          "n": 6,
+          "title": "Idols and Relationships",
+          "id": "6220251"
+        },
+        {
+          "n": 7,
+          "title": "Breakdown",
+          "id": "6220266"
+        },
+        {
+          "n": 8,
+          "title": "Plan",
+          "id": "6220286"
+        },
+        {
+          "n": 9,
+          "title": "Greed and Passion",
+          "id": "6220300"
+        },
+        {
+          "n": 10,
+          "title": "Private Audition",
+          "id": "6220304"
+        },
+        {
+          "n": 11,
+          "title": "The Beginning",
+          "id": "6220313"
+        }
+      ]
+    }
+  }
+}
