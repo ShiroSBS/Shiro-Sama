@@ -16,22 +16,22 @@
     "Fiction",
     "Fantastique"
   ],
-  "rating": "?",
-  "year": "????",
+  "rating": "8.1",
+  "year": "2017",
   "status": "cours",
   "statusLabel": "En cours",
   "heroTitle": "Black Clover",
   "stats": [
     {
-      "v": "6",
+      "v": "1",
       "l": "Saisons"
     },
     {
-      "v": "?",
+      "v": "8.1",
       "l": "Note"
     },
     {
-      "v": "????",
+      "v": "2017",
       "l": "Année"
     },
     {
@@ -42,13 +42,13 @@
   "heroMeta": [
     {
       "icon": "⭐",
-      "text": "?"
+      "text": "8.1"
     },
     {
-      "text": "🎬 6 Saisons · 303 Éps"
+      "text": "🎬 1 Saison · 132 Éps"
     },
     {
-      "text": "📅 ????"
+      "text": "📅 2017"
     },
     {
       "color": "#4ade80",
@@ -56,1552 +56,671 @@
     }
   ],
   "seasons": {
-    "1": {
-      "label": "Saison 1",
-      "title": "Avec Fillers",
-      "episodes": [
-        {
-          "n": 1,
-          "title": "Episode 1",
-          "id": "3299386"
-        },
-        {
-          "n": 2,
-          "title": "Episode 2",
-          "id": "3299387"
-        },
-        {
-          "n": 3,
-          "title": "Episode 3",
-          "id": "3299388"
-        },
-        {
-          "n": 4,
-          "title": "Episode 4",
-          "id": "3299389"
-        },
-        {
-          "n": 5,
-          "title": "Episode 5",
-          "id": "3299390"
-        },
-        {
-          "n": 6,
-          "title": "Episode 6",
-          "id": "3299391"
-        },
-        {
-          "n": 7,
-          "title": "Episode 7",
-          "id": "3299392"
-        },
-        {
-          "n": 8,
-          "title": "Episode 8",
-          "id": "3299393"
-        },
-        {
-          "n": 9,
-          "title": "Episode 9",
-          "id": "3299394"
-        },
-        {
-          "n": 10,
-          "title": "Episode 10",
-          "id": "3299395"
-        },
-        {
-          "n": 11,
-          "title": "Episode 11",
-          "id": "3299396"
-        },
-        {
-          "n": 12,
-          "title": "Episode 12",
-          "id": "3299397"
-        },
-        {
-          "n": 13,
-          "title": "Episode 13",
-          "id": "3299398"
-        },
-        {
-          "n": 14,
-          "title": "Episode 14",
-          "id": "3299399"
-        },
-        {
-          "n": 15,
-          "title": "Episode 15",
-          "id": "3299400"
-        },
-        {
-          "n": 16,
-          "title": "Episode 16",
-          "id": "3299401"
-        },
-        {
-          "n": 17,
-          "title": "Episode 17",
-          "id": "3299402"
-        },
-        {
-          "n": 18,
-          "title": "Episode 18",
-          "id": "3299403"
-        },
-        {
-          "n": 19,
-          "title": "Episode 19",
-          "id": "3299404"
-        },
-        {
-          "n": 20,
-          "title": "Episode 20",
-          "id": "3299405"
-        },
-        {
-          "n": 21,
-          "title": "Episode 21",
-          "id": "3299408"
-        },
-        {
-          "n": 22,
-          "title": "Episode 22",
-          "id": "3299412"
-        },
-        {
-          "n": 23,
-          "title": "Episode 23",
-          "id": "3299414"
-        },
-        {
-          "n": 24,
-          "title": "Episode 24",
-          "id": "3299417"
-        },
-        {
-          "n": 25,
-          "title": "Episode 25",
-          "id": "3299420"
-        },
-        {
-          "n": 26,
-          "title": "Episode 26",
-          "id": "3299424"
-        },
-        {
-          "n": 27,
-          "title": "Episode 27",
-          "id": "3299426"
-        },
-        {
-          "n": 28,
-          "title": "Episode 28",
-          "id": "3300521"
-        },
-        {
-          "n": 29,
-          "title": "Episode 29",
-          "id": "3299429"
-        },
-        {
-          "n": 30,
-          "title": "Episode 30",
-          "id": "3299430"
-        },
-        {
-          "n": 31,
-          "title": "Episode 31",
-          "id": "3300476"
-        },
-        {
-          "n": 32,
-          "title": "Episode 32",
-          "id": "3397562"
-        },
-        {
-          "n": 33,
-          "title": "Episode 33",
-          "id": "3397564"
-        },
-        {
-          "n": 34,
-          "title": "Episode 34",
-          "id": "3397565"
-        },
-        {
-          "n": 35,
-          "title": "Episode 35",
-          "id": "3397567"
-        },
-        {
-          "n": 36,
-          "title": "Episode 36",
-          "id": "3397568"
-        },
-        {
-          "n": 37,
-          "title": "Episode 37",
-          "id": "3397569"
-        },
-        {
-          "n": 38,
-          "title": "Episode 38",
-          "id": "3397571"
-        },
-        {
-          "n": 39,
-          "title": "Episode 39",
-          "id": "3397572"
-        },
-        {
-          "n": 40,
-          "title": "Episode 40",
-          "id": "3397573"
-        },
-        {
-          "n": 41,
-          "title": "Episode 41",
-          "id": "3397575"
-        },
-        {
-          "n": 42,
-          "title": "Episode 42",
-          "id": "3419666"
-        },
-        {
-          "n": 43,
-          "title": "Episode 43",
-          "id": "3419667"
-        },
-        {
-          "n": 44,
-          "title": "Episode 44",
-          "id": "3419669"
-        },
-        {
-          "n": 45,
-          "title": "Episode 45",
-          "id": "3419670"
-        },
-        {
-          "n": 46,
-          "title": "Episode 46",
-          "id": "3432066"
-        },
-        {
-          "n": 47,
-          "title": "Episode 47",
-          "id": "3432067"
-        },
-        {
-          "n": 48,
-          "title": "Episode 48",
-          "id": "3452410"
-        },
-        {
-          "n": 49,
-          "title": "Episode 49",
-          "id": "3452412"
-        },
-        {
-          "n": 50,
-          "title": "Episode 50",
-          "id": "3452414"
-        },
-        {
-          "n": 51,
-          "title": "Episode 51",
-          "id": "3456129"
-        },
-        {
-          "n": 52,
-          "title": "Episode 52",
-          "id": "3460184"
-        },
-        {
-          "n": 53,
-          "title": "Episode 53",
-          "id": "3464546"
-        },
-        {
-          "n": 54,
-          "title": "Episode 54",
-          "id": "3469128"
-        },
-        {
-          "n": 55,
-          "title": "Episode 55",
-          "id": "3473548"
-        },
-        {
-          "n": 56,
-          "title": "Episode 56",
-          "id": "3477919"
-        },
-        {
-          "n": 57,
-          "title": "Episode 57",
-          "id": "3482165"
-        },
-        {
-          "n": 58,
-          "title": "Episode 58",
-          "id": "3486616"
-        },
-        {
-          "n": 59,
-          "title": "Episode 59",
-          "id": "3490278"
-        },
-        {
-          "n": 60,
-          "title": "Episode 60",
-          "id": "3494255"
-        },
-        {
-          "n": 61,
-          "title": "Episode 61",
-          "id": "3498692"
-        },
-        {
-          "n": 62,
-          "title": "Episode 62",
-          "id": "3503458"
-        },
-        {
-          "n": 63,
-          "title": "Episode 63",
-          "id": "3508496"
-        },
-        {
-          "n": 64,
-          "title": "Episode 64",
-          "id": "3513045"
-        },
-        {
-          "n": 65,
-          "title": "Episode 65",
-          "id": "3523014"
-        },
-        {
-          "n": 66,
-          "title": "Episode 66",
-          "id": "3529574"
-        },
-        {
-          "n": 67,
-          "title": "Episode 67",
-          "id": "3534152"
-        },
-        {
-          "n": 68,
-          "title": "Episode 68",
-          "id": "3539142"
-        },
-        {
-          "n": 69,
-          "title": "Episode 69",
-          "id": "3543406"
-        },
-        {
-          "n": 70,
-          "title": "Episode 70",
-          "id": "3548275"
-        },
-        {
-          "n": 71,
-          "title": "Episode 71",
-          "id": "3552694"
-        },
-        {
-          "n": 72,
-          "title": "Episode 72",
-          "id": "3557583"
-        },
-        {
-          "n": 73,
-          "title": "Episode 73",
-          "id": "3562781"
-        },
-        {
-          "n": 74,
-          "title": "Episode 74",
-          "id": "3567600"
-        },
-        {
-          "n": 75,
-          "title": "Episode 75",
-          "id": "3572984"
-        },
-        {
-          "n": 76,
-          "title": "Episode 76",
-          "id": "3578539"
-        },
-        {
-          "n": 77,
-          "title": "Episode 77",
-          "id": "3584602"
-        },
-        {
-          "n": 78,
-          "title": "Episode 78",
-          "id": "3589067"
-        },
-        {
-          "n": 79,
-          "title": "Episode 79",
-          "id": "3593775"
-        },
-        {
-          "n": 80,
-          "title": "Episode 80",
-          "id": "3598236"
-        },
-        {
-          "n": 81,
-          "title": "Episode 81",
-          "id": "3602799"
-        },
-        {
-          "n": 82,
-          "title": "Episode 82",
-          "id": "3607788"
-        },
-        {
-          "n": 83,
-          "title": "Episode 83",
-          "id": "3611847"
-        },
-        {
-          "n": 84,
-          "title": "Episode 84",
-          "id": "3616257"
-        },
-        {
-          "n": 85,
-          "title": "Episode 85",
-          "id": "3621475"
-        },
-        {
-          "n": 86,
-          "title": "Episode 86",
-          "id": "3626014"
-        },
-        {
-          "n": 87,
-          "title": "Episode 87",
-          "id": "3630780"
-        },
-        {
-          "n": 88,
-          "title": "Episode 88",
-          "id": "3634890"
-        },
-        {
-          "n": 89,
-          "title": "Episode 89",
-          "id": "3639409"
-        },
-        {
-          "n": 90,
-          "title": "Episode 90",
-          "id": "3644196"
-        },
-        {
-          "n": 91,
-          "title": "Episode 91",
-          "id": "3648106"
-        },
-        {
-          "n": 92,
-          "title": "Episode 92",
-          "id": "3652084"
-        },
-        {
-          "n": 93,
-          "title": "Episode 93",
-          "id": "3656300"
-        },
-        {
-          "n": 94,
-          "title": "Episode 94",
-          "id": "3663767"
-        },
-        {
-          "n": 95,
-          "title": "Episode 95",
-          "id": "4668839"
-        },
-        {
-          "n": 96,
-          "title": "Episode 96",
-          "id": "3672724"
-        },
-        {
-          "n": 97,
-          "title": "Episode 97",
-          "id": "3677302"
-        },
-        {
-          "n": 98,
-          "title": "Episode 98",
-          "id": "3688028"
-        },
-        {
-          "n": 99,
-          "title": "Episode 99",
-          "id": "3692189"
-        },
-        {
-          "n": 100,
-          "title": "Episode 100",
-          "id": "3697363"
-        },
-        {
-          "n": 101,
-          "title": "Episode 101",
-          "id": "3702907"
-        },
-        {
-          "n": 102,
-          "title": "Episode 102",
-          "id": "3707020"
-        },
-        {
-          "n": 103,
-          "title": "Episode 103",
-          "id": "3711147"
-        },
-        {
-          "n": 104,
-          "title": "Episode 104",
-          "id": "3717905"
-        },
-        {
-          "n": 105,
-          "title": "Episode 105",
-          "id": "3722130"
-        },
-        {
-          "n": 106,
-          "title": "Episode 106",
-          "id": "3726690"
-        },
-        {
-          "n": 107,
-          "title": "Episode 107",
-          "id": "3732324"
-        },
-        {
-          "n": 108,
-          "title": "Episode 108",
-          "id": "3737878"
-        },
-        {
-          "n": 109,
-          "title": "Episode 109",
-          "id": "3744040"
-        },
-        {
-          "n": 110,
-          "title": "Episode 110",
-          "id": "3752165"
-        },
-        {
-          "n": 111,
-          "title": "Episode 111",
-          "id": "3758071"
-        },
-        {
-          "n": 112,
-          "title": "Episode 112",
-          "id": "3763271"
-        },
-        {
-          "n": 113,
-          "title": "Episode 113",
-          "id": "3768112"
-        },
-        {
-          "n": 114,
-          "title": "Episode 114",
-          "id": "3772981"
-        },
-        {
-          "n": 115,
-          "title": "Episode 115",
-          "id": "3777313"
-        },
-        {
-          "n": 116,
-          "title": "Episode 116",
-          "id": "3791608"
-        },
-        {
-          "n": 117,
-          "title": "Episode 117",
-          "id": "3803504"
-        },
-        {
-          "n": 118,
-          "title": "Episode 118",
-          "id": "3813050"
-        },
-        {
-          "n": 119,
-          "title": "Episode 119",
-          "id": "3819756"
-        },
-        {
-          "n": 120,
-          "title": "Episode 120",
-          "id": "3829590"
-        },
-        {
-          "n": 121,
-          "title": "Episode 121",
-          "id": "3842264"
-        },
-        {
-          "n": 122,
-          "title": "Episode 122",
-          "id": "3851095"
-        },
-        {
-          "n": 123,
-          "title": "Episode 123",
-          "id": "3857312"
-        },
-        {
-          "n": 124,
-          "title": "Episode 124",
-          "id": "3864422"
-        },
-        {
-          "n": 125,
-          "title": "Episode 125",
-          "id": "3870045"
-        },
-        {
-          "n": 126,
-          "title": "Episode 126",
-          "id": "3874349"
-        },
-        {
-          "n": 127,
-          "title": "Episode 127",
-          "id": "3879616"
-        },
-        {
-          "n": 128,
-          "title": "Episode 128",
-          "id": "3887984"
-        },
-        {
-          "n": 129,
-          "title": "Episode 129",
-          "id": "3896242"
-        },
-        {
-          "n": 130,
-          "title": "Episode 130",
-          "id": "3905395"
-        },
-        {
-          "n": 131,
-          "title": "Episode 131",
-          "id": "3915798"
-        },
-        {
-          "n": 132,
-          "title": "Episode 132",
-          "id": "3925410"
-        },
-        {
-          "n": 133,
-          "title": "Episode 133",
-          "id": "4003073"
-        },
-        {
-          "n": 134,
-          "title": "Episode 134",
-          "id": "4011115"
-        },
-        {
-          "n": 135,
-          "title": "Episode 135",
-          "id": "4018349"
-        },
-        {
-          "n": 136,
-          "title": "Episode 136",
-          "id": "4024399"
-        },
-        {
-          "n": 137,
-          "title": "Episode 137",
-          "id": "4029688"
-        },
-        {
-          "n": 138,
-          "title": "Episode 138",
-          "id": "4036934"
-        },
-        {
-          "n": 139,
-          "title": "Episode 139",
-          "id": "4044787"
-        },
-        {
-          "n": 140,
-          "title": "Episode 140",
-          "id": "4052456"
-        },
-        {
-          "n": 141,
-          "title": "Episode 141",
-          "id": "4060588"
-        },
-        {
-          "n": 142,
-          "title": "Episode 142",
-          "id": "4067914"
-        },
-        {
-          "n": 143,
-          "title": "Episode 143",
-          "id": "4079853"
-        },
-        {
-          "n": 144,
-          "title": "Episode 144",
-          "id": "4090154"
-        },
-        {
-          "n": 145,
-          "title": "Episode 145",
-          "id": "4096498"
-        },
-        {
-          "n": 146,
-          "title": "Episode 146",
-          "id": "4103327"
-        },
-        {
-          "n": 147,
-          "title": "Episode 147",
-          "id": "4109556"
-        },
-        {
-          "n": 148,
-          "title": "Episode 148",
-          "id": "4115826"
-        },
-        {
-          "n": 149,
-          "title": "Episode 149",
-          "id": "4122203"
-        },
-        {
-          "n": 150,
-          "title": "Episode 150",
-          "id": "4129994"
-        },
-        {
-          "n": 151,
-          "title": "Episode 151",
-          "id": "4136234"
-        },
-        {
-          "n": 152,
-          "title": "Episode 152",
-          "id": "4143163"
-        },
-        {
-          "n": 153,
-          "title": "Episode 153",
-          "id": "4152137"
-        },
-        {
-          "n": 154,
-          "title": "Episode 154",
-          "id": "4304937"
-        },
-        {
-          "n": 155,
-          "title": "Episode 155",
-          "id": "4166611"
-        },
-        {
-          "n": 156,
-          "title": "Episode 156",
-          "id": "4174012"
-        },
-        {
-          "n": 157,
-          "title": "Episode 157",
-          "id": "4182841"
-        },
-        {
-          "n": 158,
-          "title": "Episode 158",
-          "id": "4202050"
-        },
-        {
-          "n": 159,
-          "title": "Episode 159",
-          "id": "4207604"
-        },
-        {
-          "n": 160,
-          "title": "Episode 160",
-          "id": "4212344"
-        },
-        {
-          "n": 161,
-          "title": "Episode 161",
-          "id": "4216725"
-        },
-        {
-          "n": 162,
-          "title": "Episode 162",
-          "id": "4223151"
-        },
-        {
-          "n": 163,
-          "title": "Episode 163",
-          "id": "4228899"
-        },
-        {
-          "n": 164,
-          "title": "Episode 164",
-          "id": "4234004"
-        },
-        {
-          "n": 165,
-          "title": "Episode 165",
-          "id": "4242984"
-        },
-        {
-          "n": 166,
-          "title": "Episode 166",
-          "id": "4249999"
-        },
-        {
-          "n": 167,
-          "title": "Episode 167",
-          "id": "4257363"
-        },
-        {
-          "n": 168,
-          "title": "Episode 168",
-          "id": "4262182"
-        },
-        {
-          "n": 169,
-          "title": "Episode 169",
-          "id": "4267550"
-        },
-        {
-          "n": 170,
-          "title": "Episode 170",
-          "id": "4282228"
-        },
-        {
-          "n": 171,
-          "title": "Episode 171",
-          "id": "4668837"
-        }
-      ]
-    },
     "2": {
       "label": "Saison 2",
       "title": "Sans Fillers",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Asta et Yuno",
           "id": "3299386"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Le Serment",
           "id": "3299387"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le Test de Recrutement",
           "id": "3299389"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Premiers Pas",
           "id": "3299390"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le Taureau Noir",
           "id": "3299391"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La seconde Recrue",
           "id": "3299392"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Première Mission",
           "id": "3299393"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La Bête",
           "id": "3299394"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le Défenseur",
           "id": "3299395"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Visite à la Basse-Ville",
           "id": "3299396"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Rencontre avec l'Empereur-Mage",
           "id": "3299397"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Donjon",
           "id": "3299399"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Le Mage de Diamond",
           "id": "3299400"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Solidarité",
           "id": "3299401"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Le Destructeur",
           "id": "3299402"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Réminescences",
           "id": "3299403"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Effondrement et sauvetage",
           "id": "3299404"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Rassemblement à la cité royale",
           "id": "3299405"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "La cité royale s'embrase",
           "id": "3299408"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Des sorts à la pelle",
           "id": "3299412"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le Lion flamboyant",
           "id": "3299414"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Blackout",
           "id": "3299417"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Dans l'adversité",
           "id": "3299420"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Comme un animal blessé",
           "id": "3299424"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Lumière",
           "id": "3299426"
         },
         {
           "n": 26,
-          "title": "Episode 26",
+          "title": "L'élu de mon cœur",
           "id": "3300521"
         },
         {
           "n": 27,
-          "title": "Episode 27",
+          "title": "Magie de miroir",
           "id": "3299430"
         },
         {
           "n": 28,
-          "title": "Episode 28",
+          "title": "Poursuite dans la neige",
           "id": "3300476"
         },
         {
           "n": 29,
-          "title": "Episode 29",
+          "title": "Pousses de trèfle",
           "id": "3397562"
         },
         {
           "n": 30,
-          "title": "Episode 30",
+          "title": "Un jour, aimer quelqu'un",
           "id": "3397564"
         },
         {
           "n": 31,
-          "title": "Episode 31",
+          "title": "Magie de lumière VS Magie de ténèbres",
           "id": "3397565"
         },
         {
           "n": 32,
-          "title": "Episode 32",
+          "title": "Lumière punitive",
           "id": "3397567"
         },
         {
           "n": 33,
-          "title": "Episode 33",
+          "title": "Trois yeux",
           "id": "3397568"
         },
         {
           "n": 34,
-          "title": "Episode 34",
+          "title": "Le sans-magie",
           "id": "3397569"
         },
         {
           "n": 35,
-          "title": "Episode 35",
+          "title": "La réunion des capitaines",
           "id": "3397571"
         },
         {
           "n": 36,
-          "title": "Episode 36",
+          "title": "Le salut des trois feuilles",
           "id": "3397572"
         },
         {
           "n": 37,
-          "title": "Episode 37",
+          "title": "Les taureaux noirs à la plage",
           "id": "3397573"
         },
         {
           "n": 38,
-          "title": "Episode 38",
+          "title": "La fille de l'eau",
           "id": "3397575"
         },
         {
           "n": 39,
-          "title": "Episode 39",
+          "title": "Le sanctuaire englouti",
           "id": "3419666"
         },
         {
           "n": 40,
-          "title": "Episode 40",
+          "title": "Sanctuary Battle Royale",
           "id": "3419667"
         },
         {
           "n": 41,
-          "title": "Episode 41",
+          "title": "L'enflammé et l'électrisé",
           "id": "3419669"
         },
         {
           "n": 42,
-          "title": "Episode 42",
+          "title": "Obstiné",
           "id": "3419670"
         },
         {
           "n": 43,
-          "title": "Episode 43",
+          "title": "L'éveil",
           "id": "3432066"
         },
         {
           "n": 44,
-          "title": "Episode 44",
+          "title": "Ma seule arme",
           "id": "3432067"
         },
         {
           "n": 45,
-          "title": "Episode 45",
+          "title": "Espoir VS désespoir",
           "id": "3452410"
         },
         {
           "n": 46,
-          "title": "Episode 46",
+          "title": "Au-delà des limites",
           "id": "3452412"
         },
         {
           "n": 47,
-          "title": "Episode 47",
+          "title": "Au bout du combat, la fin du désespoir",
           "id": "3452414"
         },
         {
           "n": 48,
-          "title": "Episode 48",
+          "title": "La preuve",
           "id": "3456129"
         },
         {
           "n": 49,
-          "title": "Episode 49",
+          "title": "Le plus fort l'emporte",
           "id": "3460184"
         },
         {
           "n": 50,
-          "title": "Episode 50",
+          "title": "Derrière le masque",
           "id": "3464546"
         },
         {
           "n": 51,
-          "title": "Episode 51",
+          "title": "Plus jamais",
           "id": "3469128"
         },
         {
           "n": 52,
-          "title": "Episode 52",
+          "title": "Un homme nommé Fanzell",
           "id": "3473548"
         },
         {
           "n": 53,
-          "title": "Episode 53",
+          "title": "Un homme nommé Fanzell : suite",
           "id": "3477919"
         },
         {
           "n": 54,
-          "title": "Episode 54",
+          "title": "Infiltration",
           "id": "3482165"
         },
         {
           "n": 55,
-          "title": "Episode 55",
+          "title": "Dans le feu de l'action",
           "id": "3486616"
         },
         {
           "n": 56,
-          "title": "Episode 56",
+          "title": "Les flammes de la haine",
           "id": "3490278"
         },
         {
           "n": 57,
-          "title": "Episode 57",
+          "title": "Pénitence",
           "id": "3494255"
         },
         {
           "n": 58,
-          "title": "Episode 58",
+          "title": "Le monde promis",
           "id": "3498692"
         },
         {
           "n": 59,
-          "title": "Episode 59",
+          "title": "Mutuellement",
           "id": "3503458"
         },
         {
           "n": 60,
-          "title": "Episode 60",
+          "title": "Moins que rien",
           "id": "3508496"
         },
         {
           "n": 61,
-          "title": "Episode 61",
+          "title": "Le fil rouge du destin",
           "id": "3513045"
         },
         {
           "n": 62,
-          "title": "Episode 62",
+          "title": "Retour au bercail",
           "id": "3523014"
         },
         {
           "n": 63,
-          "title": "Episode 63",
+          "title": "Un double rencard animé",
           "id": "3534152"
         },
         {
           "n": 64,
-          "title": "Episode 64",
+          "title": "La fille épineuse",
           "id": "3543406"
         },
         {
           "n": 65,
-          "title": "Episode 65",
+          "title": "Deux nouvelles stars",
           "id": "3548275"
         },
         {
           "n": 66,
-          "title": "Episode 66",
+          "title": "La lionne invaincue",
           "id": "3552694"
         },
         {
           "n": 67,
-          "title": "Episode 67",
+          "title": "Le feu de Saint-Elme",
           "id": "3557583"
         },
         {
           "n": 68,
-          "title": "Episode 68",
+          "title": "La sélection des chevaliers royaux",
           "id": "3562781"
         },
         {
           "n": 69,
-          "title": "Episode 69",
+          "title": "La floraison promise",
           "id": "3567600"
         },
         {
           "n": 70,
-          "title": "Episode 70",
+          "title": "Un combat acharné",
           "id": "3572984"
         },
         {
           "n": 71,
-          "title": "Episode 71",
+          "title": "Le Mage X",
           "id": "3578539"
         },
         {
           "n": 72,
-          "title": "Episode 72",
+          "title": "Règlement de Compte",
           "id": "3584602"
         },
         {
           "n": 73,
-          "title": "Episode 73",
+          "title": "Piège de Gueux",
           "id": "3589067"
         },
         {
           "n": 74,
-          "title": "Episode 74",
+          "title": "Racaille VS Boule de Muscles",
           "id": "3593775"
         },
         {
           "n": 75,
-          "title": "Episode 75",
+          "title": "Le Cadet Prodige VS L'Ainé Raté",
           "id": "3598236"
         },
         {
           "n": 76,
-          "title": "Episode 76",
+          "title": "Un Destin Tragique",
           "id": "3602799"
         },
         {
           "n": 77,
-          "title": "Episode 77",
+          "title": "Grave-toi ça dans le Crâne",
           "id": "3611847"
         },
         {
           "n": 78,
-          "title": "Episode 78",
+          "title": "Les Grands Vainqueurs",
           "id": "3616257"
         },
         {
           "n": 79,
-          "title": "Episode 79",
+          "title": "Mis à Nu",
           "id": "3621475"
         },
         {
           "n": 80,
-          "title": "Episode 80",
+          "title": "La composition des chevaliers royaux",
           "id": "3630780"
         },
         {
           "n": 81,
-          "title": "Episode 81",
+          "title": "À l'assaut de l'antre de l'ennemi",
           "id": "3634890"
         },
         {
           "n": 82,
-          "title": "Episode 82",
+          "title": "Le Siège du Taureau Noir",
           "id": "3639409"
         },
         {
           "n": 83,
-          "title": "Episode 83",
+          "title": "Un Combat Magique Titanesque",
           "id": "3644196"
         },
         {
           "n": 84,
-          "title": "Episode 84",
+          "title": "Mereoleona VS Ryah le Perfide",
           "id": "3648106"
         },
         {
           "n": 85,
-          "title": "Episode 85",
+          "title": "L'Empereur-Mage VS Le chef de l'œil maléfique",
           "id": "3652084"
         },
         {
           "n": 86,
-          "title": "Episode 86",
+          "title": "Julius Novachrono",
           "id": "3656300"
         },
         {
           "n": 87,
-          "title": "Episode 87",
+          "title": "Un Nouvel Avenir",
           "id": "3663767"
         },
         {
           "n": 88,
-          "title": "Episode 88",
+          "title": "Réincarnations",
           "id": "4668839"
         },
         {
           "n": 89,
-          "title": "Episode 89",
+          "title": "Le Capitaine du Taureau Noir VS La Rose écarlate",
           "id": "3672724"
         },
         {
           "n": 90,
-          "title": "Episode 90",
+          "title": "Infériorité Écrasante",
           "id": "3677302"
         },
         {
           "n": 91,
-          "title": "Episode 91",
+          "title": "Le Lion Endormi",
           "id": "3688028"
         },
         {
           "n": 92,
-          "title": "Episode 92",
+          "title": "La survie à tout prix",
           "id": "3692189"
         },
         {
           "n": 93,
-          "title": "Episode 93",
+          "title": "Je ne perdrai pas face à toi",
           "id": "3697363"
         },
         {
           "n": 94,
-          "title": "Episode 94",
+          "title": "Les Vies de Hadge",
           "id": "3702907"
         },
         {
           "n": 95,
-          "title": "Episode 95",
+          "title": "Deux Miracles",
           "id": "3707020"
         },
         {
           "n": 96,
-          "title": "Episode 96",
+          "title": "Libération Karmique",
           "id": "3711147"
         },
         {
           "n": 97,
-          "title": "Episode 97",
+          "title": "Foudres de la Colère vs Camarades",
           "id": "3717905"
         },
         {
           "n": 98,
-          "title": "Episode 98",
+          "title": "Sourires et Larmes",
           "id": "3722130"
         },
         {
           "n": 99,
-          "title": "Episode 99",
+          "title": "Vengeance ou Rédemption",
           "id": "3726690"
         },
         {
           "n": 100,
-          "title": "Episode 100",
+          "title": "Combat Décisif à la Cité Royale",
           "id": "3732324"
         },
         {
           "n": 101,
-          "title": "Episode 101",
+          "title": "La Princesse qui Virevoltait au Combat",
           "id": "3737878"
         },
         {
           "n": 102,
-          "title": "Episode 102",
+          "title": "Les Frères Mages Spatiaux",
           "id": "3744040"
         },
         {
           "n": 103,
-          "title": "Episode 103",
+          "title": "Le Taureau Noir Enragé déboule",
           "id": "3752165"
         },
         {
           "n": 104,
-          "title": "Episode 104",
+          "title": "La Prunelle dans le Miroir",
           "id": "3758071"
         },
         {
           "n": 105,
-          "title": "Episode 105",
+          "title": "Un Humain Digne de Confiance",
           "id": "3763271"
         },
         {
           "n": 106,
-          "title": "Episode 106",
+          "title": "Le Palais des Ombres",
           "id": "3768112"
         },
         {
           "n": 107,
-          "title": "Episode 107",
+          "title": "Le Dernier Arrivé",
           "id": "3772981"
         },
         {
           "n": 108,
-          "title": "Episode 108",
+          "title": "Le Cerveau",
           "id": "3777313"
         },
         {
           "n": 109,
-          "title": "Episode 109",
+          "title": "L'Ennemi Ultime",
           "id": "3791608"
         },
         {
           "n": 110,
-          "title": "Episode 110",
+          "title": "L'Heure de Briser le Sceau",
           "id": "3803504"
         },
         {
           "n": 111,
-          "title": "Episode 111",
+          "title": "Retrouvailles par-delà l'Espace-Temps",
           "id": "3813050"
         },
         {
           "n": 112,
-          "title": "Episode 112",
+          "title": "Le Coup Final",
           "id": "3819756"
         },
         {
           "n": 113,
-          "title": "Episode 113",
+          "title": "L'Aube",
           "id": "3829590"
         },
         {
           "n": 114,
-          "title": "Episode 114",
+          "title": "Trois Problèmes",
           "id": "3842264"
         },
         {
           "n": 115,
-          "title": "Episode 115",
+          "title": "D'un Noir Éclatant",
           "id": "3851095"
         },
         {
           "n": 116,
-          "title": "Episode 116",
+          "title": "La Déclaration de la Rose Bleue",
           "id": "3874349"
         },
         {
           "n": 117,
-          "title": "Episode 117",
+          "title": "Indices",
           "id": "3879616"
         },
         {
           "n": 118,
-          "title": "Episode 118",
+          "title": "En Route vers le Royaume de Heart",
           "id": "3887984"
         },
         {
           "n": 119,
-          "title": "Episode 119",
+          "title": "Le Démon Megicula",
           "id": "3896242"
         },
         {
           "n": 120,
-          "title": "Episode 120",
+          "title": "Le Prélude de l'Espoir et du Désespoir",
           "id": "4202050"
         },
         {
           "n": 121,
-          "title": "Episode 121",
+          "title": "Le Lac Paisible et l'Ombre de la Forêt",
           "id": "4207604"
         },
         {
           "n": 122,
-          "title": "Episode 122",
+          "title": "Le Messager du Royaume de Spade",
           "id": "4212344"
         },
         {
           "n": 123,
-          "title": "Episode 123",
+          "title": "Le Pouvoir de Zenon",
           "id": "4216725"
         },
         {
           "n": 124,
-          "title": "Episode 124",
+          "title": "Le Déclenchement de la Grande Guerre",
           "id": "4223151"
         },
         {
           "n": 125,
-          "title": "Episode 125",
+          "title": "Dante contre le Capitaine du Taureau Noir",
           "id": "4228899"
         },
         {
           "n": 126,
-          "title": "Episode 126",
+          "title": "Heart, Champ de Bataille",
           "id": "4234004"
         },
         {
           "n": 127,
-          "title": "Episode 127",
+          "title": "La Guerre Sainte de l'Eau",
           "id": "4242984"
         },
         {
           "n": 128,
-          "title": "Episode 128",
+          "title": "Le Capitaine Yami Sukehiro",
           "id": "4249999"
         },
         {
           "n": 129,
-          "title": "Episode 129",
+          "title": "Le Serment Noir",
           "id": "4257363"
         },
         {
           "n": 130,
-          "title": "Episode 130",
+          "title": "La Marque des Plus Forts",
           "id": "4262182"
         },
         {
           "n": 131,
-          "title": "Episode 131",
+          "title": "Le Rituel d'Asservissement du Démon",
           "id": "4267550"
         },
         {
           "n": 132,
-          "title": "Episode 132",
+          "title": "Un Avenir Lointain",
           "id": "4282228"
         }
       ]
-    },
-    "3": {
-      "label": "Saison 3",
-      "title": "Film",
-      "episodes": []
-    },
-    "4": {
-      "label": "Saison 4",
-      "title": "Kai",
-      "episodes": []
-    },
-    "5": {
-      "label": "Saison 5",
-      "title": "Scans",
-      "episodes": []
-    },
-    "6": {
-      "label": "Saison 6",
-      "title": "Quartet Knights",
-      "episodes": []
     }
   }
 }
