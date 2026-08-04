@@ -1,0 +1,710 @@
+{
+  "id": "hajime-no-ippo",
+  "title": "Hajime no Ippo",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19647-yJfiQb4GchCg.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
+  "description": "Ippo Makunouchi est un jeune garçon de 16 ans tout ce qu'il y a de plus ordinaire. Il passe son temps libre à aider sa mère à tenir son affaire de pêche, de ce fait il n'a pas d'amis. Un jour, alors qu'il se fait maltraiter par une bande de jeunes plus âgés que lui, Takamura, un des plus grands boxeurs lui vient en aide et l'emmène dans son club de boxe pour le soigner.\nUne fois remis sur pieds, Ippo s'essaye à la boxe suite à une proposition de Takamura et il se révèle posséder une force incroyable. Takamura, subjugué par la force du jeune garçon lui propose de venir s'entraîner dans son club. Ippo découvre alors en lui une véritable passion pour la boxe. De plus, il est extrêmement heureux d'être aux cotés de Takamura qu'il voit comme son modèle. C'est alors le début d'une longue aventure semée d'embûches pour le jeune Ippo.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Shônen",
+    "Tournois",
+    "Aventure"
+  ],
+  "rating": "8.5",
+  "year": "2013",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Hajime no Ippo",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.5",
+      "l": "Note"
+    },
+    {
+      "v": "2013",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.5"
+    },
+    {
+      "text": "🎬 3 Saisons · 127 Éps"
+    },
+    {
+      "text": "📅 2013"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "The First Step",
+          "id": "5861856"
+        },
+        {
+          "n": 2,
+          "title": "Le fruit des efforts",
+          "id": "5861858"
+        },
+        {
+          "n": 3,
+          "title": "Les larmes de plaisir",
+          "id": "5861859"
+        },
+        {
+          "n": 4,
+          "title": "Shadow Boxing",
+          "id": "5861861"
+        },
+        {
+          "n": 5,
+          "title": "3 mois pour contrer le contre",
+          "id": "5861863"
+        },
+        {
+          "n": 6,
+          "title": "L'Heure de la Revanche",
+          "id": "5861865"
+        },
+        {
+          "n": 7,
+          "title": "Le Centimètre Dévastateur",
+          "id": "5861867"
+        },
+        {
+          "n": 8,
+          "title": "Promesses de Retrouvailles",
+          "id": "5861870"
+        },
+        {
+          "n": 9,
+          "title": "Licence de Catégorie C",
+          "id": "5861873"
+        },
+        {
+          "n": 10,
+          "title": "Premier Match",
+          "id": "5861875"
+        },
+        {
+          "n": 11,
+          "title": "Obsession de Victoire",
+          "id": "5861876"
+        },
+        {
+          "n": 12,
+          "title": "Une Brusque Déclaration d'Amitié",
+          "id": "5861877"
+        },
+        {
+          "n": 13,
+          "title": "Lever de Rideau sur le Tournoi National Espoir Conférence EST",
+          "id": "5861878"
+        },
+        {
+          "n": 14,
+          "title": "Bras Surpuissant ! Crochet VS Uppercut !",
+          "id": "5861879"
+        },
+        {
+          "n": 15,
+          "title": "Concours d'Endurance",
+          "id": "5861881"
+        },
+        {
+          "n": 16,
+          "title": "Pressentiment d'un Combat Intense !",
+          "id": "5861882"
+        },
+        {
+          "n": 17,
+          "title": "Ippo à la Plage",
+          "id": "5861884"
+        },
+        {
+          "n": 18,
+          "title": "Accrochage",
+          "id": "5861885"
+        },
+        {
+          "n": 19,
+          "title": "Rêve de K.O.",
+          "id": "5861886"
+        },
+        {
+          "n": 20,
+          "title": "La Menace du Shotgun",
+          "id": "5861888"
+        },
+        {
+          "n": 21,
+          "title": "Le Moyen de Vaincre un Génie",
+          "id": "5861891"
+        },
+        {
+          "n": 22,
+          "title": "En Avant ! En Avant !!",
+          "id": "5861893"
+        },
+        {
+          "n": 23,
+          "title": "L'Autre Demi-Finale",
+          "id": "5861897"
+        },
+        {
+          "n": 24,
+          "title": "A l'Endroit de la Promesse",
+          "id": "5861901"
+        },
+        {
+          "n": 25,
+          "title": "Les Sentiments de Chacun",
+          "id": "5861904"
+        },
+        {
+          "n": 26,
+          "title": "Combat pour la Distance",
+          "id": "5861908"
+        },
+        {
+          "n": 27,
+          "title": "Combat à Mort",
+          "id": "5861911"
+        },
+        {
+          "n": 28,
+          "title": "Victoire ou Défaite",
+          "id": "5861914"
+        },
+        {
+          "n": 29,
+          "title": "Le Rocky de Naniwa",
+          "id": "5930227"
+        },
+        {
+          "n": 30,
+          "title": "En Territoire Ennemi",
+          "id": "5930229"
+        },
+        {
+          "n": 31,
+          "title": "Sur les Traces des Combats Intenses",
+          "id": "5930230"
+        },
+        {
+          "n": 32,
+          "title": "Frappe avec ta Droite !",
+          "id": "5930232"
+        },
+        {
+          "n": 33,
+          "title": "La Menace du Smash",
+          "id": "5930234"
+        },
+        {
+          "n": 34,
+          "title": "Le Champion des Espoirs",
+          "id": "5930235"
+        },
+        {
+          "n": 35,
+          "title": "Un Autre Départ",
+          "id": "5930236"
+        },
+        {
+          "n": 36,
+          "title": "Confrontation avec le Roi",
+          "id": "5930237"
+        },
+        {
+          "n": 37,
+          "title": "Un Objectif Ambitieux",
+          "id": "5930239"
+        },
+        {
+          "n": 38,
+          "title": "Les Deux Espoirs",
+          "id": "5930240"
+        },
+        {
+          "n": 39,
+          "title": "Défi En Terre Étrangère",
+          "id": "5930242"
+        },
+        {
+          "n": 40,
+          "title": "Un Contre qui Surpasse un Contre",
+          "id": "5930243"
+        },
+        {
+          "n": 41,
+          "title": "Le Combat De Geromichi",
+          "id": "5930245"
+        },
+        {
+          "n": 42,
+          "title": "Des Rêves en Commun",
+          "id": "5930246"
+        },
+        {
+          "n": 43,
+          "title": "Speed Star",
+          "id": "5930247"
+        },
+        {
+          "n": 44,
+          "title": "Un angle mort sur le ring",
+          "id": "5930248"
+        },
+        {
+          "n": 45,
+          "title": "Les Crocs Blancs du Loup",
+          "id": "5930249"
+        },
+        {
+          "n": 46,
+          "title": "Deviens une Gazelle !",
+          "id": "5930250"
+        },
+        {
+          "n": 47,
+          "title": "Esprit Combatif",
+          "id": "5930251"
+        },
+        {
+          "n": 48,
+          "title": "Le Loup Rouge",
+          "id": "5930253"
+        },
+        {
+          "n": 49,
+          "title": "Le Courage d'y Croire",
+          "id": "5930254"
+        },
+        {
+          "n": 50,
+          "title": "Un Message à Transmettre",
+          "id": "5930255"
+        },
+        {
+          "n": 51,
+          "title": "Une Sortie en Groupe",
+          "id": "5930257"
+        },
+        {
+          "n": 52,
+          "title": "Challenger",
+          "id": "5930258"
+        },
+        {
+          "n": 53,
+          "title": "Pour redevenir moi-même",
+          "id": "5930261"
+        },
+        {
+          "n": 54,
+          "title": "Le Poing du Roi",
+          "id": "5930262"
+        },
+        {
+          "n": 55,
+          "title": "Match pour le titre national catégorie poids plume",
+          "id": "5930265"
+        },
+        {
+          "n": 56,
+          "title": "La Puissance face à un mur",
+          "id": "5930267"
+        },
+        {
+          "n": 57,
+          "title": "Épreuve de Force",
+          "id": "5930269"
+        },
+        {
+          "n": 58,
+          "title": "Un Cœur Brisé",
+          "id": "5979137"
+        },
+        {
+          "n": 59,
+          "title": "Une Volonté de Fer",
+          "id": "5979139"
+        },
+        {
+          "n": 60,
+          "title": "Rivaux",
+          "id": "5979140"
+        },
+        {
+          "n": 61,
+          "title": "L'anxiété du Retour",
+          "id": "5979141"
+        },
+        {
+          "n": 62,
+          "title": "Le Chemin du Retour",
+          "id": "5979143"
+        },
+        {
+          "n": 63,
+          "title": "Jeunesse Ardente",
+          "id": "5979145"
+        },
+        {
+          "n": 64,
+          "title": "La belle époque",
+          "id": "5979146"
+        },
+        {
+          "n": 65,
+          "title": "Le Camp d'été de la Troupe Kamogawa",
+          "id": "5979147"
+        },
+        {
+          "n": 66,
+          "title": "Les Larmes de Takamura",
+          "id": "5979148"
+        },
+        {
+          "n": 67,
+          "title": "Le Club Kamogawa sur le Pied de Guerre",
+          "id": "5979149"
+        },
+        {
+          "n": 68,
+          "title": "La Crise du Coach",
+          "id": "5979150"
+        },
+        {
+          "n": 69,
+          "title": "Le Piège du Gaucher",
+          "id": "5979151"
+        },
+        {
+          "n": 70,
+          "title": "Un Petit Voyou",
+          "id": "5979153"
+        },
+        {
+          "n": 71,
+          "title": "L'Heure du Combat",
+          "id": "5979154"
+        },
+        {
+          "n": 72,
+          "title": "Lallapallooza",
+          "id": "5979155"
+        },
+        {
+          "n": 73,
+          "title": "Surpasser le Passé",
+          "id": "5979157"
+        },
+        {
+          "n": 74,
+          "title": "Amalgame",
+          "id": "5979158"
+        },
+        {
+          "n": 75,
+          "title": "En route pour la prochaine étape",
+          "id": "5979160"
+        },
+        {
+          "n": 76,
+          "title": "Le Poing du Boxeur",
+          "id": "5979162"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un nouveau pas en avant",
+          "id": "6038361"
+        },
+        {
+          "n": 2,
+          "title": "Bloody Cross",
+          "id": "6038362"
+        },
+        {
+          "n": 3,
+          "title": "Promesses",
+          "id": "6038365"
+        },
+        {
+          "n": 4,
+          "title": "Préparatifs mondiaux",
+          "id": "6038367"
+        },
+        {
+          "n": 5,
+          "title": "Le Niveau mondial",
+          "id": "6038368"
+        },
+        {
+          "n": 6,
+          "title": "Le But à atteindre",
+          "id": "6038371"
+        },
+        {
+          "n": 7,
+          "title": "L'éveil du démon",
+          "id": "6038375"
+        },
+        {
+          "n": 8,
+          "title": "Toute mon âme",
+          "id": "6038376"
+        },
+        {
+          "n": 9,
+          "title": "Le Successeur",
+          "id": "6038378"
+        },
+        {
+          "n": 10,
+          "title": "Chien battu",
+          "id": "6038379"
+        },
+        {
+          "n": 11,
+          "title": "Ippo vs Hammer Nao",
+          "id": "6038380"
+        },
+        {
+          "n": 12,
+          "title": "Être un pro",
+          "id": "6038384"
+        },
+        {
+          "n": 13,
+          "title": "Ippo on the Beach 2",
+          "id": "6038386"
+        },
+        {
+          "n": 14,
+          "title": "Sparring",
+          "id": "6038387"
+        },
+        {
+          "n": 15,
+          "title": "Le Premier Match pro d'Itagaki",
+          "id": "6038390"
+        },
+        {
+          "n": 16,
+          "title": "Les Deux aigles",
+          "id": "6038392"
+        },
+        {
+          "n": 17,
+          "title": "L'Enfant sauvage",
+          "id": "6038393"
+        },
+        {
+          "n": 18,
+          "title": "Régime extrême",
+          "id": "6038394"
+        },
+        {
+          "n": 19,
+          "title": "Sur le fil du rasoir",
+          "id": "6038395"
+        },
+        {
+          "n": 20,
+          "title": "Le Championnat du monde super-welter",
+          "id": "6038398"
+        },
+        {
+          "n": 21,
+          "title": "Battle of Hawk",
+          "id": "6038399"
+        },
+        {
+          "n": 22,
+          "title": "Baston",
+          "id": "6038400"
+        },
+        {
+          "n": 23,
+          "title": "Les mains qui me soutiennent",
+          "id": "6038401"
+        },
+        {
+          "n": 24,
+          "title": "Le Roi",
+          "id": "6038404"
+        },
+        {
+          "n": 25,
+          "title": "Une statue qui tue",
+          "id": "6038408"
+        },
+        {
+          "n": 26,
+          "title": "New Challenger",
+          "id": "6038410"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Plus Fort des challengers",
+          "id": "6097796"
+        },
+        {
+          "n": 2,
+          "title": "Le Dempsey roll est brisé",
+          "id": "6097799"
+        },
+        {
+          "n": 3,
+          "title": "Le Combat d'une femme",
+          "id": "6097802"
+        },
+        {
+          "n": 4,
+          "title": "La Déesse de la victoire",
+          "id": "6097803"
+        },
+        {
+          "n": 5,
+          "title": "100 % pur bluff",
+          "id": "6097804"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "6097808"
+        },
+        {
+          "n": 7,
+          "title": "Chesse Champion",
+          "id": "6097810"
+        },
+        {
+          "n": 8,
+          "title": "Chien enragé et affamé, loup rouge",
+          "id": "6097812"
+        },
+        {
+          "n": 9,
+          "title": "Scénario cauchemardesque",
+          "id": "6097815"
+        },
+        {
+          "n": 10,
+          "title": "La Détermination sur le visage",
+          "id": "6097819"
+        },
+        {
+          "n": 11,
+          "title": "Un challenger ambitieux",
+          "id": "6097820"
+        },
+        {
+          "n": 12,
+          "title": "Le Dempsey anéanti",
+          "id": "6097824"
+        },
+        {
+          "n": 13,
+          "title": "Les Poings de l'espoir",
+          "id": "6097827"
+        },
+        {
+          "n": 14,
+          "title": "Les mots qui motivent",
+          "id": "6097830"
+        },
+        {
+          "n": 15,
+          "title": "Le Bateau Makunouchi dans la tempête !",
+          "id": "6097831"
+        },
+        {
+          "n": 16,
+          "title": "L'Aigle d'or",
+          "id": "6097833"
+        },
+        {
+          "n": 17,
+          "title": "Eleki l'électricien et Coconut Papaya",
+          "id": "6097837"
+        },
+        {
+          "n": 18,
+          "title": "Le Nouveau Contre inachevé",
+          "id": "6097842"
+        },
+        {
+          "n": 19,
+          "title": "Faucon VS Aigle",
+          "id": "6097848"
+        },
+        {
+          "n": 20,
+          "title": "Un enseignement inoubliable",
+          "id": "6097855"
+        },
+        {
+          "n": 21,
+          "title": "Au bout du duel à mort",
+          "id": "6097859"
+        },
+        {
+          "n": 22,
+          "title": "Fleur d'espoir",
+          "id": "6097862"
+        },
+        {
+          "n": 23,
+          "title": "Le Courage de vivre",
+          "id": "6097863"
+        },
+        {
+          "n": 24,
+          "title": "Poings de fer",
+          "id": "6097868"
+        },
+        {
+          "n": 25,
+          "title": "Serment",
+          "id": "6097869"
+        }
+      ]
+    }
+  }
+}
