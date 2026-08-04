@@ -372,4 +372,14 @@
       "Shounen"
     ]
   }
+  {
+  "id": "black-clover",
+  "title": "Black Clover",
+  "poster": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/black-clover.webp",
+  "rating": "8.1",
+  "year": "2017",
+  "status": "cours",
+  "statusLabel": "En cours",
+  "genres": ["Action", "Comédie", "Fantasy", "Shônen", "Aventure", "Science-Fiction", "Fantastique"]
+}
 ]
