@@ -7,13 +7,7 @@
     "year": "2019",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Science-Fiction",
-      "Aventure",
-      "Action",
-      "Comédie",
-      "Shounen"
-    ]
+    "genres": ["Science-Fiction","Aventure","Action","Comédie","Shounen"]
   },
   {
     "id": "bloom-into-you",
@@ -23,12 +17,7 @@
     "year": "2025",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Romance",
-      "Tranche de vie",
-      "Drame",
-      "Shounen"
-    ]
+    "genres": ["Romance","Tranche de vie","Drame","Shounen"]
   },
   {
     "id": "death-note",
@@ -38,13 +27,7 @@
     "year": "2006",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Thriller",
-      "Psychologique",
-      "Surnaturel",
-      "Mystère",
-      "Shounen"
-    ]
+    "genres": ["Thriller","Psychologique","Surnaturel","Mystère","Shounen"]
   },
   {
     "id": "lookism",
@@ -54,13 +37,7 @@
     "year": "2022",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Comédie",
-      "Drame",
-      "Tranche de vie",
-      "Webtoon"
-    ]
+    "genres": ["Action","Comédie","Drame","Tranche de vie","Webtoon"]
   },
   {
     "id": "vinland-saga",
@@ -70,13 +47,7 @@
     "year": "2019",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Historique",
-      "Drame",
-      "Seinen"
-    ]
+    "genres": ["Action","Aventure","Historique","Drame","Seinen"]
   },
   {
     "id": "terror-in-resonance",
@@ -86,13 +57,7 @@
     "year": "2014",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Thriller",
-      "Psychologique",
-      "Mystère",
-      "Drame",
-      "Seinen"
-    ]
+    "genres": ["Thriller","Psychologique","Mystère","Drame","Seinen"]
   },
   {
     "id": "parasyte",
@@ -102,13 +67,7 @@
     "year": "2014",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Horreur",
-      "Science-Fiction",
-      "Action",
-      "Drame",
-      "Seinen"
-    ]
+    "genres": ["Horreur","Science-Fiction","Action","Drame","Seinen"]
   },
   {
     "id": "chainsaw-man",
@@ -118,13 +77,7 @@
     "year": "2022",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Horreur",
-      "Surnaturel",
-      "Comédie",
-      "Shounen"
-    ]
+    "genres": ["Action","Horreur","Surnaturel","Comédie","Shounen"]
   },
   {
     "id": "blue-lock",
@@ -134,12 +87,7 @@
     "year": "2022",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Sport",
-      "Drame",
-      "Psychologique",
-      "Shounen"
-    ]
+    "genres": ["Sport","Drame","Psychologique","Shounen"]
   },
   {
     "id": "your-name",
@@ -149,12 +97,7 @@
     "year": "2016",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Romance",
-      "Drame",
-      "Surnaturel",
-      "Fantastique"
-    ]
+    "genres": ["Romance","Drame","Surnaturel","Fantastique"]
   },
   {
     "id": "jujutsu-kaisen",
@@ -164,12 +107,7 @@
     "year": "2020",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Surnaturel",
-      "Fantastique",
-      "Shounen"
-    ]
+    "genres": ["Action","Surnaturel","Fantastique","Shounen"]
   },
   {
     "id": "fullmetal-alchemist",
@@ -179,13 +117,7 @@
     "year": "2003",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Fantastique",
-      "Drame",
-      "Shounen"
-    ]
+    "genres": ["Action","Aventure","Fantastique","Drame","Shounen"]
   },
   {
     "id": "oshi-no-ko",
@@ -195,12 +127,7 @@
     "year": "2023",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Drame",
-      "Mystère",
-      "Tranche de vie",
-      "Seinen"
-    ]
+    "genres": ["Drame","Mystère","Tranche de vie","Seinen"]
   },
   {
     "id": "solo-leveling",
@@ -210,13 +137,7 @@
     "year": "2024",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Aventure",
-      "Fantastique",
-      "Surnaturel",
-      "Shounen"
-    ]
+    "genres": ["Action","Aventure","Fantastique","Surnaturel","Shounen"]
   },
   {
     "id": "tokyo-revengers",
@@ -226,12 +147,7 @@
     "year": "2021",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Drame",
-      "Surnaturel",
-      "Shounen"
-    ]
+    "genres": ["Action","Drame","Surnaturel","Shounen"]
   },
   {
     "id": "demon-slayer",
@@ -241,13 +157,7 @@
     "year": "2019",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Surnaturel",
-      "Aventure",
-      "Historique",
-      "Shounen"
-    ]
+    "genres": ["Action","Surnaturel","Aventure","Historique","Shounen"]
   },
   {
     "id": "code-geass",
@@ -257,13 +167,7 @@
     "year": "2006",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Science-Fiction",
-      "Mecha",
-      "Drame",
-      "Shounen"
-    ]
+    "genres": ["Action","Science-Fiction","Mecha","Drame","Shounen"]
   },
   {
     "id": "attaque-des-titans",
@@ -273,13 +177,7 @@
     "year": "2013",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Drame",
-      "Fantastique",
-      "Post-apocalyptique",
-      "Shounen"
-    ]
+    "genres": ["Action","Drame","Fantastique","Post-apocalyptique","Shounen"]
   },
   {
     "id": "fire-force",
@@ -289,12 +187,7 @@
     "year": "2019",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Surnaturel",
-      "Fantastique",
-      "Shounen"
-    ]
+    "genres": ["Action","Surnaturel","Fantastique","Shounen"]
   },
   {
     "id": "kuroko-no-basket",
@@ -304,12 +197,7 @@
     "year": "2012",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Sport",
-      "Comédie",
-      "Drame",
-      "Shounen"
-    ]
+    "genres": ["Sport","Comédie","Drame","Shounen"]
   },
   {
     "id": "the-promised-neverland",
@@ -319,13 +207,7 @@
     "year": "2019",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Thriller",
-      "Mystère",
-      "Horreur",
-      "Drame",
-      "Shounen"
-    ]
+    "genres": ["Thriller","Mystère","Horreur","Drame","Shounen"]
   },
   {
     "id": "dandadan",
@@ -335,13 +217,7 @@
     "year": "2024",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Comédie",
-      "Surnaturel",
-      "Science-Fiction",
-      "Shounen"
-    ]
+    "genres": ["Action","Comédie","Surnaturel","Science-Fiction","Shounen"]
   },
   {
     "id": "wind-breaker",
@@ -351,11 +227,7 @@
     "year": "2024",
     "status": "cours",
     "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Tranche de vie",
-      "Shounen"
-    ]
+    "genres": ["Action","Tranche de vie","Shounen"]
   },
   {
     "id": "my-hero-academia",
@@ -365,29 +237,6 @@
     "year": "2016",
     "status": "termine",
     "statusLabel": "Terminé",
-    "genres": [
-      "Action",
-      "Comédie",
-      "Super-héros",
-      "Shounen"
-    ]
-  },
-  {
-    "id": "black-clover",
-    "title": "Black Clover",
-    "poster": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/black-clover.webp",
-    "rating": "8.1",
-    "year": "2017",
-    "status": "cours",
-    "statusLabel": "En cours",
-    "genres": [
-      "Action",
-      "Comédie",
-      "Fantasy",
-      "Shônen",
-      "Aventure",
-      "Science-Fiction",
-      "Fantastique"
-    ]
+    "genres": ["Action","Comédie","Super-héros","Shounen"]
   }
 ]
