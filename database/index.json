@@ -387,5 +387,23 @@
       "Yankee",
       "Drame"
     ]
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "Hajime no Ippo",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19647-cIy7ShTL6e9h.jpg",
+    "rating": "8.5",
+    "year": "2013",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Drame",
+      "Shônen",
+      "Tournois",
+      "Aventure"
+    ]
   }
 ]
+
