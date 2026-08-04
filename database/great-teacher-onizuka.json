@@ -1,0 +1,272 @@
+{
+  "id": "great-teacher-onizuka",
+  "title": "Great Teacher Onizuka",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx245-NcQAyTipUMeO.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/245-sIPMF9vNDnaJ.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx245-NcQAyTipUMeO.jpg",
+  "description": "Eikichi Onizuka, un ancien biker et leader de gang de yakuzas décide un jour de devenir professeur d'école. Il veut devenir le plus grand professeur du Japon.\nLorsqu'il était jeune, Onizuka détestait les profs car ils n'étaient pas à l'écoute des élèves. C'est pour cela qu'il veut devenir professeur, pour être au près de ses élèves, mais aussi parce qu'il y a de jeunes innocentes étudiantes qui ne le laisse pas indifférent !\nIl lui est alors donné la pire classe de la prestigieuse école privée \"Holy Forest Academy\", la Class 3-4. Onizuka doit alors faire face à de nombreux problèmes causés par ses élèves...",
+  "genres": [
+    "Action",
+    "Comédie",
+    "School Life",
+    "Yankee",
+    "Drame"
+  ],
+  "rating": "8.4",
+  "year": "1999",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Great Teacher Onizuka",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "1999",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 1 Saisons · 42 Éps"
+    },
+    {
+      "text": "📅 1999"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4798350"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4798245"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4798246"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4798250"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4798251"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4798252"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4798254"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4798257"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4798260"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4798263"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4798267"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4798268"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4798269"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4798271"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4798272"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4798273"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4798275"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4798278"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4798282"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4798285"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4798286"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4798287"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4798290"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4798292"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4798295"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4798298"
+        },
+        {
+          "n": 27,
+          "title": "Episode 27",
+          "id": "4798300"
+        },
+        {
+          "n": 28,
+          "title": "Episode 28",
+          "id": "4798302"
+        },
+        {
+          "n": 29,
+          "title": "Episode 29",
+          "id": "4798305"
+        },
+        {
+          "n": 30,
+          "title": "Episode 30",
+          "id": "4798307"
+        },
+        {
+          "n": 31,
+          "title": "Episode 31",
+          "id": "4798311"
+        },
+        {
+          "n": 32,
+          "title": "Episode 32",
+          "id": "4798314"
+        },
+        {
+          "n": 33,
+          "title": "Episode 33",
+          "id": "4798320"
+        },
+        {
+          "n": 34,
+          "title": "Episode 34",
+          "id": "4798322"
+        },
+        {
+          "n": 35,
+          "title": "Episode 35",
+          "id": "4798326"
+        },
+        {
+          "n": 36,
+          "title": "Episode 36",
+          "id": "4798328"
+        },
+        {
+          "n": 37,
+          "title": "Episode 37",
+          "id": "4798331"
+        },
+        {
+          "n": 38,
+          "title": "Episode 38",
+          "id": "4798337"
+        },
+        {
+          "n": 39,
+          "title": "Episode 39",
+          "id": "4798338"
+        },
+        {
+          "n": 40,
+          "title": "Episode 40",
+          "id": "4798341"
+        },
+        {
+          "n": 41,
+          "title": "Episode 41",
+          "id": "4798343"
+        },
+        {
+          "n": 42,
+          "title": "Episode 42",
+          "id": "4798346"
+        }
+      ]
+    }
+  }
+}
