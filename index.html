@@ -206,6 +206,63 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   footer{padding:20px 16px;gap:10px}
   .footer-copy{font-size:11px}
 }
+
+/* === REFONTE : recherche live + avatar nav === */
+.nav-search-wrap{position:relative;flex:1;max-width:360px;margin-left:auto}
+.nav-search-input{width:100%;background:rgba(255,255,255,.06);border:1px solid var(--border);color:var(--text);border-radius:10px;padding:9px 14px 9px 38px;font-family:var(--font);font-size:13px;font-weight:500;outline:none;transition:all .2s;}
+.nav-search-input:focus{border-color:rgba(59,126,255,.5);background:rgba(255,255,255,.09)}
+.nav-search-input::placeholder{color:var(--dim)}
+.nav-search-icon{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--muted);pointer-events:none}
+.nav-search-dropdown{position:absolute;top:calc(100% + 10px);right:0;width:380px;max-height:70vh;overflow-y:auto;background:rgba(12,15,26,.98);backdrop-filter:blur(20px);border:1px solid var(--border2);border-radius:14px;box-shadow:0 20px 60px rgba(0,0,0,.6);display:none;z-index:250;}
+.nav-search-dropdown.active{display:block;animation:fadeUp .2s ease}
+.nsd-item{display:flex;align-items:center;gap:12px;padding:10px 14px;cursor:pointer;transition:background .15s;border-bottom:1px solid var(--border)}
+.nsd-item:last-child{border-bottom:none}
+.nsd-item:hover{background:rgba(59,126,255,.1)}
+.nsd-thumb{width:44px;height:60px;border-radius:6px;object-fit:cover;flex-shrink:0;background:var(--bg3)}
+.nsd-info{flex:1;min-width:0}
+.nsd-title{font-size:13px;font-weight:700;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nsd-sub{font-size:11px;color:var(--muted);margin-top:2px}
+.nsd-sub .gold{color:var(--gold)}
+.nsd-seeall{display:block;text-align:center;padding:12px;font-size:12px;font-weight:700;color:var(--accent);cursor:pointer;transition:color .15s}
+.nsd-seeall:hover{color:var(--accent2)}
+.nsd-empty{padding:24px;text-align:center;color:var(--muted);font-size:13px}
+.nav-avatar-chip{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.05);border:1px solid var(--border);padding:5px 12px 5px 5px;border-radius:20px;flex-shrink:0}
+.nav-avatar-circle{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,#2563eb,#6fa3ff);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:#fff;flex-shrink:0}
+.nav-avatar-name{font-size:12px;font-weight:700;color:var(--text)}
+.nav-mobile-search-btn{display:none;background:rgba(255,255,255,.07);border:1px solid var(--border);color:var(--muted);width:36px;height:36px;border-radius:8px;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0}
+@media(max-width:680px){
+  .nav-search-wrap{display:none}
+  .nav-avatar-chip{display:none}
+  .nav-mobile-search-btn{display:flex}
+}
+
+/* === REFONTE : hero façon carrousel (badges + pagination) === */
+.hero-badges-row{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.hero-chip{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:700;padding:5px 12px;border-radius:8px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:var(--text);letter-spacing:.03em}
+.hero-chip.gold{background:rgba(245,200,66,.12);border-color:rgba(245,200,66,.3);color:var(--gold)}
+.hero-desc-clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.hero-pagination{position:absolute;bottom:26px;right:48px;display:flex;align-items:center;gap:8px;z-index:5}
+.hero-dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.25);cursor:pointer;transition:all .25s;flex-shrink:0;border:none;padding:0}
+.hero-dot.active{width:26px;border-radius:4px;background:var(--accent)}
+.hero-dot:hover:not(.active){background:rgba(255,255,255,.5)}
+.hero-arrow{width:34px;height:34px;border-radius:50%;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);color:var(--text);display:flex;align-items:center;justify-content:center;cursor:pointer;transition:all .2s;flex-shrink:0;margin-left:6px;font-size:16px;}
+.hero-arrow:hover{background:rgba(59,126,255,.25);border-color:rgba(59,126,255,.5)}
+@media(max-width:600px){.hero-pagination{right:16px;bottom:16px}}
+
+/* === REFONTE : section tendances numérotée === */
+.trending-row{display:flex;gap:6px;overflow-x:auto;padding:22px 4px 18px 44px;scrollbar-width:none}
+.trending-row::-webkit-scrollbar{display:none}
+.trending-item{position:relative;flex-shrink:0;width:150px;cursor:pointer;transition:transform .2s}
+.trending-item:hover{transform:translateY(-4px)}
+.trending-poster{width:112px;aspect-ratio:2/3;object-fit:cover;border-radius:10px;display:block;margin-left:38px;box-shadow:0 10px 30px rgba(0,0,0,.5);border:1px solid var(--border)}
+.trending-num{position:absolute;left:-8px;bottom:-6px;font-size:70px;font-weight:900;line-height:1;color:transparent;-webkit-text-stroke:1.5px rgba(255,255,255,.35);letter-spacing:-.05em;z-index:1;font-family:var(--font)}
+.trending-item:hover .trending-num{-webkit-text-stroke:1.5px var(--accent)}
+@media(max-width:480px){
+  .trending-row{padding-left:34px}
+  .trending-item{width:110px}
+  .trending-poster{width:84px;margin-left:26px}
+  .trending-num{font-size:52px}
+}
 </style>
 </head>
 <body>
@@ -246,11 +303,16 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <span class="nav-link" id="nav-catalogue" onclick="showPage('catalogue')">Catalogue</span>
   </div>
   <div class="nav-right">
-    <button class="nav-search-btn" onclick="openSearch()">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      Rechercher
+    <div class="nav-search-wrap">
+      <svg class="nav-search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="nav-search-input" class="nav-search-input" placeholder="Rechercher un anime..." oninput="onNavSearch(this.value)" onfocus="onNavSearch(this.value)" autocomplete="off"/>
+      <div id="nav-search-dropdown" class="nav-search-dropdown"></div>
+    </div>
+    <button class="nav-mobile-search-btn" onclick="openSearch()">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
     </button>
     <span class="nav-badge">🇫🇷 VF</span>
+    <div class="nav-avatar-chip"><div class="nav-avatar-circle">S</div><span class="nav-avatar-name">Shiro</span></div>
   </div>
 </nav>
 
@@ -260,6 +322,10 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <div class="hero-overlay"></div>
     <div class="hero-content" id="hero-content"><div style="padding-top:40px;color:var(--muted)">Chargement…</div></div>
   </div>
+  <div class="section" style="padding-bottom:0">
+    <h2 class="section-title">🔥 Tendances du moment</h2>
+  </div>
+  <div class="trending-row" id="trending-row"></div>
   <div class="stats-bar" id="home-stats-bar"></div>
   <div class="section">
     <div style="margin-bottom:20px">
@@ -494,25 +560,25 @@ function renderHomeForAnime(){
   const hi=document.getElementById('hero-img');
   hi.src=a.banner;
   hi.onerror=()=>{hi.src=a.bannerFallback;hi.onerror=null};
+  const yearChip = a.year && a.year!=='????' ? `<span class="hero-chip">📅 ${a.year}</span>` : '';
   document.getElementById('hero-content').innerHTML=`
-    <div class="hero-badge">★ MISE EN AVANT</div>
-    <h1 class="hero-title">${a.heroTitle}</h1>
-    <div class="hero-meta">
-      ${a.heroMeta.map(m=>m.icon
-        ?`<span class="rating-chip">${m.icon} ${m.text}</span>`
-        :`<span class="stat-chip" style="color:${m.color||'var(--muted)'}">${m.text}</span>`
-      ).join('')}
+    <div class="hero-badges-row">
+      <span class="hero-chip">SÉRIE</span>
+      ${yearChip}
+      <span class="hero-chip gold">⭐ ${a.rating}</span>
     </div>
-    <p class="hero-desc">${a.description}</p>
+    <h1 class="hero-title">${a.heroTitle}</h1>
+    <p class="hero-desc hero-desc-clamp">${a.description}</p>
     <div class="hero-genres">${a.genres.slice(0,4).map(g=>`<span class="genre-tag">${g}</span>`).join('')}</div>
     <div class="hero-actions">
       <button class="btn btn-primary" onclick="playEpisode(1,0)">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>Regarder — Ép. 1
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>Lecture
       </button>
       <button class="btn btn-ghost" onclick="openAnimePage()">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>Fiche anime
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>Plus d'infos
       </button>
     </div>`;
+  renderHeroPagination();
   document.getElementById('home-stats-bar').innerHTML=a.stats.map(s=>`
     <div class="stat-item"><div class="stat-value">${s.v}</div><div class="stat-label">${s.l}</div></div>`).join('');
   document.getElementById('home-see-all').onclick=()=>openAnimePage();
@@ -524,6 +590,64 @@ function renderHomeForAnime(){
     c.classList.toggle('active',(c.getAttribute('onclick')||'').includes("'"+currentAnimeId+"'"));
   });
 }
+
+function renderHeroPagination(){
+  const heroSet = ANIME_INDEX.slice(0,8);
+  const hero = document.getElementById('hero');
+  let pag = document.getElementById('hero-pagination');
+  if(!pag){ pag=document.createElement('div'); pag.id='hero-pagination'; pag.className='hero-pagination'; hero.appendChild(pag); }
+  pag.innerHTML = heroSet.map(a=>`<button class="hero-dot${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')" aria-label="${a.title}"></button>`).join('')
+    + `<button class="hero-arrow" onclick="heroNext()" aria-label="Suivant">›</button>`;
+}
+function heroNext(){
+  const heroSet = ANIME_INDEX.slice(0,8);
+  let idx = heroSet.findIndex(a=>a.id===currentAnimeId);
+  idx = (idx===-1) ? 0 : (idx+1)%heroSet.length;
+  selectHomeAnime(heroSet[idx].id);
+}
+
+function renderTrending(){
+  const top = [...ANIME_INDEX].sort((a,b)=>parseFloat(b.rating||0)-parseFloat(a.rating||0)).slice(0,10);
+  document.getElementById('trending-row').innerHTML = top.map((a,i)=>`
+    <div class="trending-item" onclick="goToAnime('${a.id}')">
+      <span class="trending-num">${i+1}</span>
+      <img class="trending-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
+    </div>`).join('');
+}
+
+function onNavSearch(q){
+  q=(q||'').trim().toLowerCase();
+  const dd=document.getElementById('nav-search-dropdown');
+  if(!q){ dd.classList.remove('active'); dd.innerHTML=''; return; }
+  if(!ANIME_INDEX.length){ dd.classList.remove('active'); return; }
+  const matches=ANIME_INDEX.filter(a=>a.title.toLowerCase().includes(q)||a.genres.some(g=>g.toLowerCase().includes(q))).slice(0,6);
+  if(matches.length===0){
+    dd.innerHTML='<div class="nsd-empty">Aucun résultat</div>';
+  } else {
+    dd.innerHTML = matches.map(a=>`
+      <div class="nsd-item" onclick="goToAnime('${a.id}');closeNavSearch()">
+        <img class="nsd-thumb" src="${a.poster}" alt="" onerror="this.style.opacity='0'"/>
+        <div class="nsd-info">
+          <div class="nsd-title">${a.title}</div>
+          <div class="nsd-sub">Anime · <span class="gold">⭐ ${a.rating}</span> · ${a.year}</div>
+        </div>
+      </div>`).join('') + `<span class="nsd-seeall" onclick="openSearchFromNav()">Voir tous les résultats</span>`;
+  }
+  dd.classList.add('active');
+}
+function closeNavSearch(){
+  document.getElementById('nav-search-dropdown').classList.remove('active');
+  document.getElementById('nav-search-input').value='';
+}
+function openSearchFromNav(){
+  const q=document.getElementById('nav-search-input').value;
+  closeNavSearch();
+  openSearch().then(()=>{ document.getElementById('search-big-input').value=q; onSearch(q); });
+}
+document.addEventListener('click',(e)=>{
+  const wrap=document.querySelector('.nav-search-wrap');
+  if(wrap && !wrap.contains(e.target)) document.getElementById('nav-search-dropdown').classList.remove('active');
+});
 
 function renderAnimePage(){
   const a=getAnime();
@@ -680,6 +804,7 @@ async function initApp(){
   try{
     await loadIndex();
     renderCatalogue();
+    renderTrending();
     await loadAnimeData(currentAnimeId);
     renderHome();
     renderAnimePage();
