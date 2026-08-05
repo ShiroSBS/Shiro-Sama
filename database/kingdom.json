@@ -1,0 +1,795 @@
+{
+  "id": "kingdom",
+  "title": "Kingdom",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png",
+  "description": "Dans la période de l'ancienne Chine (475-221 B.J.C.), Shin et Hyou sont des orphelins de guerre dans le royaume de Qin. Ils rêvent un jour de pouvoir se prouver à eux-même de pouvoir être sur un champ de guerre. Un jour, cependant, Hyou est amené au palais par un ministre, étant pris pour le roi du royaume. Étant malheureusement du coté perdant d'une guerre qui se passait, Hyou parvient à revenir au village en vie assez longtemps pour dire à Shin l'endroit où se trouverait le vrai roi. Peu de temps après, Shin rencontre un garçon ressemblant à Hyou, Ei Sei. Pour l'instant, Ei Sei est le vrai roi du royaume de Qin. plus tard, il sera l'empereur Shi Huangdi.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Guerre",
+    "Aventure"
+  ],
+  "rating": "7.4",
+  "year": "2012",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Kingdom",
+  "stats": [
+    {
+      "v": "5",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.4",
+      "l": "Note"
+    },
+    {
+      "v": "2012",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.4"
+    },
+    {
+      "text": "🎬 5 Saisons · 142 Éps"
+    },
+    {
+      "text": "📅 2012"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4863305"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4863310"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4863313"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4863318"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4863325"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4863333"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4863335"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4863338"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4863342"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4863345"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4863348"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4863350"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4863354"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4863357"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4863358"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4863361"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4863362"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4863367"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4863373"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4863379"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4863382"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4863387"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4863388"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4863392"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4863394"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4863397"
+        },
+        {
+          "n": 27,
+          "title": "Episode 27",
+          "id": "4863400"
+        },
+        {
+          "n": 28,
+          "title": "Episode 28",
+          "id": "4863402"
+        },
+        {
+          "n": 29,
+          "title": "Episode 29",
+          "id": "4863406"
+        },
+        {
+          "n": 30,
+          "title": "Episode 30",
+          "id": "4863408"
+        },
+        {
+          "n": 31,
+          "title": "Episode 31",
+          "id": "4863410"
+        },
+        {
+          "n": 32,
+          "title": "Episode 32",
+          "id": "4863412"
+        },
+        {
+          "n": 33,
+          "title": "Episode 33",
+          "id": "4863414"
+        },
+        {
+          "n": 34,
+          "title": "Episode 34",
+          "id": "4863416"
+        },
+        {
+          "n": 35,
+          "title": "Episode 35",
+          "id": "4863419"
+        },
+        {
+          "n": 36,
+          "title": "Episode 36",
+          "id": "4863422"
+        },
+        {
+          "n": 37,
+          "title": "Episode 37",
+          "id": "4863424"
+        },
+        {
+          "n": 38,
+          "title": "Episode 38",
+          "id": "4863428"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4863431"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4863433"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4863435"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4863438"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4863441"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4863444"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4863445"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4863448"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4863452"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4863455"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4863457"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4863458"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4863461"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4863462"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4863464"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4863466"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4863468"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4863471"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4863473"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4863478"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4863481"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4863485"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4863487"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4863490"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4863495"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4863496"
+        },
+        {
+          "n": 27,
+          "title": "Episode 27",
+          "id": "4863499"
+        },
+        {
+          "n": 28,
+          "title": "Episode 28",
+          "id": "4863503"
+        },
+        {
+          "n": 29,
+          "title": "Episode 29",
+          "id": "4863504"
+        },
+        {
+          "n": 30,
+          "title": "Episode 30",
+          "id": "4863507"
+        },
+        {
+          "n": 31,
+          "title": "Episode 31",
+          "id": "4863510"
+        },
+        {
+          "n": 32,
+          "title": "Episode 32",
+          "id": "4863513"
+        },
+        {
+          "n": 33,
+          "title": "Episode 33",
+          "id": "4863515"
+        },
+        {
+          "n": 34,
+          "title": "Episode 34",
+          "id": "4863517"
+        },
+        {
+          "n": 35,
+          "title": "Episode 35",
+          "id": "4863519"
+        },
+        {
+          "n": 36,
+          "title": "Episode 36",
+          "id": "4863521"
+        },
+        {
+          "n": 37,
+          "title": "Episode 37",
+          "id": "4863523"
+        },
+        {
+          "n": 38,
+          "title": "Episode 38",
+          "id": "4863526"
+        },
+        {
+          "n": 39,
+          "title": "Episode 39",
+          "id": "4863527"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4863528"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4863531"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4863534"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4863537"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4863539"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4863542"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4863545"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4863547"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4863549"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4863552"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4863553"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4863555"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4863558"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4863561"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4863563"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4863564"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4863568"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4863569"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4863570"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4863573"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4863575"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4863578"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4863579"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4863581"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4863583"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4863585"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5240473"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5240475"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5240478"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5240480"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5240482"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5240483"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5240484"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5240487"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5240488"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5240491"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5240494"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5240497"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5240499"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5240502"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5240504"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5240506"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5240508"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5240511"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5240513"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5240515"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5240516"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5240517"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5240519"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "5240520"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "5240522"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "5240524"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 5",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "6106561"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "6106565"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "6106568"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "6106571"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "6106576"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "6106586"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "6106595"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "6106598"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "6106603"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "6106631"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "6106653"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "6106655"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "6106656"
+        }
+      ]
+    }
+  }
+}
