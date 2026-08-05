@@ -404,6 +404,21 @@
       "Tournois",
       "Aventure"
     ]
+    },
+    {
+    "id": "kingdom",
+    "title": "Kingdom",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12031-1nVQa5nXPt48.png",
+    "rating": "7.4",
+    "year": "2012",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Guerre",
+      "Aventure"
+    ]
   }
 ]
 
