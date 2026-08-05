@@ -257,28 +257,38 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 @media(max-width:600px){.hero-pagination{right:16px;bottom:16px}}
 
 /* === REFONTE : section tendances numérotée === */
-.rank-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:4px 28px;padding:18px 32px 8px}
-.rank-row{display:flex;align-items:center;gap:16px;padding:11px 14px;border-radius:14px;cursor:pointer;position:relative;
-  transition:background .35s cubic-bezier(.22,1,.36,1),transform .35s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
-.rank-row:hover{background:rgba(255,255,255,.06);transform:translateX(6px)}
-.rank-num{font-size:34px;font-weight:900;width:48px;text-align:center;flex-shrink:0;line-height:1;letter-spacing:-.03em;
-  font-variant-numeric:tabular-nums;font-feature-settings:'tnum';
-  background:linear-gradient(180deg,var(--accent2),var(--accent));-webkit-background-clip:text;background-clip:text;color:transparent;
-  position:relative;z-index:2;transition:transform .35s cubic-bezier(.34,1.56,.64,1);}
-.rank-row:hover .rank-num{transform:scale(1.12)}
-.rank-poster{width:50px;aspect-ratio:2/3;object-fit:cover;border-radius:8px;flex-shrink:0;box-shadow:0 8px 20px rgba(0,0,0,.55);border:1px solid var(--border);
-  transition:transform .35s cubic-bezier(.22,1,.36,1),box-shadow .35s ease;}
-.rank-row:hover .rank-poster{transform:scale(1.08);box-shadow:0 10px 26px rgba(0,0,0,.6),0 0 20px rgba(59,126,255,.2)}
-.rank-info{flex:1;min-width:0}
-.rank-title{font-size:14.5px;font-weight:700;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.rank-genres{font-size:11.5px;color:var(--muted);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.rank-rating{display:flex;align-items:center;gap:5px;background:rgba(245,200,66,.12);border:1px solid rgba(245,200,66,.28);color:var(--gold);
-  font-weight:800;font-size:13px;padding:6px 12px;border-radius:10px;flex-shrink:0;font-variant-numeric:tabular-nums;}
+.rank-list-wrap{position:relative}
+.rank-list{display:flex;gap:26px;overflow-x:auto;overflow-y:hidden;padding:26px 60px 22px 84px;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+.rank-list::-webkit-scrollbar{display:none}
+.rank-row{position:relative;flex-shrink:0;width:170px;height:250px;cursor:pointer;scroll-snap-align:start;
+  transition:transform .4s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
+.rank-row:hover{transform:translateY(-8px)}
+.rank-poster{position:absolute;left:34px;top:0;width:136px;height:100%;object-fit:cover;border-radius:14px;z-index:1;
+  box-shadow:0 16px 40px rgba(0,0,0,.6),0 0 0 1px rgba(255,255,255,.06);border:1px solid var(--border);
+  transition:box-shadow .4s ease,filter .4s ease;}
+.rank-row:hover .rank-poster{box-shadow:0 20px 50px rgba(0,0,0,.7),0 0 30px rgba(59,126,255,.3);}
+.rank-num{position:absolute;left:0;bottom:0;font-size:132px;font-weight:900;font-style:italic;line-height:.68;letter-spacing:-.05em;
+  font-variant-numeric:tabular-nums;font-feature-settings:'tnum';z-index:2;pointer-events:none;
+  color:rgba(59,126,255,.22);-webkit-text-stroke:2.5px rgba(111,163,255,.85);
+  text-shadow:0 6px 24px rgba(0,0,0,.5);transition:all .4s cubic-bezier(.22,1,.36,1);}
+.rank-row:hover .rank-num{-webkit-text-stroke:2.5px #fff;color:rgba(59,126,255,.35)}
+.rank-overlay{position:absolute;left:34px;right:0;bottom:0;height:60%;border-radius:0 0 14px 14px;z-index:3;pointer-events:none;
+  background:linear-gradient(to top,rgba(5,7,12,.95) 0%,rgba(5,7,12,.55) 45%,transparent 100%);
+  opacity:0;transition:opacity .35s ease;display:flex;flex-direction:column;justify-content:flex-end;padding:12px 10px;}
+.rank-row:hover .rank-overlay{opacity:1}
+.rank-title{font-size:12.5px;font-weight:800;color:#fff;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:4px}
+.rank-rating{display:inline-flex;align-items:center;gap:4px;background:rgba(245,200,66,.18);border:1px solid rgba(245,200,66,.4);color:var(--gold);
+  font-weight:800;font-size:11px;padding:3px 8px;border-radius:7px;width:fit-content;font-variant-numeric:tabular-nums;}
+.rank-arrow{position:absolute;top:50%;right:14px;transform:translateY(-50%);width:40px;height:40px;border-radius:50%;
+  background:rgba(12,15,26,.8);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.15);color:#fff;display:flex;
+  align-items:center;justify-content:center;cursor:pointer;z-index:10;font-size:20px;transition:all .3s cubic-bezier(.22,1,.36,1);}
+.rank-arrow:hover{background:rgba(59,126,255,.35);border-color:rgba(59,126,255,.6);transform:translateY(-50%) scale(1.08)}
 @media(max-width:480px){
-  .rank-list{grid-template-columns:1fr;padding:14px 16px 4px;gap:2px}
-  .rank-num{font-size:26px;width:36px}
-  .rank-poster{width:42px}
-  .rank-title{font-size:13.5px}
+  .rank-list{padding:20px 44px 18px 54px;gap:16px}
+  .rank-row{width:118px;height:180px}
+  .rank-poster{left:22px;width:96px}
+  .rank-num{font-size:88px}
+  .rank-arrow{width:32px;height:32px;font-size:16px;right:6px}
 }
 </style>
 </head>
@@ -342,7 +352,10 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   <div class="section" style="padding-bottom:0">
     <h2 class="section-title">🏆 Top 10 — Les mieux notés</h2>
   </div>
-  <div class="rank-list" id="rank-list"></div>
+  <div class="rank-list-wrap">
+    <div class="rank-list" id="rank-list"></div>
+    <button class="rank-arrow" onclick="scrollRankList()" aria-label="Suivant">›</button>
+  </div>
   <div class="stats-bar" id="home-stats-bar"></div>
   <div class="section">
     <div style="margin-bottom:20px">
@@ -629,12 +642,15 @@ function renderTopRated(){
     <div class="rank-row" onclick="goToAnime('${a.id}')">
       <span class="rank-num">${i+1}</span>
       <img class="rank-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
-      <div class="rank-info">
+      <div class="rank-overlay">
         <div class="rank-title">${a.title}</div>
-        <div class="rank-genres">${(a.genres||[]).slice(0,2).join(' · ')}</div>
+        <span class="rank-rating">⭐ ${a.rating}</span>
       </div>
-      <span class="rank-rating">⭐ ${a.rating}</span>
     </div>`).join('');
+}
+function scrollRankList(){
+  const el=document.getElementById('rank-list');
+  el.scrollBy({left: Math.round(el.clientWidth*0.8), behavior:'smooth'});
 }
 
 function onNavSearch(q){
