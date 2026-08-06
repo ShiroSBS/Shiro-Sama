@@ -60,7 +60,7 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Chainsaw Man",
       "episodes": [
         {
           "n": 1,
@@ -125,7 +125,7 @@
       ]
     },
     "2": {
-      "label": "Saison 2",
+      "label": "L'Arc de Reze",
       "title": "Film",
       "episodes": []
     }
