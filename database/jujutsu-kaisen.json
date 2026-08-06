@@ -60,7 +60,7 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Jujutsu Kaisen",
       "episodes": [
         {
           "n": 1,
@@ -185,8 +185,8 @@
       ]
     },
     "2": {
-      "label": "Saison 2",
-      "title": "Film",
+      "label": "Flim",
+      "title": "Jujutsu Kaisen 0",
       "episodes": [
         {
           "n": 1,
@@ -196,8 +196,8 @@
       ]
     },
     "3": {
-      "label": "Saison 3",
-      "title": "Saison 2",
+      "label": "Saison 2",
+      "title": "L'Incident de Shibuya",
       "episodes": [
         {
           "n": 1,
@@ -317,8 +317,8 @@
       ]
     },
     "4": {
-      "label": "Saison 4",
-      "title": "Saison 3",
+      "label": "Saison 3",
+      "title": "La Traque Meurtrière",
       "episodes": [
         {
           "n": 1,
