@@ -1,0 +1,386 @@
+{
+  "id": "jujutsu-kaisen",
+  "title": "Jujutsu Kaisen",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+  "description": "Plus de 10 000 morts et disparus sont recensés chaque année au Japon. Les sentiments négatifs que relâchent les êtres humains sont en cause. Souffrance, regrets, humiliation : leur concentration dans un même endroit engendre des malédictions souvent mortelles...\nC'est ce que va découvrir Yuji Itadori, lycéen et membre du club d'occultisme. Il ne croit pas aux fantômes, mais il est doté d'une force physique hors norme qui représente un véritable atout pour les missions du groupe... jusqu'à ce que l'une d'elles prenne une mauvaise tournure. La relique qu'ils dénichent, le doigt découpé d'un démon millénaire, attire les monstres ! Sans réfléchir : le jeune homme avale la relique pour briser la malédiction ! Maintenant, il se trouve possédé par Ryômen Sukuna, le célèbre démon à deux visages. Cependant, contre toute attente, Yuji est toujours capable de garder le contrôle de son corps. Mais en dépit de cela, il est condamné à mort par l'organisation des exorcistes... Une décision qui ne pourra être repoussée qu'à une seule condition : trouver tous les doigts de Sukuna afin d'écarter la menace une bonne fois pour toutes !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "School Life",
+    "Yokai",
+    "Surnaturel",
+    "Magie",
+    "Mystère",
+    "Shônen",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.4",
+  "year": "2020",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Jujutsu Kaisen",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2020",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 4 Saisons · 60 Éps"
+    },
+    {
+      "text": "📅 2020"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4668025"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4668028"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4668029"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4668030"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4668034"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4668035"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4668038"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4668040"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4668042"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4668044"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4668049"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4668055"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4668061"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4668066"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4668072"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4668077"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4668081"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4668084"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4668086"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4668089"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4668092"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4668096"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4668102"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4668111"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Film",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Jujutsu Kaisen 0",
+          "id": "4879087"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5253308"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5253310"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5258312"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5258314"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5263543"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5263545"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5269446"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5278562"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5278171"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5288287"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5298421"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5306222"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5314926"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5324699"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5334985"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5346113"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5355754"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5364778"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5372583"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5380126"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5395745"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5404433"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5413795"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "6110774"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "6110776"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "6116653"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "6121633"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "6128894"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "6134369"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "6139830"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "6151044"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "6157469"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "6162336"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "6168115"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "6173734"
+        }
+      ]
+    }
+  }
+}
