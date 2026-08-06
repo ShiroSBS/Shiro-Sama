@@ -20,5 +20,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "shingeki-no-kyojin",
+    "title": "Shingeki no Kyojin",
+    "poster": "https://i.imgur.com/4OkKLO1.jpeg",
+    "rating": "8.5",
+    "year": "2013",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Science",
+      "Fiction",
+      "Fantastique",
+      "Action",
+      "Aventure"
+    ]
   }
 ]
