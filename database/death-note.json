@@ -246,13 +246,13 @@
       ]
     },
     "2": {
-      "label": "Saison 2",
-      "title": "Films",
+      "label": "Movie",
+      "title": "Death Note Relight",
       "episodes": []
     },
     "3": {
-      "label": "Film",
-      "title": "Live Action",
+      "label": "Live Action",
+      "title": "Movie",
       "episodes": [
         {
           "n": 1,
