@@ -1,0 +1,265 @@
+{
+  "id": "death-note",
+  "title": "Death Note",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+  "description": "Light Yagami, un jeune étudiant surdoué, ramasse un jour le \"Death Note\", un carnet tenu auparavant par un shinigami (Dieu de la mort), Ryuk, qui apparemment s'ennuyait dans son monde.\nIl suffit d'écrire le nom d'une personne dans ce carnet, et celle-ci meurt (selon certaines conditions que le shinigami expliquera à Light lors de leur rencontre).\nC'est ainsi qu'avec le \"Death Note\" entre les mains, Light décide de débarrasser la planète de tous les criminels pour en faire un monde juste, un monde parfait.\nCependant, qui est-il pour juger les gens ? Il devient donc le pire criminel recherché de toute la planète...",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Mystère",
+    "Psychologique",
+    "Surnaturel",
+    "Science",
+    "Fiction"
+  ],
+  "rating": "8.4",
+  "year": "2006",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Death Note",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2006",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 38 Éps"
+    },
+    {
+      "text": "📅 2006"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4745088"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4745089"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4745090"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4745091"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4745092"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4745094"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4745097"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4745099"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4745101"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4745102"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4745103"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4745104"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4745105"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4745106"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4745107"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4745108"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4745111"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4745113"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4745114"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4745115"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4745117"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4745118"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4745125"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4745134"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4745137"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4745138"
+        },
+        {
+          "n": 27,
+          "title": "Episode 27",
+          "id": "4745140"
+        },
+        {
+          "n": 28,
+          "title": "Episode 28",
+          "id": "4745144"
+        },
+        {
+          "n": 29,
+          "title": "Episode 29",
+          "id": "4745149"
+        },
+        {
+          "n": 30,
+          "title": "Episode 30",
+          "id": "4745153"
+        },
+        {
+          "n": 31,
+          "title": "Episode 31",
+          "id": "4745156"
+        },
+        {
+          "n": 32,
+          "title": "Episode 32",
+          "id": "4745157"
+        },
+        {
+          "n": 33,
+          "title": "Episode 33",
+          "id": "4745162"
+        },
+        {
+          "n": 34,
+          "title": "Episode 34",
+          "id": "4745164"
+        },
+        {
+          "n": 35,
+          "title": "Episode 35",
+          "id": "4745165"
+        },
+        {
+          "n": 36,
+          "title": "Episode 36",
+          "id": "4745169"
+        },
+        {
+          "n": 37,
+          "title": "Episode 37",
+          "id": "4745172"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Films",
+      "episodes": []
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Live Action",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5027615"
+        }
+      ]
+    }
+  }
+}
