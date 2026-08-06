@@ -746,7 +746,27 @@ function setWatchSeason(s){
 
 function renderGrid(gridId, anime, sNum){
   const eps=(anime.seasons[sNum]||Object.values(anime.seasons)[0]).episodes;
+  if(!eps.length){
+    document.getElementById(gridId).innerHTML=filmUnavailableCardHTML(anime);
+    return;
+  }
   document.getElementById(gridId).innerHTML=eps.map((ep,i)=>epCardHTML(ep,i,sNum,anime.id)).join('');
+}
+
+function filmUnavailableCardHTML(anime){
+  const img=anime.bannerFallback||anime.banner||anime.poster;
+  return `<div class="ep-card unavailable" title="Non disponible">
+    <div class="ep-thumb">
+      <img src="${img}" alt="Film indisponible" loading="lazy" onerror="this.src='${anime.poster}'"/>
+      <div class="ep-thumb-overlay"></div>
+      <div class="ep-unavail-badge">🔒 Indispo</div>
+    </div>
+    <div class="ep-info">
+      <div class="ep-title">Film indisponible</div>
+      <div class="ep-sub">${anime.title}</div>
+      <span style="display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;color:#888;background:rgba(100,100,100,.12);border:1px solid rgba(100,100,100,.18)">Le lecteur Sibnet ne dispose pas du film</span>
+    </div>
+  </div>`;
 }
 
 function epCardHTML(ep,idx,season,animeId){
