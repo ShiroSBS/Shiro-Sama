@@ -1,1 +1,24 @@
 
+{
+    "id": "jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "poster": "https://i.imgur.com/3kE1pBE.jpeg",
+    "rating": "8.4",
+    "year": "2020",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "School Life",
+      "Yokai",
+      "Surnaturel",
+      "Magie",
+      "Mystère",
+      "Shônen",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  }
+]
