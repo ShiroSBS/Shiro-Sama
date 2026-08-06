@@ -58,5 +58,23 @@
       "Fantastique",
       "Comédie"
     ]
+  },
+  {
+    "id": "death-note",
+    "title": "Death Note",
+    "poster": "https://i.imgur.com/Q9fpxK5.jpeg",
+    "rating": "8.4",
+    "year": "2006",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Drame",
+      "Fantastique",
+      "Mystère",
+      "Psychologique",
+      "Surnaturel",
+      "Science",
+      "Fiction"
+    ]
   }
 ]
