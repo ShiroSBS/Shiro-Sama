@@ -1,0 +1,133 @@
+{
+  "id": "chainsaw-man",
+  "title": "Chainsaw Man",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+  "description": "Pour rembourser ses dettes, Denji, jeune homme dans la dèche la plus totale, est exploité en tant que Devil Hunter avec son chien-démon-tronçonneuse, 'Pochita'. Mais suite à une cruelle trahison, il voit enfin une possibilité de se tirer des bas-fonds où il croupit ! Devenu surpuissant après sa fusion avec Pochita, Denji est recruté par une organisation et part à la chasse aux démons...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Surnaturel",
+    "Combats",
+    "Science",
+    "Fiction",
+    "Fantastique",
+    "Comédie"
+  ],
+  "rating": "8.3",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Chainsaw Man",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 2 Saisons · 12 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4937378"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4946635"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4953801"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4960196"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4966361"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4972066"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4978094"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4984679"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4992301"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4997900"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5005898"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5012199"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Film",
+      "episodes": []
+    }
+  }
+}
