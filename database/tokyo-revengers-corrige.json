@@ -1,0 +1,328 @@
+{
+  "id": "tokyo-revengers",
+  "title": "Tokyo Revengers",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-cWDmnmeEntSe.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120120-UDYgoHA69peT.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-cWDmnmeEntSe.jpg",
+  "description": "À 26 ans, Takemichi a le sentiment d'avoir déjà raté sa vie. Vivotant de petits boulots ingrats tout juste bons à payer le loyer d'un studio miteux, il se lamente sur le désert de sa vie amoureuse lorsqu'il apprend la mort de Hinata, la seule petite amie qu'il ait eue... La jeune fille et son frère ont été les victimes collatérales d'un règlement de comptes entre les membres d'un gigantesque gang, le Tokyo Manji-kai.\nEncore sous le choc, Takemichi est à son tour victime d'un accident qui le ramène inexplicablement 12 ans en arrière, lorsqu'il était au collège et se donnait des airs de mauvais garçon. Et si c'était pour lui l'occasion de sauver Hinata ? Mais en tentant de modifier le futur, Takemichi se retrouvera inexorablement mêlé aux complots se tramant autour du Tokyo Manji-kai et de son charismatique et mystérieux leader...",
+  "genres": [
+    "Amour",
+    "Délinquance",
+    "Ecole",
+    "Mort",
+    "Vengeance",
+    "Voyage temporel",
+    "Action",
+    "Aventure",
+    "Crime"
+  ],
+  "rating": "7.7",
+  "year": "2021",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Tokyo Revengers",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2021",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 3 Saisons · 50 Éps"
+    },
+    {
+      "text": "📅 2021"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Reborn",
+          "id": "4702957"
+        },
+        {
+          "n": 2,
+          "title": "Resist",
+          "id": "4702958"
+        },
+        {
+          "n": 3,
+          "title": "Resolve",
+          "id": "4702959"
+        },
+        {
+          "n": 4,
+          "title": "Return",
+          "id": "4702960"
+        },
+        {
+          "n": 5,
+          "title": "Releap",
+          "id": "4702961"
+        },
+        {
+          "n": 6,
+          "title": "Regret",
+          "id": "4702962"
+        },
+        {
+          "n": 7,
+          "title": "Revive",
+          "id": "4702963"
+        },
+        {
+          "n": 8,
+          "title": "Rechange",
+          "id": "4702964"
+        },
+        {
+          "n": 9,
+          "title": "Revolt",
+          "id": "4702965"
+        },
+        {
+          "n": 10,
+          "title": "Rerise",
+          "id": "4702966"
+        },
+        {
+          "n": 11,
+          "title": "Respect",
+          "id": "4702967"
+        },
+        {
+          "n": 12,
+          "title": "Revenge",
+          "id": "4702968"
+        },
+        {
+          "n": 13,
+          "title": "Odds and Ends",
+          "id": "4702969"
+        },
+        {
+          "n": 14,
+          "title": "Break Up",
+          "id": "4702971"
+        },
+        {
+          "n": 15,
+          "title": "No Pain, No Gain",
+          "id": "4702972"
+        },
+        {
+          "n": 16,
+          "title": "Once upon a time",
+          "id": "4702973"
+        },
+        {
+          "n": 17,
+          "title": "No way",
+          "id": "4702974"
+        },
+        {
+          "n": 18,
+          "title": "Open Fire",
+          "id": "4702976"
+        },
+        {
+          "n": 19,
+          "title": "Turn around",
+          "id": "4702978"
+        },
+        {
+          "n": 20,
+          "title": "Dead or Alive",
+          "id": "4702980"
+        },
+        {
+          "n": 21,
+          "title": "One and only",
+          "id": "4702982"
+        },
+        {
+          "n": 22,
+          "title": "One for all",
+          "id": "4702983"
+        },
+        {
+          "n": 23,
+          "title": "End of war",
+          "id": "4702985"
+        },
+        {
+          "n": 24,
+          "title": "A Cry Baby",
+          "id": "4702988"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "It is what it is",
+          "id": "5873615"
+        },
+        {
+          "n": 2,
+          "title": "Gotta go",
+          "id": "5873616"
+        },
+        {
+          "n": 3,
+          "title": "Stand alone",
+          "id": "5873618"
+        },
+        {
+          "n": 4,
+          "title": "Family bonds",
+          "id": "5873620"
+        },
+        {
+          "n": 5,
+          "title": "Christmas Eve",
+          "id": "5873622"
+        },
+        {
+          "n": 6,
+          "title": "Whip up morale",
+          "id": "5873624"
+        },
+        {
+          "n": 7,
+          "title": "Sibling rivalry",
+          "id": "5873626"
+        },
+        {
+          "n": 8,
+          "title": "Strive together",
+          "id": "5873629"
+        },
+        {
+          "n": 9,
+          "title": "Dawning of a new era",
+          "id": "5873632"
+        },
+        {
+          "n": 10,
+          "title": "The light of my life",
+          "id": "5873634"
+        },
+        {
+          "n": 11,
+          "title": "On my way home",
+          "id": "5873637"
+        },
+        {
+          "n": 12,
+          "title": "Last order",
+          "id": "5873639"
+        },
+        {
+          "n": 13,
+          "title": "When it rains, it pours",
+          "id": "5873643"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "The longest day",
+          "id": "5873645"
+        },
+        {
+          "n": 2,
+          "title": "Mortal enemy",
+          "id": "5873646"
+        },
+        {
+          "n": 3,
+          "title": "Run out of patience",
+          "id": "5873657"
+        },
+        {
+          "n": 4,
+          "title": "Come back to life",
+          "id": "5873659"
+        },
+        {
+          "n": 5,
+          "title": "A bad hunch",
+          "id": "5873669"
+        },
+        {
+          "n": 6,
+          "title": "Rise against",
+          "id": "5873671"
+        },
+        {
+          "n": 7,
+          "title": "Turn the tide",
+          "id": "5873673"
+        },
+        {
+          "n": 8,
+          "title": "I know in my head",
+          "id": "5873677"
+        },
+        {
+          "n": 9,
+          "title": "The blue ogre",
+          "id": "5873679"
+        },
+        {
+          "n": 10,
+          "title": "Brave heart",
+          "id": "5873681"
+        },
+        {
+          "n": 11,
+          "title": "Nothing is left",
+          "id": "5873682"
+        },
+        {
+          "n": 12,
+          "title": "Paradise lost",
+          "id": "5873691"
+        },
+        {
+          "n": 13,
+          "title": "Meet his fate",
+          "id": "5873694"
+        }
+      ]
+    }
+  }
+}
