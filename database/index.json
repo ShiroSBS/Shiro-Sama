@@ -62,7 +62,7 @@
   {
     "id": "death-note",
     "title": "Death Note",
-    "poster": "https://i.imgur.com/Q9fpxK5.jpeg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
     "rating": "8.4",
     "year": "2006",
     "status": "termine",
@@ -75,6 +75,26 @@
       "Surnaturel",
       "Science",
       "Fiction"
+    ]
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "Tokyo Revengers",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-cWDmnmeEntSe.jpg",
+    "rating": "7.7",
+    "year": "2021",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Amour",
+      "Délinquance",
+      "Ecole",
+      "Mort",
+      "Vengeance",
+      "Voyage temporel",
+      "Action",
+      "Aventure",
+      "Crime"
     ]
   }
 ]
