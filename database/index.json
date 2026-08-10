@@ -96,5 +96,22 @@
       "Aventure",
       "Crime"
     ]
+  },
+  {
+    "id": "solo-leveling",
+    "title": "Solo Leveling",
+    "poster": "https://i.imgur.com/YEwE6o0.jpeg",
+    "rating": "8.1",
+    "year": "2024",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
