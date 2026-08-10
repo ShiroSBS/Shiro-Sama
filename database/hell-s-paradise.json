@@ -1,9 +1,9 @@
 {
   "id": "hell-s-paradise",
   "title": "Hell's Paradise",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128893-pAA7PjY8l7dy.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
+  "poster": "https://i.imgur.com/hlWqinc.jpeg",
+  "banner": "https://i.imgur.com/x4rsfIe.jpeg",
+  "bannerFallback": "https://i.imgur.com/hlWqinc.jpeg",
   "description": "Gabimaru, « Le Néant », le plus célèbre et puissant des ninjas-assassins a été capturé et croupit en prison. Affirmant n'avoir plus aucune raison de vivre, il attend désespérément qu'un bourreau parvienne à lui ôter la vie car son entraînement surhumain lui permet de résister aux pires des châtiments. C'est alors qu'il reçoit la visite d'un exécuteur pas comme les autres : une puissante manieuse de sabre et trancheuse de tête. Après un âpre combats dont il réchappe de peu, celle-ci le pousse dans ses retranchements. En échange de la vie sauve, elle lui propose un marché : il devra se rendre sur une île mystérieuse afin de récupérer un élixir d'immortalité. Seul problème : tous ceux qui se sont rendus sur cette île sont revenus découpés en morceaux...",
   "genres": [
     "Action",
@@ -54,7 +54,7 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "L'Île du Paradis Mortel",
       "episodes": [
         {
           "n": 1,
@@ -125,7 +125,7 @@
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "La Guerre du Paradis",
       "episodes": [
         {
           "n": 1,
