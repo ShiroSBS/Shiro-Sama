@@ -113,5 +113,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "hell-s-paradise",
+    "title": "Hell's Paradise",
+    "poster": "https://i.imgur.com/hlWqinc.jpeg",
+    "rating": "8.0",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
