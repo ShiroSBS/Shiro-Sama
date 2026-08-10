@@ -1,0 +1,193 @@
+{
+  "id": "hell-s-paradise",
+  "title": "Hell's Paradise",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128893-pAA7PjY8l7dy.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
+  "description": "Gabimaru, « Le Néant », le plus célèbre et puissant des ninjas-assassins a été capturé et croupit en prison. Affirmant n'avoir plus aucune raison de vivre, il attend désespérément qu'un bourreau parvienne à lui ôter la vie car son entraînement surhumain lui permet de résister aux pires des châtiments. C'est alors qu'il reçoit la visite d'un exécuteur pas comme les autres : une puissante manieuse de sabre et trancheuse de tête. Après un âpre combats dont il réchappe de peu, celle-ci le pousse dans ses retranchements. En échange de la vie sauve, elle lui propose un marché : il devra se rendre sur une île mystérieuse afin de récupérer un élixir d'immortalité. Seul problème : tous ceux qui se sont rendus sur cette île sont revenus découpés en morceaux...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.0",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Hell's Paradise",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.0",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.0"
+    },
+    {
+      "text": "🎬 2 Saisons · 25 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "The Death Row Convict and the Executioner",
+          "id": "5121406"
+        },
+        {
+          "n": 2,
+          "title": "Screening and Choosing",
+          "id": "5121427"
+        },
+        {
+          "n": 3,
+          "title": "Weakness and Strength",
+          "id": "5128239"
+        },
+        {
+          "n": 4,
+          "title": "Hell and Paradise",
+          "id": "5137518"
+        },
+        {
+          "n": 5,
+          "title": "The Samurai and the Woman",
+          "id": "5147246"
+        },
+        {
+          "n": 6,
+          "title": "Heart and Reason",
+          "id": "5154378"
+        },
+        {
+          "n": 7,
+          "title": "Flowers and Offerings",
+          "id": "5161286"
+        },
+        {
+          "n": 8,
+          "title": "Student and Master",
+          "id": "5167510"
+        },
+        {
+          "n": 9,
+          "title": "Gods and People",
+          "id": "5180561"
+        },
+        {
+          "n": 10,
+          "title": "Yin and Yang",
+          "id": "5185627"
+        },
+        {
+          "n": 11,
+          "title": "Weak and Strong",
+          "id": "5192306"
+        },
+        {
+          "n": 12,
+          "title": "Umbrella and Ink",
+          "id": "5199068"
+        },
+        {
+          "n": 13,
+          "title": "Dreams and Reality",
+          "id": "5205265"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dawn and Confusion",
+          "id": "6112856"
+        },
+        {
+          "n": 2,
+          "title": "Reality and Fantasy",
+          "id": "6118472"
+        },
+        {
+          "n": 3,
+          "title": "Immutability and Change",
+          "id": "6126009"
+        },
+        {
+          "n": 4,
+          "title": "The Samurai Code and Carnage",
+          "id": "6130821"
+        },
+        {
+          "n": 5,
+          "title": "Humans and Sages",
+          "id": "6136972"
+        },
+        {
+          "n": 6,
+          "title": "Conflict and Growing Together",
+          "id": "6141735"
+        },
+        {
+          "n": 7,
+          "title": "Two People and One Person",
+          "id": "6147587"
+        },
+        {
+          "n": 8,
+          "title": "Chrysanthemum and Peach",
+          "id": "6153905"
+        },
+        {
+          "n": 9,
+          "title": "Love and Karma",
+          "id": "6159496"
+        },
+        {
+          "n": 10,
+          "title": "Master and Student",
+          "id": "6164345"
+        },
+        {
+          "n": 11,
+          "title": "Ephemeralness and Fire",
+          "id": "6170270"
+        },
+        {
+          "n": 12,
+          "title": "Endings and Beginnings",
+          "id": "6175504"
+        }
+      ]
+    }
+  }
+}
