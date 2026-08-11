@@ -234,5 +234,25 @@
       "Science",
       "Fiction & Fantastique"
     ]
+  },
+  {
+    "id": "konosuba",
+    "title": "KonoSuba",
+    "poster": "https://i.imgur.com/6BNz07t.jpeg",
+    "rating": "7.9",
+    "year": "2016",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Aventure",
+      "Comédie",
+      "Fantasy",
+      "Surnaturel",
+      "Isekai",
+      "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
