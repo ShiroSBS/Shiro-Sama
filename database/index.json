@@ -167,5 +167,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "great-teacher-onizuka",
+    "title": "Great Teacher Onizuka",
+    "poster": "https://i.imgur.com/dSpGM2j.jpeg",
+    "rating": "8.4",
+    "year": "1999",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "School Life",
+      "Yankee",
+      "Drame"
+    ]
   }
 ]
