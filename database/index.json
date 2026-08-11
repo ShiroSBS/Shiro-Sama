@@ -219,5 +219,20 @@
       "Science",
       "Fiction"
     ]
+  },
+  {
+    "id": "kaiju-n-8",
+    "title": "Kaiju N°8",
+    "poster": "https://i.imgur.com/5z7egZ2.jpeg",
+    "rating": "8.1",
+    "year": "2024",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Science",
+      "Fiction & Fantastique"
+    ]
   }
 ]
