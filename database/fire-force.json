@@ -1,0 +1,438 @@
+{
+  "id": "fire-force",
+  "title": "Fire Force",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105310-ygGL9yweZM2Q.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+  "description": "Le monde est horrifié par le phénomène de combustion humaine où l'humanité peut s'enflammer à tout moment. Des brigades spéciales Fire Force ont donc été créées avec pour mission d'éclaircir le mystère de ce phénomène.\nOn suit ainsi le jeune Shinra Kusakabe, surnommé le Démon, qui vient d'intégrer la 8e brigade dans le seul but de devenir un héros et de connaitre la vérité sur l'incendie qui a coûté la vie de sa famille il y a douze ans !",
+  "genres": [
+    "Action",
+    "Drame",
+    "Comédie",
+    "Surnaturel",
+    "Shônen",
+    "Aventure",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Fire Force",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 3 Saisons · 72 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Shinra Kusakabe s'engage dans la Fire Force",
+          "id": "4799682"
+        },
+        {
+          "n": 2,
+          "title": "Le Cœur d'un membre de la Fire Force",
+          "id": "4799686"
+        },
+        {
+          "n": 3,
+          "title": "Le Tournoi des nouvelles recrues",
+          "id": "4799688"
+        },
+        {
+          "n": 4,
+          "title": "Le Héros et la Princesse",
+          "id": "4799689"
+        },
+        {
+          "n": 5,
+          "title": "Début des hostilités",
+          "id": "4799691"
+        },
+        {
+          "n": 6,
+          "title": "La Promesse de Hibana",
+          "id": "4799693"
+        },
+        {
+          "n": 7,
+          "title": "Début de l'enquête sur la 1re brigade",
+          "id": "4799696"
+        },
+        {
+          "n": 8,
+          "title": "L'insecte des flammes",
+          "id": "4799697"
+        },
+        {
+          "n": 9,
+          "title": "Un mal de plus en plus grand",
+          "id": "4799699"
+        },
+        {
+          "n": 10,
+          "title": "Promesse",
+          "id": "4799700"
+        },
+        {
+          "n": 11,
+          "title": "La formation de la 8e brigade – Un redoutable pompier",
+          "id": "4799701"
+        },
+        {
+          "n": 12,
+          "title": "La nuit avant la bataille d'Asakusa",
+          "id": "4799702"
+        },
+        {
+          "n": 13,
+          "title": "Piège",
+          "id": "4799704"
+        },
+        {
+          "n": 14,
+          "title": "Des flammes au service de l'humanité",
+          "id": "4799707"
+        },
+        {
+          "n": 15,
+          "title": "Le rêve d'un forgeron",
+          "id": "4799708"
+        },
+        {
+          "n": 16,
+          "title": "Nous sommes une famille",
+          "id": "4799709"
+        },
+        {
+          "n": 17,
+          "title": "Noir, blanc et gris",
+          "id": "4799710"
+        },
+        {
+          "n": 18,
+          "title": "Le secret de l'allumage",
+          "id": "4799712"
+        },
+        {
+          "n": 19,
+          "title": "Vers les souterrains",
+          "id": "4799713"
+        },
+        {
+          "n": 20,
+          "title": "Avec fierté",
+          "id": "4799715"
+        },
+        {
+          "n": 21,
+          "title": "Connexion",
+          "id": "4799716"
+        },
+        {
+          "n": 22,
+          "title": "Obstination",
+          "id": "4799717"
+        },
+        {
+          "n": 23,
+          "title": "Sourire",
+          "id": "4799719"
+        },
+        {
+          "n": 24,
+          "title": "Passé enflamé",
+          "id": "4799721"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Combat de pompiers / Combat d'hommes",
+          "id": "4696734"
+        },
+        {
+          "n": 2,
+          "title": "Les Flammes de la folie",
+          "id": "4696737"
+        },
+        {
+          "n": 3,
+          "title": "Une nouvelle braise",
+          "id": "4696740"
+        },
+        {
+          "n": 4,
+          "title": "Recherche dans les flammes",
+          "id": "4696743"
+        },
+        {
+          "n": 5,
+          "title": "Le Kata du démon / Le plan de Licht",
+          "id": "4696745"
+        },
+        {
+          "n": 6,
+          "title": "Choix",
+          "id": "4696748"
+        },
+        {
+          "n": 7,
+          "title": "En route vers l'Oasis",
+          "id": "4696751"
+        },
+        {
+          "n": 8,
+          "title": "Le Mal rôde",
+          "id": "4696753"
+        },
+        {
+          "n": 9,
+          "title": "Cœur",
+          "id": "4696755"
+        },
+        {
+          "n": 10,
+          "title": "La Dame en noir",
+          "id": "4696758"
+        },
+        {
+          "n": 11,
+          "title": "Antihéros",
+          "id": "4696762"
+        },
+        {
+          "n": 12,
+          "title": "L'Ombre née de la lumière divine",
+          "id": "4696766"
+        },
+        {
+          "n": 13,
+          "title": "Deux borgnes face à face",
+          "id": "4696769"
+        },
+        {
+          "n": 14,
+          "title": "Le Dieu de la mort",
+          "id": "4696770"
+        },
+        {
+          "n": 15,
+          "title": "Affrontement à trois",
+          "id": "4696772"
+        },
+        {
+          "n": 16,
+          "title": "Explosion de sentiments",
+          "id": "4696774"
+        },
+        {
+          "n": 17,
+          "title": "Sois faible, petit !",
+          "id": "4696776"
+        },
+        {
+          "n": 18,
+          "title": "La souffrance d'une sainte - Un homme appelé \"Assault\"",
+          "id": "4696780"
+        },
+        {
+          "n": 19,
+          "title": "La Famille Oze",
+          "id": "4696782"
+        },
+        {
+          "n": 20,
+          "title": "Arme de destruction",
+          "id": "4696784"
+        },
+        {
+          "n": 21,
+          "title": "Corps à corps",
+          "id": "4696786"
+        },
+        {
+          "n": 22,
+          "title": "Situation désespérée",
+          "id": "4696789"
+        },
+        {
+          "n": 23,
+          "title": "Le Chat de feu",
+          "id": "4696791"
+        },
+        {
+          "n": 24,
+          "title": "Les Signes d'un grand changement",
+          "id": "4696796"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Conviction",
+          "id": "5892668"
+        },
+        {
+          "n": 2,
+          "title": "Captif",
+          "id": "5899606"
+        },
+        {
+          "n": 3,
+          "title": "L'Incarnation des flammes",
+          "id": "5906897"
+        },
+        {
+          "n": 4,
+          "title": "Le Secret de l'or",
+          "id": "5913866"
+        },
+        {
+          "n": 5,
+          "title": "Un Puissant Adversaire",
+          "id": "5920282"
+        },
+        {
+          "n": 6,
+          "title": "Au Bout des prières",
+          "id": "5925932"
+        },
+        {
+          "n": 7,
+          "title": "La Vérité endormie",
+          "id": "5931026"
+        },
+        {
+          "n": 8,
+          "title": "La Religieuse de l'ombre",
+          "id": "5936587"
+        },
+        {
+          "n": 9,
+          "title": "La Résurrection de l'épée sacrée",
+          "id": "5941940"
+        },
+        {
+          "n": 10,
+          "title": "Apparition",
+          "id": "5947856"
+        },
+        {
+          "n": 11,
+          "title": "Combat contre le monstre géant",
+          "id": "5953737"
+        },
+        {
+          "n": 12,
+          "title": "La Folie du passé",
+          "id": "5961614"
+        },
+        {
+          "n": 13,
+          "title": "Inconscience",
+          "id": "6095760"
+        },
+        {
+          "n": 14,
+          "title": "Celui qui porte le soleil",
+          "id": "6100496"
+        },
+        {
+          "n": 15,
+          "title": "Naissance",
+          "id": "6105842"
+        },
+        {
+          "n": 16,
+          "title": "Messie",
+          "id": "6111441"
+        },
+        {
+          "n": 17,
+          "title": "Au centre du monde",
+          "id": "6117349"
+        },
+        {
+          "n": 18,
+          "title": "La formule d'anéantissement",
+          "id": "6122422"
+        },
+        {
+          "n": 19,
+          "title": "Lutte",
+          "id": "6129840"
+        },
+        {
+          "n": 20,
+          "title": "L'espoir",
+          "id": "6135286"
+        },
+        {
+          "n": 21,
+          "title": "Dragon VS Chevalier",
+          "id": "6140591"
+        },
+        {
+          "n": 22,
+          "title": "La résurrection du héros",
+          "id": "6146091"
+        },
+        {
+          "n": 23,
+          "title": "La sainte du désespoir",
+          "id": "6158215"
+        },
+        {
+          "n": 24,
+          "title": "Réponse",
+          "id": "6163054"
+        }
+      ]
+    }
+  }
+}
