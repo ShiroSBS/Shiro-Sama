@@ -690,6 +690,7 @@ function onSearch(q){
 }
 
 function showPage(name){
+  closeSearch();
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.nav-link,.rail-icon,.rail-menu-item').forEach(l=>l.classList.remove('active'));
   document.getElementById('page-'+name).classList.add('active');
