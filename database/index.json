@@ -183,5 +183,24 @@
       "Yankee",
       "Drame"
     ]
+  },
+  {
+    "id": "spy-x-family",
+    "title": "Spy X Family",
+    "poster": "https://i.imgur.com/xhaN7Qm.jpeg",
+    "rating": "8.3",
+    "year": "2022",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Assassinat",
+      "Espionnage",
+      "Famille",
+      "Mensonges",
+      "Organisations secrètes"
+    ]
   }
 ]
