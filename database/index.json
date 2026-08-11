@@ -254,5 +254,25 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "fire-force",
+    "title": "Fire Force",
+    "poster": "https://i.imgur.com/7T6eQBl.jpeg",
+    "rating": "7.6",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Comédie",
+      "Surnaturel",
+      "Shônen",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
