@@ -1,0 +1,272 @@
+{
+  "id": "great-teacher-onizuka",
+  "title": "Great Teacher Onizuka",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx245-NcQAyTipUMeO.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/245-sIPMF9vNDnaJ.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx245-NcQAyTipUMeO.jpg",
+  "description": "Eikichi Onizuka, un ancien biker et leader de gang de yakuzas décide un jour de devenir professeur d'école. Il veut devenir le plus grand professeur du Japon.\nLorsqu'il était jeune, Onizuka détestait les profs car ils n'étaient pas à l'écoute des élèves. C'est pour cela qu'il veut devenir professeur, pour être au près de ses élèves, mais aussi parce qu'il y a de jeunes innocentes étudiantes qui ne le laisse pas indifférent !\nIl lui est alors donné la pire classe de la prestigieuse école privée \"Holy Forest Academy\", la Class 3-4. Onizuka doit alors faire face à de nombreux problèmes causés par ses élèves...",
+  "genres": [
+    "Action",
+    "Comédie",
+    "School Life",
+    "Yankee",
+    "Drame"
+  ],
+  "rating": "8.4",
+  "year": "1999",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Great Teacher Onizuka",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "1999",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 1 Saisons · 42 Éps"
+    },
+    {
+      "text": "📅 1999"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "GTO — Great Teacher Onizuka",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "GTO-The Legend Begins",
+          "id": "4798350"
+        },
+        {
+          "n": 2,
+          "title": "Enter Uchiyamada!",
+          "id": "4798245"
+        },
+        {
+          "n": 3,
+          "title": "Late Night Roof Diving",
+          "id": "4798246"
+        },
+        {
+          "n": 4,
+          "title": "The Secret Life of Onizuka",
+          "id": "4798250"
+        },
+        {
+          "n": 5,
+          "title": "An Eye for an Eye, a Butt for a Butt",
+          "id": "4798251"
+        },
+        {
+          "n": 6,
+          "title": "Conspiracies All Around",
+          "id": "4798252"
+        },
+        {
+          "n": 7,
+          "title": "The Mother of all Crushes",
+          "id": "4798254"
+        },
+        {
+          "n": 8,
+          "title": "Bungee Jumping Made Easy",
+          "id": "4798257"
+        },
+        {
+          "n": 9,
+          "title": "Onizuka and the Art of War",
+          "id": "4798260"
+        },
+        {
+          "n": 10,
+          "title": "Outside Looking In",
+          "id": "4798263"
+        },
+        {
+          "n": 11,
+          "title": "To Be Idolized by a Nation",
+          "id": "4798267"
+        },
+        {
+          "n": 12,
+          "title": "The Formula for Treachery",
+          "id": "4798268"
+        },
+        {
+          "n": 13,
+          "title": "Only the Best Will Do",
+          "id": "4798269"
+        },
+        {
+          "n": 14,
+          "title": "Between a Rock and a Hard Place",
+          "id": "4798271"
+        },
+        {
+          "n": 15,
+          "title": "The Great Sacrifice",
+          "id": "4798272"
+        },
+        {
+          "n": 16,
+          "title": "Beauty + Brains = A Dangerous Mix",
+          "id": "4798273"
+        },
+        {
+          "n": 17,
+          "title": "Falling for The Great Onizuka",
+          "id": "4798275"
+        },
+        {
+          "n": 18,
+          "title": "How to Dine and Dash",
+          "id": "4798278"
+        },
+        {
+          "n": 19,
+          "title": "Private Investigations",
+          "id": "4798282"
+        },
+        {
+          "n": 20,
+          "title": "Love Letters",
+          "id": "4798285"
+        },
+        {
+          "n": 21,
+          "title": "Revolution Everywhere",
+          "id": "4798286"
+        },
+        {
+          "n": 22,
+          "title": "The Art of Demolition",
+          "id": "4798287"
+        },
+        {
+          "n": 23,
+          "title": "Superstition",
+          "id": "4798290"
+        },
+        {
+          "n": 24,
+          "title": "Compromising Positions",
+          "id": "4798292"
+        },
+        {
+          "n": 25,
+          "title": "Playing Doctor - GTO Style",
+          "id": "4798295"
+        },
+        {
+          "n": 26,
+          "title": "Onizuka Meets His Match",
+          "id": "4798298"
+        },
+        {
+          "n": 27,
+          "title": "GTO - Agent to the Stars",
+          "id": "4798300"
+        },
+        {
+          "n": 28,
+          "title": "Whatever Can Go Wrong, Will Go Wrong",
+          "id": "4798302"
+        },
+        {
+          "n": 29,
+          "title": "Studies in High Finance",
+          "id": "4798305"
+        },
+        {
+          "n": 30,
+          "title": "Money Talks, GTO Walks",
+          "id": "4798307"
+        },
+        {
+          "n": 31,
+          "title": "Destination: Okinawa",
+          "id": "4798311"
+        },
+        {
+          "n": 32,
+          "title": "The Law of Probability",
+          "id": "4798314"
+        },
+        {
+          "n": 33,
+          "title": "Search and Rescue",
+          "id": "4798320"
+        },
+        {
+          "n": 34,
+          "title": "Good Cop/Bad Cop",
+          "id": "4798322"
+        },
+        {
+          "n": 35,
+          "title": "Wedding Bell Blues",
+          "id": "4798326"
+        },
+        {
+          "n": 36,
+          "title": "Self-Improvement",
+          "id": "4798328"
+        },
+        {
+          "n": 37,
+          "title": "Living Together",
+          "id": "4798331"
+        },
+        {
+          "n": 38,
+          "title": "Great Treasure Okinawa",
+          "id": "4798337"
+        },
+        {
+          "n": 39,
+          "title": "Alone in the Dark",
+          "id": "4798338"
+        },
+        {
+          "n": 40,
+          "title": "Matters of the Heart",
+          "id": "4798341"
+        },
+        {
+          "n": 41,
+          "title": "Confessions",
+          "id": "4798343"
+        },
+        {
+          "n": 42,
+          "title": "Old Wounds Revisited",
+          "id": "4798346"
+        }
+      ]
+    }
+  }
+}
