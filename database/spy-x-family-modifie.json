@@ -1,0 +1,327 @@
+{
+  "id": "spy-x-family",
+  "title": "Spy X Family",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+  "description": "Twilight, le plus grand espion du monde, doit pour sa nouvelle mission créer une famille de toutes pièces afin de pouvoir s'introduire dans la plus prestigieuse école de l'aristocratie. Totalement dépourvu d'expérience familiale, il va adopter une petite fille en ignorant qu'elle est télépathe, et s'associer à une jeune femme timide, sans se douter qu'elle est une redoutable tueuse à gages. Ce trio atypique va devoir composer pour passer inaperçu, tout en découvrant les vraies valeurs d'une famille unie et aimante.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Assassinat",
+    "Espionnage",
+    "Famille",
+    "Mensonges",
+    "Organisations secrètes"
+  ],
+  "rating": "8.3",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Spy X Family",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.3",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.3"
+    },
+    {
+      "text": "🎬 3 Saisons · 50 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "SPY x FAMILY – Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'opération « Strix »",
+          "id": "4735399"
+        },
+        {
+          "n": 2,
+          "title": "Trouver quelqu'un pour jouer la mère",
+          "id": "4696811"
+        },
+        {
+          "n": 3,
+          "title": "Préparer l'entretien",
+          "id": "4735401"
+        },
+        {
+          "n": 4,
+          "title": "L'entretien à l'école de prestige",
+          "id": "4735402"
+        },
+        {
+          "n": 5,
+          "title": "Est-ce qu'ils vont réussir ou échouer ?",
+          "id": "4735425"
+        },
+        {
+          "n": 6,
+          "title": "Le plan d'amitié",
+          "id": "4735427"
+        },
+        {
+          "n": 7,
+          "title": "Le fils de la cible",
+          "id": "4735430"
+        },
+        {
+          "n": 8,
+          "title": "Le plan de couverture de la police secrète",
+          "id": "4739504"
+        },
+        {
+          "n": 9,
+          "title": "Montrez à quel point vous êtes amoureux",
+          "id": "4748867"
+        },
+        {
+          "n": 10,
+          "title": "Le grand plan du ballon prisonnier",
+          "id": "4766449"
+        },
+        {
+          "n": 11,
+          "title": "Stella",
+          "id": "4775960"
+        },
+        {
+          "n": 12,
+          "title": "Penguin Park",
+          "id": "4783724"
+        },
+        {
+          "n": 13,
+          "title": "Projet Apple",
+          "id": "5256913"
+        },
+        {
+          "n": 14,
+          "title": "Désamorcer la bombe à retardement",
+          "id": "5256914"
+        },
+        {
+          "n": 15,
+          "title": "Un nouveau membre dans la famille",
+          "id": "5256916"
+        },
+        {
+          "n": 16,
+          "title": "La cuisine de Yor / Le grand plan romantique de l'informateur",
+          "id": "5256917"
+        },
+        {
+          "n": 17,
+          "title": "Le plan Griffin / Fullmetal Lady / Omelette ♥",
+          "id": "5256919"
+        },
+        {
+          "n": 18,
+          "title": "Oncle le tuteur particulier / Daybreak",
+          "id": "5256921"
+        },
+        {
+          "n": 19,
+          "title": "Le plan pour se venger de Desmond / La mère rapide comme le vent",
+          "id": "5256922"
+        },
+        {
+          "n": 20,
+          "title": "L'inspection de la clinique / Le déchiffrage du message codé",
+          "id": "5256923"
+        },
+        {
+          "n": 21,
+          "title": "Nocturna / Le premier sentiment de jalousie",
+          "id": "5256930"
+        },
+        {
+          "n": 22,
+          "title": "Campbelldon, le tournoi de tennis clandestin",
+          "id": "5256931"
+        },
+        {
+          "n": 23,
+          "title": "Une constance inébranlable",
+          "id": "5256932"
+        },
+        {
+          "n": 24,
+          "title": "À la fois mère et épouse / Shopping entre copines",
+          "id": "5256933"
+        },
+        {
+          "n": 25,
+          "title": "Première approche",
+          "id": "5256934"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "SPY x FAMILY – Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Prendre père et mère en filature",
+          "id": "5300544"
+        },
+        {
+          "n": 2,
+          "title": "Le plan de survie de Bond / La leçon en plein air de Damian",
+          "id": "5308510"
+        },
+        {
+          "n": 3,
+          "title": "Entre mission et famille / Bondman le Magnifique / Le cœur d'une enfant / Le réveil",
+          "id": "5317766"
+        },
+        {
+          "n": 4,
+          "title": "La pâtisserie du savoir / La tactique de séduction (II)",
+          "id": "5327238"
+        },
+        {
+          "n": 5,
+          "title": "La traversée de la frontière",
+          "id": "5337867"
+        },
+        {
+          "n": 6,
+          "title": "Une croisière de luxe à donner des frissons",
+          "id": "5348308"
+        },
+        {
+          "n": 7,
+          "title": "À qui peut profiter ce travail ?",
+          "id": "5358203"
+        },
+        {
+          "n": 8,
+          "title": "La symphonie du paquebot",
+          "id": "5366810"
+        },
+        {
+          "n": 9,
+          "title": "Les mains qui bâtissent un nouvel avenir",
+          "id": "5374678"
+        },
+        {
+          "n": 10,
+          "title": "La station balnéaire / Anya se vante de son week-end",
+          "id": "5381658"
+        },
+        {
+          "n": 11,
+          "title": "Berlint Love / Le quotidien de Nocturna",
+          "id": "5389519"
+        },
+        {
+          "n": 12,
+          "title": "Un membre de la famille",
+          "id": "5397740"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "SPY x FAMILY – Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Panique à Berlint – L'informateur et Nocturna",
+          "id": "6043431"
+        },
+        {
+          "n": 2,
+          "title": "Attention aux tonitos – Les souvenirs de XXXX",
+          "id": "6048733"
+        },
+        {
+          "n": 3,
+          "title": "Les souvenirs de XXXX (partie 2)",
+          "id": "6053691"
+        },
+        {
+          "n": 4,
+          "title": "L'envers du scandale – La voie pour devenir Imperial Scholar",
+          "id": "6058091"
+        },
+        {
+          "n": 5,
+          "title": "L'opération copinage entre mamans",
+          "id": "6063157"
+        },
+        {
+          "n": 6,
+          "title": "Une jalousie blanchâtre – Le détournement de bus d'Eden",
+          "id": "6068225"
+        },
+        {
+          "n": 7,
+          "title": "Le cirque rouge",
+          "id": "6073030"
+        },
+        {
+          "n": 8,
+          "title": "Neutraliser les ravisseurs",
+          "id": "6078001"
+        },
+        {
+          "n": 9,
+          "title": "L'heure de gloire d'Anya est arrivée",
+          "id": "6083673"
+        },
+        {
+          "n": 10,
+          "title": "La souffrance d'Austin – Une soirée ordinaire",
+          "id": "6088161"
+        },
+        {
+          "n": 11,
+          "title": "L'état d'urgence de niveau 3",
+          "id": "6101744"
+        },
+        {
+          "n": 12,
+          "title": "Le combat à mort des égouts",
+          "id": "6101749"
+        },
+        {
+          "n": 13,
+          "title": "Un monde où on ne peut pas survivre",
+          "id": "6101752"
+        }
+      ]
+    }
+  }
+}
