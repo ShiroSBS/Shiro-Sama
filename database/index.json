@@ -187,7 +187,7 @@
   {
     "id": "spy-x-family",
     "title": "Spy X Family",
-    "poster": "https://i.imgur.com/8b6zgTm.jpeg",
+    "poster": "https://i.imgur.com/xhaN7Qm.jpeg",
     "rating": "8.3",
     "year": "2022",
     "status": "termine",
@@ -201,6 +201,23 @@
       "Famille",
       "Mensonges",
       "Organisations secrètes"
+    ]
+  },
+  {
+    "id": "mashle",
+    "title": "Mashle",
+    "poster": "https://i.imgur.com/HMMITMB.jpeg",
+    "rating": "7.6",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Fantastique",
+      "Science",
+      "Fiction"
     ]
   }
 ]
