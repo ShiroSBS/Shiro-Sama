@@ -1,0 +1,317 @@
+{
+  "id": "assassination-classroom",
+  "title": "Assassination Classroom",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19759-rmrZRS3hv6Tr.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19759-WAXcnT7UQopf.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19759-rmrZRS3hv6Tr.jpg",
+  "description": "La planète Terre est en sursis ! Après avoir partiellement détruit la Lune, un être étrange et surpuissant a décrété que si personne ne parvenait à le tuer dans l'année à venir, la planète subirait le même sort que son satellite. Durant ce laps de temps, il a également exigé d'être nommé professeur de la classe 3-E du lycée Kunugigaoka, aussi connue sous le nom de \"Class End\", la classe des cas désespérés.\nLes étudiants sont donc les mieux placés pour tuer cet étrange professeur, baptisé Koro-sensei, et ainsi empocher la somme astronomique de 10 milliards de yens. L'ennui, c'est que la majorité des lycéens de cette classe manquent cruellement de confiance en eux, écrasés par un système qui ne leur convient pas.",
+  "genres": [
+    "Action",
+    "Comédie",
+    "School Life",
+    "Surnaturel",
+    "Aventure",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "6.8",
+  "year": "2013",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Assassination Classroom",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "6.8",
+      "l": "Note"
+    },
+    {
+      "v": "2013",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "6.8"
+    },
+    {
+      "text": "🎬 2 Saisons · 47 Éps + 1 Film"
+    },
+    {
+      "text": "📅 2013"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Assassination Classroom",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Séquence Assassinat",
+          "id": "3564949"
+        },
+        {
+          "n": 2,
+          "title": "Séquence Baseball",
+          "id": "3564952"
+        },
+        {
+          "n": 3,
+          "title": "Séquence Karma",
+          "id": "3564961"
+        },
+        {
+          "n": 4,
+          "title": "Séquence Adulte",
+          "id": "3564965"
+        },
+        {
+          "n": 5,
+          "title": "Séquence Assemblée",
+          "id": "3564973"
+        },
+        {
+          "n": 6,
+          "title": "Séquence Examen",
+          "id": "3564975"
+        },
+        {
+          "n": 7,
+          "title": "Séquence Voyage Scolaire (1ère partie)",
+          "id": "3564978"
+        },
+        {
+          "n": 8,
+          "title": "Séquence Voyage Scolaire (2ème partie)",
+          "id": "3564980"
+        },
+        {
+          "n": 9,
+          "title": "Séquence nouvelle élève",
+          "id": "3564984"
+        },
+        {
+          "n": 10,
+          "title": "Séquence L et R",
+          "id": "3564988"
+        },
+        {
+          "n": 11,
+          "title": "Séquence nouvel élève, 2ème heure",
+          "id": "3564989"
+        },
+        {
+          "n": 12,
+          "title": "Séquence jeux de balles",
+          "id": "3564990"
+        },
+        {
+          "n": 13,
+          "title": "Séquence Talent",
+          "id": "3564991"
+        },
+        {
+          "n": 14,
+          "title": "Séquence Vision",
+          "id": "3564992"
+        },
+        {
+          "n": 15,
+          "title": "Séquence Examens Trimestriels",
+          "id": "3564995"
+        },
+        {
+          "n": 16,
+          "title": "Séquence fin de trimestre",
+          "id": "3564997"
+        },
+        {
+          "n": 17,
+          "title": "Séquence île",
+          "id": "3564998"
+        },
+        {
+          "n": 18,
+          "title": "Séquence exécution",
+          "id": "3565001"
+        },
+        {
+          "n": 19,
+          "title": "Séquence antre des démons",
+          "id": "3565002"
+        },
+        {
+          "n": 20,
+          "title": "Séquence Karma, 2ème heure",
+          "id": "3565003"
+        },
+        {
+          "n": 21,
+          "title": "Séquence XX/Séquence Takaoka",
+          "id": "3565005"
+        },
+        {
+          "n": 22,
+          "title": "Séquence Nagisa",
+          "id": "3565007"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Assassination Classroom 2nd Season",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Séquence festival d'été",
+          "id": "3566463"
+        },
+        {
+          "n": 2,
+          "title": "Séquence Kaede",
+          "id": "3566464"
+        },
+        {
+          "n": 3,
+          "title": "Séquence Itona Horibe",
+          "id": "3566465"
+        },
+        {
+          "n": 4,
+          "title": "Séquence Filage",
+          "id": "3566466"
+        },
+        {
+          "n": 5,
+          "title": "Séquence Leader",
+          "id": "3566467"
+        },
+        {
+          "n": 6,
+          "title": "Séquence Avant et Après",
+          "id": "3566468"
+        },
+        {
+          "n": 7,
+          "title": "Séquence Dieu de la Mort (1ère partie)",
+          "id": "3566469"
+        },
+        {
+          "n": 8,
+          "title": "Séquence Dieu de la Mort (2ème partie)",
+          "id": "3566470"
+        },
+        {
+          "n": 9,
+          "title": "Séquence New Game+",
+          "id": "3566471"
+        },
+        {
+          "n": 10,
+          "title": "Séquence Fête de l'école",
+          "id": "3566472"
+        },
+        {
+          "n": 11,
+          "title": "Séquence Fin de trimestre, 2ème heure",
+          "id": "3566473"
+        },
+        {
+          "n": 12,
+          "title": "Séquence Espace",
+          "id": "3566474"
+        },
+        {
+          "n": 13,
+          "title": "Séquence laisser vivre",
+          "id": "3566475"
+        },
+        {
+          "n": 14,
+          "title": "Séquence Véritable identité",
+          "id": "3566476"
+        },
+        {
+          "n": 15,
+          "title": "Séquence Confession",
+          "id": "3566477"
+        },
+        {
+          "n": 16,
+          "title": "Séquence Passé",
+          "id": "3566478"
+        },
+        {
+          "n": 17,
+          "title": "Séquence Scission",
+          "id": "3566479"
+        },
+        {
+          "n": 18,
+          "title": "Séquence Résultats",
+          "id": "3566480"
+        },
+        {
+          "n": 19,
+          "title": "Séquence Espace",
+          "id": "3566481"
+        },
+        {
+          "n": 20,
+          "title": "Séquence Saint-Valentin",
+          "id": "3566482"
+        },
+        {
+          "n": 21,
+          "title": "Séquence Confiance",
+          "id": "3566483"
+        },
+        {
+          "n": 22,
+          "title": "Séquence Joyeux anniversaire",
+          "id": "3566484"
+        },
+        {
+          "n": 23,
+          "title": "Séquence Boss de Fin",
+          "id": "3566485"
+        },
+        {
+          "n": 24,
+          "title": "Séquence Fin de scolarité",
+          "id": "3566486"
+        },
+        {
+          "n": 25,
+          "title": "Séquence Avenir",
+          "id": "3566487"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Assassination Classroom: 365 Days",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Assassination Classroom: 365 Days",
+          "id": "5307461"
+        }
+      ]
+    }
+  }
+}
