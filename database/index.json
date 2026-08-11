@@ -148,5 +148,24 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "assassination-classroom",
+    "title": "Assassination Classroom",
+    "poster": "https://i.imgur.com/qG3rpsh.jpeg",
+    "rating": "6.8",
+    "year": "2013",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "School Life",
+      "Surnaturel",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
