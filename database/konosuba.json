@@ -1,0 +1,95 @@
+{
+  "id": "konosuba",
+  "title": "KonoSuba",
+  "poster": "https://i.imgur.com/6BNz07t.jpeg",
+  "banner": "https://i.imgur.com/usCGAwm.jpeg",
+  "bannerFallback": "https://i.imgur.com/6BNz07t.jpeg",
+  "description": "La vie de Satou Kazuma, un hikikomori aimant les jeux, se termine bien trop tôt, dû à un accident de la route... Alors que ce dernier est décédé, une déesse nommée Aqua apparaît devant lui et lui propose de se réincarner dans l'au delà, prenant l'aspect d'un monde fantastique de jeu vidéo.\n\nAprès s'être bien adapté à ce monde et vivant avec une petite équipe dont fait partie la déesse Aqua, une magicienne du nom de Megumin et une paladin masochiste, Kazuma est chargé d'une mission : vaincre le roi-démon. Cependant, en raison de l'incapacité de son groupe à réussir des quêtes, ce dernier va très vite renoncer à cette idée et tenter de profiter de ce monde si parfait à ses yeux.\nMalheureusement pour lui, leurs chemins vont très vite croiser ceux des généraux du roi démon, et c'est ainsi que les galères vont commencer.",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Surnaturel",
+    "Isekai",
+    "Action",
+    "Science-Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.9",
+  "year": "2016",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "KonoSuba",
+  "stats": [
+    { "v": "4", "l": "Saisons" },
+    { "v": "7.9", "l": "Note" },
+    { "v": "2016", "l": "Année" },
+    { "v": "24 min", "l": "Durée / ép." }
+  ],
+  "heroMeta": [
+    { "icon": "⭐", "text": "7.9" },
+    { "text": "🎬 4 Saisons · 34 Éps" },
+    { "text": "📅 2016" },
+    { "color": "#94a3b8", "text": "● Terminé" }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        { "n": 1, "title": "Ma réincarnation dans un autre monde avec cette soi-disant déesse !", "id": "5047200" },
+        { "n": 2, "title": "Une explosion pour la fille perdue dans son délire !", "id": "5047202" },
+        { "n": 3, "title": "Une précieuse culotte dans ma main droite !", "id": "5047204" },
+        { "n": 4, "title": "Une magie explosive sur cet ennemi féroce !", "id": "5047206" },
+        { "n": 5, "title": "Un prix pour cette épée magique !", "id": "5047209" },
+        { "n": 6, "title": "Une conclusion à ce combat sans intérêt !", "id": "5047211" },
+        { "n": 7, "title": "Une deuxième mort par ce froid glacial !", "id": "5047213" },
+        { "n": 8, "title": "Un coup de main pour nous aider à passer l'hiver !", "id": "5047215" },
+        { "n": 9, "title": "Béni soit ce formidable établissement !", "id": "5047216" },
+        { "n": 10, "title": "Une dernière flamme pour cette forteresse abusée !", "id": "5047218" },
+        { "n": 11, "title": "OAV - Béni soit ce merveilleux collier !", "id": "5047220" }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        { "n": 1, "title": "Innocentez-moi dans cette affaire injuste !", "id": "5057137" },
+        { "n": 2, "title": "Des amis pour cette jeune mage écarlate !", "id": "5057139" },
+        { "n": 3, "title": "Que le maître de ce labyrinthe repose en paix !", "id": "5057140" },
+        { "n": 4, "title": "Un fiancé pour cette jeune noble !", "id": "5057141" },
+        { "n": 5, "title": "De la soumission pour cette chevalière masquée !", "id": "5057143" },
+        { "n": 6, "title": "Des adieux pour ce monde bien relou !", "id": "5057144" },
+        { "n": 7, "title": "Une proposition pour ce bon à rien qui se la joue !", "id": "5057145" },
+        { "n": 8, "title": "Du tourisme dans cette ville pitoyable !", "id": "5057146" },
+        { "n": 9, "title": "Une déesse dans cette station thermale nocive !", "id": "5057147" },
+        { "n": 10, "title": "Béni soit mon merveilleux groupe !", "id": "5057148" },
+        { "n": 11, "title": "OAV - Béni soit cet art formidable ! (titre non-officiel)", "id": "5093337" }
+      ]
+    },
+    "3": {
+      "label": "Film",
+      "title": "Film",
+      "episodes": [
+        { "n": 1, "title": "KonoSuba : Legend of Crimson", "id": "5091580" }
+      ]
+    },
+    "4": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        { "n": 1, "title": "Béni soit cet avenir radieux !", "id": "5824606" },
+        { "n": 2, "title": "Un sourire pour cette jeune fille impassible !", "id": "5824610" },
+        { "n": 3, "title": "Une rééducation pour cette fille maligne !", "id": "5824612" },
+        { "n": 4, "title": "Un châtiment bien mérité pour ce justicier beau gosse !", "id": "5824615" },
+        { "n": 5, "title": "Une mauvaise influence pour la princesse qui a été trop couvée !", "id": "5824617" },
+        { "n": 6, "title": "Des adieux à cette vie de rêve !", "id": "5824618" },
+        { "n": 7, "title": "Du repos pour cet aventurier qui vient de loin !", "id": "5824619" },
+        { "n": 8, "title": "Un sommeil éternel pour le maître de ce lac !", "id": "5824620" },
+        { "n": 9, "title": "Un remontage de bretelles pour cette fugueuse !", "id": "5824623" },
+        { "n": 10, "title": "Bénie soit cette future mariée qui n'en fait qu'à sa tête !", "id": "5824624" },
+        { "n": 11, "title": "Béni soit ce bon vieux quotidien !", "id": "5824627" }
+      ]
+    }
+  }
+}
