@@ -1,0 +1,70 @@
+{
+  "id": "mashle",
+  "title": "Mashle",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151801-zBFaJMIJFWfS.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
+  "description": "Dans un monde où la magie fait loi, il était une fois Mash Burnedead ! Élevé au fin fond de la forêt, le jeune garçon passe ses journées entre séances de musculation et dégustations de choux à la crème.\nMais un jour, un agent de police découvre son secret : il est né sans pouvoirs magiques, ce qui est puni de mort ! Pour survivre, il va devoir postuler à Easton, une prestigieuse académie de magie, et en devenir le meilleur élève...\nLa magie n'a plus qu'à bien se tenir : avec sa musculature affûtée et sa force hors du commun, Mash compte bien pulvériser tous les sorts et briser les codes de cette société !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantastique",
+    "Science-Fiction"
+  ],
+  "rating": "7.6",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Mashle",
+  "stats": [
+    { "v": "2", "l": "Saisons" },
+    { "v": "7.6", "l": "Note" },
+    { "v": "2023", "l": "Année" },
+    { "v": "24 min", "l": "Durée / ép." }
+  ],
+  "heroMeta": [
+    { "icon": "⭐", "text": "7.6" },
+    { "text": "🎬 2 Saisons · 24 Éps" },
+    { "text": "📅 2023" },
+    { "color": "#94a3b8", "text": "● Terminé" }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1 - L'examen d'entrée à l'académie Easton",
+      "episodes": [
+        { "n": 1, "title": "Mash Burnedead et ses muscles d'enfer", "id": "5120360" },
+        { "n": 2, "title": "Mash Burnedead et l'étrange labyrinthe", "id": "5127513" },
+        { "n": 3, "title": "Mash Burnedead et le garçon à ne pas fâcher", "id": "5136034" },
+        { "n": 4, "title": "Mash Burnedead et le redoutable sorcier", "id": "5146256" },
+        { "n": 5, "title": "Mash Burnedead et le garçon malchanceux en amour", "id": "5153628" },
+        { "n": 6, "title": "Mash Burnedead et la magie de fer", "id": "5160194" },
+        { "n": 7, "title": "Mash Burnedead et le marionnettiste", "id": "5174350" },
+        { "n": 8, "title": "Mash Burnedead et les loups magiciens", "id": "5180164" },
+        { "n": 9, "title": "Mash Burnedead et le sorcier au sort d'accélération", "id": "5184994" },
+        { "n": 10, "title": "Mash Burnedead et l'élu divin", "id": "5191419" },
+        { "n": 11, "title": "Mash Burnedead et la loi du plus fort", "id": "5198430" },
+        { "n": 12, "title": "Mash Burnedead et le miroir magique", "id": "5203955" }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2 - L'examen de sélection des candidats au titre d'Élu divin",
+      "episodes": [
+        { "n": 1, "title": "Mash Burnedead et les élus divins", "id": "5414806" },
+        { "n": 2, "title": "Mash Burnedead et le retour au bercail", "id": "5421442" },
+        { "n": 3, "title": "Rayne Ames et les dons divins", "id": "5428307" },
+        { "n": 4, "title": "Mash Burnedead et le ballon increvable", "id": "5435946" },
+        { "n": 5, "title": "Finn Ames et l'importance de l'amitié", "id": "5444918" },
+        { "n": 6, "title": "Mash Burnedead et la partie de « Regarder n'est pas jouer »", "id": "5462070" },
+        { "n": 7, "title": "Mash Burnedead et le sorcier virtuose", "id": "5470711" },
+        { "n": 8, "title": "Mash Burnedead et la tour infernale", "id": "5480266" },
+        { "n": 9, "title": "Wahlberg Baïgan et la magie des ténèbres", "id": "5488310" },
+        { "n": 10, "title": "Wahlberg Baïgan et le pire des dangers", "id": "5496851" },
+        { "n": 11, "title": "Mash Burnedead et les origines du plus puissant sorcier", "id": "5504163" },
+        { "n": 12, "title": "Mash Burnedead et les bons amis", "id": "5511510" }
+      ]
+    }
+  }
+}
