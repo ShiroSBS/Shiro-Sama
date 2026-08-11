@@ -117,7 +117,7 @@
   {
     "id": "hell-s-paradise",
     "title": "Hell's Paradise",
-    "poster": "https://i.imgur.com/hlWqinc.jpeg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128893-Gc2t8b8M0mVu.jpg",
     "rating": "8.0",
     "year": "2023",
     "status": "termine",
@@ -125,6 +125,25 @@
     "genres": [
       "Action",
       "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "dr-stone",
+    "title": "Dr Stone",
+    "poster": "https://i.imgur.com/SN6vD4a.jpeg",
+    "rating": "8.1",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Scientifique",
+      "Shônen",
+      "Comédie",
       "Science",
       "Fiction",
       "Fantastique"
