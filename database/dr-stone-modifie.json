@@ -1,0 +1,553 @@
+{
+  "id": "dr-stone",
+  "title": "Dr Stone",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105333-KWKGvBM8Hyga.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
+  "description": "Un jour, une lumière brillante apparaît subitement dans le ciel pétrifiant en une fraction de seconde l'humanité entière. Des millénaires plus tard, Taiju parvient à briser son enveloppe de pierre et découvre un monde où le genre humain a disparu de la surface de la terre. Avec son ami Senku, ils décident de récréer la civilisation à partir de zéro !",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Scientifique",
+    "Shônen",
+    "Comédie",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.1",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Dr Stone",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 4 Saisons · 94 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone World",
+          "id": "6232488"
+        },
+        {
+          "n": 2,
+          "title": "King of the Stone World",
+          "id": "6232492"
+        },
+        {
+          "n": 3,
+          "title": "Les armes de la science",
+          "id": "6232496"
+        },
+        {
+          "n": 4,
+          "title": "Allumons un signal de fumée",
+          "id": "6232509"
+        },
+        {
+          "n": 5,
+          "title": "Stone World the beginning",
+          "id": "6232518"
+        },
+        {
+          "n": 6,
+          "title": "Les deux nations du monde de pierre",
+          "id": "6232525"
+        },
+        {
+          "n": 7,
+          "title": "2 millions d'années en lieu sûr",
+          "id": "6232532"
+        },
+        {
+          "n": 8,
+          "title": "Stone Road",
+          "id": "6232536"
+        },
+        {
+          "n": 9,
+          "title": "Nous brandirons la lumière de la science",
+          "id": "6232540"
+        },
+        {
+          "n": 10,
+          "title": "Une alliance frivole",
+          "id": "6232547"
+        },
+        {
+          "n": 11,
+          "title": "Clear World",
+          "id": "6232557"
+        },
+        {
+          "n": 12,
+          "title": "J'assurerai tes arrières, et toi, les miens",
+          "id": "6232564"
+        },
+        {
+          "n": 13,
+          "title": "Le guerrier masqué",
+          "id": "6232571"
+        },
+        {
+          "n": 14,
+          "title": "Master of Flame",
+          "id": "6232587"
+        },
+        {
+          "n": 15,
+          "title": "2 millions d'années cristallisées",
+          "id": "6232663"
+        },
+        {
+          "n": 16,
+          "title": "Histoire du temps jadis",
+          "id": "6232730"
+        },
+        {
+          "n": 17,
+          "title": "Cent nuits et mille cieux",
+          "id": "6232768"
+        },
+        {
+          "n": 18,
+          "title": "Stone Wars",
+          "id": "6232793"
+        },
+        {
+          "n": 19,
+          "title": "En route vers l'ère moderne",
+          "id": "6232841"
+        },
+        {
+          "n": 20,
+          "title": "L'ère de l'énergie cinétique",
+          "id": "6232873"
+        },
+        {
+          "n": 21,
+          "title": "Club de travaux manuels spartiate",
+          "id": "6232896"
+        },
+        {
+          "n": 22,
+          "title": "The Treasure",
+          "id": "6232935"
+        },
+        {
+          "n": 23,
+          "title": "Déferlante scientifique",
+          "id": "6232972"
+        },
+        {
+          "n": 24,
+          "title": "Que nos voix portent vers l'infini",
+          "id": "6233060"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Stone Wars",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Stone Wars Beginning",
+          "id": "4245862"
+        },
+        {
+          "n": 2,
+          "title": "Hotline",
+          "id": "4252688"
+        },
+        {
+          "n": 3,
+          "title": "Un coup de fil du défunt",
+          "id": "4259353"
+        },
+        {
+          "n": 4,
+          "title": "Tous à l'attaque",
+          "id": "4263926"
+        },
+        {
+          "n": 5,
+          "title": "Steam Gorilla",
+          "id": "4271530"
+        },
+        {
+          "n": 6,
+          "title": "Prison Break",
+          "id": "4284962"
+        },
+        {
+          "n": 7,
+          "title": "Une mission ultra-secrète",
+          "id": "4289426"
+        },
+        {
+          "n": 8,
+          "title": "Final Battle",
+          "id": "4294306"
+        },
+        {
+          "n": 9,
+          "title": "Ceux que l'on brise et ceux que l'on sauve",
+          "id": "4300037"
+        },
+        {
+          "n": 10,
+          "title": "Le duo le plus fort de l'humanité",
+          "id": "4305018"
+        },
+        {
+          "n": 11,
+          "title": "Prologue of Dr. Stone",
+          "id": "4309846"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "New World",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "New World Map",
+          "id": "6231085"
+        },
+        {
+          "n": 2,
+          "title": "Désirs = justice",
+          "id": "6231090"
+        },
+        {
+          "n": 3,
+          "title": "Premier contact",
+          "id": "6231100"
+        },
+        {
+          "n": 4,
+          "title": "Les yeux de la science",
+          "id": "6231108"
+        },
+        {
+          "n": 5,
+          "title": "Perseus, le navire de la science",
+          "id": "6231110"
+        },
+        {
+          "n": 6,
+          "title": "Treasure Box",
+          "id": "6231112"
+        },
+        {
+          "n": 7,
+          "title": "La lumière de l'espoir et du désespoir",
+          "id": "6231118"
+        },
+        {
+          "n": 8,
+          "title": "Notre atout est dans le navire de la science",
+          "id": "6231125"
+        },
+        {
+          "n": 9,
+          "title": "La science de la beauté",
+          "id": "6231128"
+        },
+        {
+          "n": 10,
+          "title": "Science Wars",
+          "id": "6231155"
+        },
+        {
+          "n": 11,
+          "title": "Le miracle, tu l'accompliras de tes mains",
+          "id": "6231162"
+        },
+        {
+          "n": 12,
+          "title": "Le royaume de la science contre-attaque",
+          "id": "6231185"
+        },
+        {
+          "n": 13,
+          "title": "Le vrai visage de Médusa",
+          "id": "6231194"
+        },
+        {
+          "n": 14,
+          "title": "Jeu de négociation cérébral",
+          "id": "6231197"
+        },
+        {
+          "n": 15,
+          "title": "La bataille en trois dimensions",
+          "id": "6231203"
+        },
+        {
+          "n": 16,
+          "title": "Guerre totale",
+          "id": "6231209"
+        },
+        {
+          "n": 17,
+          "title": "Joker",
+          "id": "6231211"
+        },
+        {
+          "n": 18,
+          "title": "L'éclat de la destruction",
+          "id": "6231212"
+        },
+        {
+          "n": 19,
+          "title": "Le dernier homme debout",
+          "id": "6231221"
+        },
+        {
+          "n": 20,
+          "title": "Premier rêve",
+          "id": "6231227"
+        },
+        {
+          "n": 21,
+          "title": "L'île aux trésors",
+          "id": "6231235"
+        },
+        {
+          "n": 22,
+          "title": "Au-delà du Nouveau Monde",
+          "id": "6231246"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Science Future",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Ryusui VS Senku",
+          "id": "6229978"
+        },
+        {
+          "n": 2,
+          "title": "Voyage scientifique",
+          "id": "6229994"
+        },
+        {
+          "n": 3,
+          "title": "Un piège à insectes dans les ténèbres",
+          "id": "6230024"
+        },
+        {
+          "n": 4,
+          "title": "Dr X",
+          "id": "6230049"
+        },
+        {
+          "n": 5,
+          "title": "Doctor VS doctor",
+          "id": "6230061"
+        },
+        {
+          "n": 6,
+          "title": "La science est élégante",
+          "id": "6230070"
+        },
+        {
+          "n": 7,
+          "title": "Deux scientifiques",
+          "id": "6230078"
+        },
+        {
+          "n": 8,
+          "title": "Verrouillage",
+          "id": "6230101"
+        },
+        {
+          "n": 9,
+          "title": "Les lumières de la science",
+          "id": "6230119"
+        },
+        {
+          "n": 10,
+          "title": "Un chemin croulant de terre",
+          "id": "6230130"
+        },
+        {
+          "n": 11,
+          "title": "Ceux qui connaissent les règles et ceux qui les font",
+          "id": "6230155"
+        },
+        {
+          "n": 12,
+          "title": "Retrouvailles",
+          "id": "6230169"
+        },
+        {
+          "n": 13,
+          "title": "Les yeux levés vers la même lune",
+          "id": "6230183"
+        },
+        {
+          "n": 14,
+          "title": "Earth Race",
+          "id": "6230214"
+        },
+        {
+          "n": 15,
+          "title": "Transperçons les mailles du filet",
+          "id": "6230244"
+        },
+        {
+          "n": 16,
+          "title": "Medusa mechanism",
+          "id": "6230285"
+        },
+        {
+          "n": 17,
+          "title": "D’une effroyable beauté",
+          "id": "6230321"
+        },
+        {
+          "n": 18,
+          "title": "Diamond heart",
+          "id": "6230336"
+        },
+        {
+          "n": 19,
+          "title": "Stone Sanctuary",
+          "id": "6230379"
+        },
+        {
+          "n": 20,
+          "title": "Ce que j'ai cherché à détruire jadis",
+          "id": "6230413"
+        },
+        {
+          "n": 21,
+          "title": "Our Dr Stone",
+          "id": "6230426"
+        },
+        {
+          "n": 22,
+          "title": "Jusqu’à nos retrouvailles",
+          "id": "6230435"
+        },
+        {
+          "n": 23,
+          "title": "Une scientifique solitaire",
+          "id": "6230439"
+        },
+        {
+          "n": 24,
+          "title": "Whole new world",
+          "id": "6230440"
+        },
+        {
+          "n": 25,
+          "title": "Future engine",
+          "id": "6230441"
+        },
+        {
+          "n": 26,
+          "title": "Fire",
+          "id": "6230443"
+        },
+        {
+          "n": 27,
+          "title": "L'univers est écrit en langue mathématique",
+          "id": "6230445"
+        },
+        {
+          "n": 28,
+          "title": "L'aube des ordinateurs",
+          "id": "6230448"
+        },
+        {
+          "n": 29,
+          "title": "La dure réalité de la fusée",
+          "id": "6230461"
+        },
+        {
+          "n": 30,
+          "title": "Stone to Space",
+          "id": "6230476"
+        },
+        {
+          "n": 31,
+          "title": "Unknown known",
+          "id": "6230490"
+        },
+        {
+          "n": 32,
+          "title": "Challengers scientifiques",
+          "id": "6230503"
+        },
+        {
+          "n": 33,
+          "title": "Celui qui désirait tout",
+          "id": "6230519"
+        },
+        {
+          "n": 34,
+          "title": "Countdown",
+          "id": "6230525"
+        },
+        {
+          "n": 35,
+          "title": "Giant Step",
+          "id": "6230531"
+        },
+        {
+          "n": 36,
+          "title": "Why-man",
+          "id": "6230539"
+        },
+        {
+          "n": 37,
+          "title": "Ceux qui rendent l'avenir excitant",
+          "id": "6230546"
+        }
+      ]
+    }
+  }
+}
