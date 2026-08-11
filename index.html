@@ -237,11 +237,11 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .nav-avatar-circle{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,#2563eb,#6fa3ff);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:#fff;flex-shrink:0;overflow:hidden}
 .nav-avatar-circle img{width:100%;height:100%;object-fit:cover}
 .nav-avatar-name{font-size:12px;font-weight:700;color:var(--text)}
-.top-profile-chip{position:fixed;top:16px;right:20px;z-index:210;cursor:pointer;transition:transform .25s cubic-bezier(.34,1.56,.64,1),background .2s ease,top .25s ease;}
+.top-profile-chip{position:fixed;top:16px;right:20px;z-index:210;cursor:pointer;transition:transform .25s cubic-bezier(.34,1.56,.64,1),background .2s ease;}
 .top-profile-chip:hover{transform:translateY(-1px) scale(1.03);background:rgba(255,255,255,.09)}
 @media(max-width:680px){.top-profile-chip{top:14px;right:14px}.top-profile-chip .nav-avatar-name{display:none}.top-profile-chip{padding:3px}}
-body.page-watch-active .top-profile-chip{top:76px}
-@media(max-width:680px){body.page-watch-active .top-profile-chip{top:68px}}
+.watch-topbar{padding-right:170px}
+@media(max-width:680px){.watch-topbar{padding-right:70px}}
 
 /* === REFONTE : hero façon carrousel (badges + pagination) === */
 .hero-badges-row{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
@@ -695,7 +695,6 @@ function onSearch(q){
 
 function showPage(name){
   closeSearch();
-  document.body.classList.toggle('page-watch-active', name==='watch');
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
   document.querySelectorAll('.nav-link,.rail-icon,.rail-menu-item').forEach(l=>l.classList.remove('active'));
   document.getElementById('page-'+name).classList.add('active');
