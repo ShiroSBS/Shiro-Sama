@@ -1,0 +1,350 @@
+{
+  "id": "classroom-of-the-elite",
+  "title": "Classroom of the Elite",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
+  "description": "L'histoire prend place dans le lycée Kōdo Ikusei, une école prestigieuse dotée d'installations ultramodernes où 100% des étudiants vont ensuite à l'université ou entrent dans la vie active. Les élèves ont une liberté totale, ils peuvent avoir la coupe de cheveux qu'ils désirent et apporter n'importe quel bien personnel dans l'établissement. Kōdo Ikusei est comme le paradis, mais seulement en apparence, en effet seulement les étudiants avec de bons résultats reçoivent ce genre de traitement.\nDans cette école, chaque mois, selon les notes et le comportement d'une classe, celle-ci se voit attribuer un nombre de points en conséquence. Ces points permettent l'achat en tout genre au sein de l'école (nourriture, jeux, consoles, ...). De plus chaque groupe est classé en fonction du nombre de points reçus.\nKiyotaka Ayanokōji est un élève de la classe D, regroupant les pires élèves de l'établissement, ceux avec les résultats les plus mauvais. Pour une certaine raison, Kiyotaka a été négligent durant les examens d'entrée et a donc été placé dans cette fameuse classe.\nAprès avoir rencontré Suzune Horikita et Kikyō Kushida, deux élèves de sa classe, Kiyotaka Ayanokōji et ses nouvelles camarades décident ensemble de coopérer afin d'améliorer les notes de leur classe et essayeront d'atteindre les classes supérieures.",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "School Life",
+    "Slice of Life",
+    "Mystère"
+  ],
+  "rating": "7.6",
+  "year": "2017",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Classroom of the Elite",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2017",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 4 Saisons · 54 Éps"
+    },
+    {
+      "text": "📅 2017"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4799425"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4801518"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4810031"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4818237"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4829160"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5412534"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4859838"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4877616"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4885368"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4905085"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4914202"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4923056"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4798438"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4801519"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4810035"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4818231"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4829170"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4840252"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4859840"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4877610"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4885371"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4905107"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4914194"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4923064"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4936443"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5411763"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5419156"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5425762"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5432231"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5440577"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5450119"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5458236"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5467291"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5475846"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5484596"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5492552"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5501364"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5508441"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "6186459"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "6186527"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "6186560"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "6186562"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "6191152"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "6196839"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "6203785"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "6210220"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "6216133"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "6221629"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "6227109"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "6232194"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "6238026"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "6243429"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "6249169"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "6253717"
+        }
+      ]
+    }
+  }
+}
