@@ -206,7 +206,7 @@
   {
     "id": "mashle",
     "title": "Mashle",
-    "poster": "https://i.imgur.com/aBBjIUa.jpeg",
+    "poster": "https://i.imgur.com/HMMITMB.jpeg",
     "rating": "7.6",
     "year": "2023",
     "status": "termine",
@@ -273,6 +273,25 @@
       "Science",
       "Fiction",
       "Fantastique"
+    ]
+  },
+  {
+    "id": "demon-slayer",
+    "title": "Demon Slayer",
+    "poster": "https://i.imgur.com/DVJg6aU.jpeg",
+    "rating": "4.8",
+    "year": "2016",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Drame",
+      "Fantastique",
+      "Historique",
+      "Surnaturel",
+      "Science",
+      "Fiction"
     ]
   }
 ]
