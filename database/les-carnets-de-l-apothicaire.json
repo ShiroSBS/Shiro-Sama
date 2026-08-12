@@ -1,0 +1,311 @@
+{
+  "id": "the-apothecary-diaries",
+  "title": "The Apothecary Diaries",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+  "description": "À l'Est se trouve une terre gouvernée par un empereur, dont les épouses et les femmes au service de l'Etat vivent dans un vaste complexe appelé hougong, le palais arrière. Maomao, une fille modeste élevée par son père apothicaire, n'avait jamais imaginé que l'arrière-palais aurait quelque chose à voir avec elle jusqu'à ce qu'elle soit kidnappée et vendue pour y travailler comme servante.\n\nBien qu'elle ait l'air ordinaire, Maomao a l'esprit vif, aiguisé et possède une connaissance approfondie de la médecine. C'est son secret, jusqu'à ce qu'elle rencontre Jinshi, un résident du palais au moins aussi perspicace qu'elle. Il voit à travers la façade de Maomao et fait d'elle goûteuse personnelle d'une des favorites de l'empereur pour qu'elle puisse goûter la nourriture de la dame à la recherche d'un poison !",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Mystère",
+    "Slice of Life",
+    "Seinen",
+    "Crime",
+    "Enquête",
+    "Médecine"
+  ],
+  "rating": "8.8",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Les Carnets de l'Apothicaire",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.8",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.8"
+    },
+    {
+      "text": "🎬 2 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "L'Apothicaire du palais intérieur",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Mao Mao",
+          "id": "5317768"
+        },
+        {
+          "n": 2,
+          "title": "La Très Atrabilaire Apothicaire",
+          "id": "5317769"
+        },
+        {
+          "n": 3,
+          "title": "Nuisances spectrales",
+          "id": "5317771"
+        },
+        {
+          "n": 4,
+          "title": "Manœuvres d'intimidation",
+          "id": "5327283"
+        },
+        {
+          "n": 5,
+          "title": "Sourdes Machinations",
+          "id": "5337866"
+        },
+        {
+          "n": 6,
+          "title": "Le Banquet",
+          "id": "5348394"
+        },
+        {
+          "n": 7,
+          "title": "Retour aux sources",
+          "id": "5358251"
+        },
+        {
+          "n": 8,
+          "title": "La Paille",
+          "id": "5366818"
+        },
+        {
+          "n": 9,
+          "title": "Suicide ou homicide ?",
+          "id": "5374999"
+        },
+        {
+          "n": 10,
+          "title": "Le Miel",
+          "id": "5397788"
+        },
+        {
+          "n": 11,
+          "title": "De une, de deux",
+          "id": "5406728"
+        },
+        {
+          "n": 12,
+          "title": "L'Eunuque et la Courtisane",
+          "id": "5406729"
+        },
+        {
+          "n": 13,
+          "title": "À l'assaut de la cour extérieure",
+          "id": "5414853"
+        },
+        {
+          "n": 14,
+          "title": "La Nouvelle Concubine",
+          "id": "5421468"
+        },
+        {
+          "n": 15,
+          "title": "L'Émincé",
+          "id": "5428391"
+        },
+        {
+          "n": 16,
+          "title": "Le Plomb",
+          "id": "5435981"
+        },
+        {
+          "n": 17,
+          "title": "Promenade en ville",
+          "id": "5444992"
+        },
+        {
+          "n": 18,
+          "title": "Lakan",
+          "id": "5453288"
+        },
+        {
+          "n": 19,
+          "title": "Coïncidence ou malveillance ?",
+          "id": "5462140"
+        },
+        {
+          "n": 20,
+          "title": "Le Datura",
+          "id": "5470961"
+        },
+        {
+          "n": 21,
+          "title": "Mission Rachat",
+          "id": "5480274"
+        },
+        {
+          "n": 22,
+          "title": "Les Roses bleues",
+          "id": "5488328"
+        },
+        {
+          "n": 23,
+          "title": "Balsamine et Oxalis",
+          "id": "5496857"
+        },
+        {
+          "n": 24,
+          "title": "Jinshi et Mao Mao",
+          "id": "5504896"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Les Intrigues de la cour extérieure",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Mao Mao et Mao Mao",
+          "id": "5811133"
+        },
+        {
+          "n": 2,
+          "title": "La Caravane",
+          "id": "5818619"
+        },
+        {
+          "n": 3,
+          "title": "Le Champignon chenille",
+          "id": "5825283"
+        },
+        {
+          "n": 4,
+          "title": "Le Miroir",
+          "id": "5831952"
+        },
+        {
+          "n": 5,
+          "title": "L'Esprit de la lune",
+          "id": "5838728"
+        },
+        {
+          "n": 6,
+          "title": "Pavillon de Crystal, triptyque",
+          "id": "5844951"
+        },
+        {
+          "n": 7,
+          "title": "Le Pavillon de la Sélection",
+          "id": "5851225"
+        },
+        {
+          "n": 8,
+          "title": "L'Impératrice douairière",
+          "id": "5857269"
+        },
+        {
+          "n": 9,
+          "title": "L'Ancien Empereur",
+          "id": "5868352"
+        },
+        {
+          "n": 10,
+          "title": "Histoires à glacer le sang",
+          "id": "5868354"
+        },
+        {
+          "n": 11,
+          "title": "La Partie de chasse",
+          "id": "5876149"
+        },
+        {
+          "n": 12,
+          "title": "Zuigetsu, du clan des Ka",
+          "id": "5884495"
+        },
+        {
+          "n": 13,
+          "title": "Les Bains",
+          "id": "5892678"
+        },
+        {
+          "n": 14,
+          "title": "Le Spectre dansant",
+          "id": "5900045"
+        },
+        {
+          "n": 15,
+          "title": "La Glace",
+          "id": "5906882"
+        },
+        {
+          "n": 16,
+          "title": "Le Poison intérieur",
+          "id": "5913869"
+        },
+        {
+          "n": 17,
+          "title": "Le Village des renards",
+          "id": "5920288"
+        },
+        {
+          "n": 18,
+          "title": "L'Amour en cage",
+          "id": "5925930"
+        },
+        {
+          "n": 19,
+          "title": "Le Festival",
+          "id": "5936579"
+        },
+        {
+          "n": 20,
+          "title": "La Forteresse",
+          "id": "5941945"
+        },
+        {
+          "n": 21,
+          "title": "La Fosse à vermine",
+          "id": "5947857"
+        },
+        {
+          "n": 22,
+          "title": "L'Armée interdite",
+          "id": "5953738"
+        },
+        {
+          "n": 23,
+          "title": "Le Clan des Shi",
+          "id": "5968926"
+        },
+        {
+          "n": 24,
+          "title": "Le Commencement",
+          "id": "5975472"
+        }
+      ]
+    }
+  }
+}
