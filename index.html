@@ -918,7 +918,6 @@ function renderCatalogue(){
     <div class="anime-card" onclick="goToAnime('${a.id}')">
       <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
       <div class="anime-card-info">
-        <div class="anime-card-title">${a.title}</div>
         <div class="anime-card-sub">⭐ ${a.rating} · ${a.year} · ${a.statusLabel}</div>
       </div>
     </div>`).join('');
