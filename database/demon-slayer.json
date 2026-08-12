@@ -22,7 +22,7 @@
   "heroTitle": "Demon Slayer",
   "stats": [
     {
-      "v": "7",
+      "v": "4",
       "l": "Saisons"
     },
     {
@@ -44,7 +44,7 @@
       "text": "4.8"
     },
     {
-      "text": "🎬 7 Saisons · 57 Éps"
+      "text": "🎬 4 Saisons · 56 Éps"
     },
     {
       "text": "📅 2016"
@@ -57,328 +57,307 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "La détermination sans limites de Tanjirô Kamado",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Cruauté",
           "id": "4668241"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Urokodaki Sakonji, le formateur",
           "id": "4668280"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Sabito et Makomo",
           "id": "4668284"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Final Selection",
           "id": "4668287"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Mon sabre d'acier",
           "id": "4668289"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Un compagnon d'acier",
           "id": "4668291"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Muzan Kibutsuji",
           "id": "4668293"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Le parfum du sang envoûtant",
           "id": "4668298"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le démon Temari et le démon flèche",
           "id": "4668299"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Ensemble pour la mission",
           "id": "4668304"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Tsuzumi Mansion",
           "id": "4668308"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le sang du démon",
           "id": "4668313"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Ce qu'il faut apprendre",
           "id": "4668320"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Le train de l'Infini",
           "id": "4668327"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Le montage",
           "id": "4668332"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Je ne peux pas mourir",
           "id": "4668339"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Vous devez être un pilier",
           "id": "4668344"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Le devoir d'un pourfendeur",
           "id": "4668349"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Le dieu du feu",
           "id": "4668358"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Une famille factice",
           "id": "4668363"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Contre le démon araignée",
           "id": "4668369"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Le maître des araignées",
           "id": "4668375"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Une réunion de piliers",
           "id": "4668379"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "L'entraînement récupérateur",
           "id": "4668384"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Tsuyuri Kanao, la successeuse",
           "id": "4668387"
         },
         {
           "n": 26,
-          "title": "Episode 26",
+          "title": "Nouvelle mission",
           "id": "4668389"
         }
       ]
     },
     "2": {
       "label": "Saison 2",
-      "title": "Film - Train de l'infini",
+      "title": "Le quartier des plaisirs",
       "episodes": [
         {
           "n": 1,
-          "title": "Le train de l'Infini",
-          "id": "4708131"
+          "title": "Tengen Uzui le Pilier du Son",
+          "id": "4699607"
+        },
+        {
+          "n": 2,
+          "title": "Infiltration du district rouge",
+          "id": "4699609"
+        },
+        {
+          "n": 3,
+          "title": "Qui es-tu ?",
+          "id": "4699611"
+        },
+        {
+          "n": 4,
+          "title": "Ce soir",
+          "id": "4699612"
+        },
+        {
+          "n": 5,
+          "title": "Devenons tape à l'œil !!",
+          "id": "4699613"
+        },
+        {
+          "n": 6,
+          "title": "Des souvenirs qui se chevauchent",
+          "id": "4699614"
+        },
+        {
+          "n": 7,
+          "title": "Transfiguration",
+          "id": "4699616"
+        },
+        {
+          "n": 8,
+          "title": "Le ralliement",
+          "id": "4699618"
+        },
+        {
+          "n": 9,
+          "title": "Si l'on bat un démon de haut rang",
+          "id": "4699620"
+        },
+        {
+          "n": 10,
+          "title": "Ne jamais abandonner",
+          "id": "4699622"
+        },
+        {
+          "n": 11,
+          "title": "Peu importe combien de fois tu renais",
+          "id": "4699625"
         }
       ]
     },
     "3": {
       "label": "Saison 3",
-      "title": "Épisode - Train de l'infini",
-      "episodes": []
-    },
-    "4": {
-      "label": "Saison 4",
-      "title": "Saison 2",
+      "title": "Le village des forgerons",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
-          "id": "4699607"
-        },
-        {
-          "n": 2,
-          "title": "Episode 2",
-          "id": "4699609"
-        },
-        {
-          "n": 3,
-          "title": "Episode 3",
-          "id": "4699611"
-        },
-        {
-          "n": 4,
-          "title": "Episode 4",
-          "id": "4699612"
-        },
-        {
-          "n": 5,
-          "title": "Episode 5",
-          "id": "4699613"
-        },
-        {
-          "n": 6,
-          "title": "Episode 6",
-          "id": "4699614"
-        },
-        {
-          "n": 7,
-          "title": "Episode 7",
-          "id": "4699616"
-        },
-        {
-          "n": 8,
-          "title": "Episode 8",
-          "id": "4699618"
-        },
-        {
-          "n": 9,
-          "title": "Episode 9",
-          "id": "4699620"
-        },
-        {
-          "n": 10,
-          "title": "Episode 10",
-          "id": "4699622"
-        },
-        {
-          "n": 11,
-          "title": "Episode 11",
-          "id": "4699625"
-        }
-      ]
-    },
-    "5": {
-      "label": "Saison 5",
-      "title": "Saison 3",
-      "episodes": [
-        {
-          "n": 1,
-          "title": "Episode 1",
+          "title": "Le rêve de quelqu'un",
           "id": "5123652"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Yoriichi Type Zero",
           "id": "5129278"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Une épée d'il y a plus de 300 ans",
           "id": "5139733"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Merci Tokito",
           "id": "5148655"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "L'épée rouge",
           "id": "5155200"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Ne vas-tu pas devenir un Pilier ?",
           "id": "5162155"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Un très méchant",
           "id": "5168755"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Le \"mu\" de Muichiro",
           "id": "5175891"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le Pilier de la brume, Tokito Muichiro",
           "id": "5181163"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Le Pilier de l'amour, Mitsuri Kanroji",
           "id": "5186530"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Un lien connecté - L'aube et la première lumière",
           "id": "5193486"
         }
       ]
     },
-    "6": {
-      "label": "Saison 6",
-      "title": "Saison 4",
+    "4": {
+      "label": "Saison 4",
+      "title": "L'entraînement des piliers",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Pour vaincre Muzan Kibutsuji",
           "id": "5558735"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Le Pilier de l'Eau - La douleur de Giyu Tomioka",
           "id": "5565316"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Tanjiro est complètement rétabli !! Participation à l'entraînement au pilier",
           "id": "5574503"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Je peux sourire à nouveau",
           "id": "5582223"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Jusqu'à manger des démons...",
           "id": "5589758"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "L'équipe de pourfendeurs de démons la plus puissante",
           "id": "5597263"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le Pilier de la Roche - Gyomei Himejima",
           "id": "5606165"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Ralliement des piliers",
           "id": "5613056"
         }
       ]
-    },
-    "7": {
-      "label": "Saison 7",
-      "title": "Film - La Forteresse Infinie",
-      "episodes": []
     }
   }
 }
