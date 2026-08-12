@@ -120,8 +120,6 @@ body.search-open .app-shell{visibility:hidden}
 .ep-sub{font-size:11px;color:var(--muted)}
 .ep-vf-badge{display:inline-block;margin-top:6px;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;letter-spacing:.05em;background:rgba(59,126,255,.15);color:var(--accent2);border:1px solid rgba(59,126,255,.25);}
 .anime-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:18px;}
-.genre-row{margin-bottom:32px}
-.catalogue-genre-section{margin-bottom:36px}
 .anime-card{position:relative;background:linear-gradient(155deg,rgba(255,255,255,.05),rgba(255,255,255,.015));backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.09);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .5s cubic-bezier(.34,1.56,.64,1),box-shadow .5s cubic-bezier(.22,1,.36,1),border-color .3s ease;animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
 .anime-card::before{content:'';position:absolute;inset:0;background:radial-gradient(120% 100% at 50% 0%,rgba(255,255,255,.16),transparent 70%);opacity:0;transition:opacity .4s ease;pointer-events:none;z-index:3;}
 .anime-card:hover::before{opacity:1}
@@ -484,7 +482,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   <div class="stats-bar" id="home-stats-bar"></div>
   <div class="section">
     <div style="margin-bottom:20px">
-      <div id="home-genre-rows"></div>
+      <h2 class="section-title" style="margin-bottom:16px">Tous les animes</h2>
+      <div class="anime-selector" id="anime-selector"></div>
     </div>
     <div class="section-header">
       <h2 class="section-title" id="home-section-title">Saison 1</h2>
@@ -502,7 +501,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 <div id="page-catalogue" class="page">
   <div style="padding:40px 32px 60px;max-width:1200px;margin:0 auto">
     <h1 style="font-size:28px;font-weight:900;margin-bottom:24px;letter-spacing:-.03em">Catalogue</h1>
-    <div id="catalogue-genre-groups"></div>
+    <div class="anime-grid" id="catalogue-grid"></div>
   </div>
   <footer>
     <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
@@ -774,31 +773,10 @@ async function goToAnime(id){
   showPage('anime');
 }
 
-// ---------- Classement par grands genres (Accueil + Catalogue) ----------
-const GENRE_BUCKETS=[
-  {name:'Action', match:['action']},
-  {name:'Comédie', match:['comédie','comedie','comedy']},
-  {name:'Fantasy', match:['fantasy','fantastique','isekai','magie']},
-  {name:'Romance', match:['romance','amour']},
-  {name:'Horreur / Surnaturel', match:['horreur','épouvante','epouvante','surnaturel','yokai']},
-];
-function animeMatchesBucket(a,bucket){
-  return (a.genres||[]).some(g=>bucket.match.some(k=>(g||'').toLowerCase().includes(k)));
-}
-function getGenreGroups(){
-  return GENRE_BUCKETS.map(b=>({name:b.name, items:ANIME_INDEX.filter(a=>animeMatchesBucket(a,b))}))
-    .filter(g=>g.items.length>0);
-}
-
 function renderHome(){
-  const groups=getGenreGroups();
-  document.getElementById('home-genre-rows').innerHTML=groups.map(g=>`
-    <div class="genre-row">
-      <h2 class="section-title" style="margin-bottom:16px">${g.name}</h2>
-      <div class="anime-selector">${g.items.map(a=>`
-        <div class="anime-sel-card${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')">
-          <img class="anime-sel-thumb" src="${a.poster}" alt="${a.title}" onerror="this.style.display='none'"/>
-        </div>`).join('')}</div>
+  document.getElementById('anime-selector').innerHTML=ANIME_INDEX.map(a=>`
+    <div class="anime-sel-card${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')">
+      <img class="anime-sel-thumb" src="${a.poster}" alt="${a.title}" onerror="this.style.display='none'"/>
     </div>`).join('');
   renderHomeForAnime();
 }
@@ -934,17 +912,12 @@ function renderAnimePage(){
 }
 
 function renderCatalogue(){
-  const groups=getGenreGroups();
-  document.getElementById('catalogue-genre-groups').innerHTML=groups.map(g=>`
-    <div class="catalogue-genre-section">
-      <h2 class="section-title" style="margin-bottom:16px">${g.name}</h2>
-      <div class="anime-grid">${g.items.map(a=>`
-        <div class="anime-card" onclick="goToAnime('${a.id}')">
-          <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
-          <div class="anime-card-info">
-            <div class="anime-card-sub">⭐ ${a.rating} · ${a.year} · ${a.statusLabel}</div>
-          </div>
-        </div>`).join('')}</div>
+  document.getElementById('catalogue-grid').innerHTML=ANIME_INDEX.map(a=>`
+    <div class="anime-card" onclick="goToAnime('${a.id}')">
+      <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
+      <div class="anime-card-info">
+        <div class="anime-card-sub">⭐ ${a.rating} · ${a.year} · ${a.statusLabel}</div>
+      </div>
     </div>`).join('');
 }
 
