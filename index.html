@@ -778,7 +778,6 @@ function renderHome(){
   document.getElementById('anime-selector').innerHTML=ANIME_INDEX.map(a=>`
     <div class="anime-sel-card${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')">
       <img class="anime-sel-thumb" src="${a.poster}" alt="${a.title}" onerror="this.style.display='none'"/>
-      <div class="anime-sel-title">${a.title}</div>
     </div>`).join('');
   renderHomeForAnime();
 }
