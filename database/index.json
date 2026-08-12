@@ -312,5 +312,21 @@
       "Enquête",
       "Médecine"
     ]
+  },
+  {
+    "id": "classroom-of-the-elite",
+    "title": "Classroom of the Elite",
+    "poster": "https://i.imgur.com/kYnBdl0.jpeg",
+    "rating": "7.6",
+    "year": "2017",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Drame",
+      "School Life",
+      "Slice of Life",
+      "Mystère"
+    ]
   }
 ]
