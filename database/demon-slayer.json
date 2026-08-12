@@ -1,0 +1,384 @@
+{
+  "id": "demon-slayer",
+  "title": "Demon Slayer",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+  "description": "Depuis les temps anciens, il existe des rumeurs concernant des démons mangeurs d'hommes qui se cachent dans les bois. Pour cette raison, les citadins locaux ne s'y aventurent jamais la nuit. La légende raconte aussi qu'un tueur de démons déambule la nuit, chassant ces démons assoiffés de sang. Pour le jeune Tanjirô, ces rumeurs vont bientôt devenir sa dure réalité ...\n\nDepuis la mort de son père, Tanjirô a pris sur lui pour subvenir aux besoins de sa famille. Malgré cette tragédie, ils réussissent à trouver un peu de bonheur au quotidien.\n\nCependant, ce peu de bonheur se retrouve détruit le jour où Tanjirô découvre que sa famille s'est fait massacrer et que la seule survivante, sa sœur Nezuko, est devenue un démon. À sa grande surprise, Nezuko montre encore des signes d'émotion et de pensées humaines. Ainsi, commence la dure tâche de Tanjirô, celle de combattre les démons et de faire redevenir sa sœur humaine.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantastique",
+    "Historique",
+    "Surnaturel",
+    "Science",
+    "Fiction"
+  ],
+  "rating": "4.8",
+  "year": "2016",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Demon Slayer",
+  "stats": [
+    {
+      "v": "7",
+      "l": "Saisons"
+    },
+    {
+      "v": "4.8",
+      "l": "Note"
+    },
+    {
+      "v": "2016",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "4.8"
+    },
+    {
+      "text": "🎬 7 Saisons · 57 Éps"
+    },
+    {
+      "text": "📅 2016"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4668241"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4668280"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4668284"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4668287"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4668289"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4668291"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4668293"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4668298"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4668299"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4668304"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4668308"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "4668313"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "4668320"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "4668327"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "4668332"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "4668339"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "4668344"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "4668349"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "4668358"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "4668363"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "4668369"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "4668375"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "4668379"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "4668384"
+        },
+        {
+          "n": 25,
+          "title": "Episode 25",
+          "id": "4668387"
+        },
+        {
+          "n": 26,
+          "title": "Episode 26",
+          "id": "4668389"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Film - Train de l'infini",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le train de l'Infini",
+          "id": "4708131"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Épisode - Train de l'infini",
+      "episodes": []
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "4699607"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "4699609"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "4699611"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "4699612"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "4699613"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "4699614"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "4699616"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "4699618"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "4699620"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "4699622"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "4699625"
+        }
+      ]
+    },
+    "5": {
+      "label": "Saison 5",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5123652"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5129278"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5139733"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5148655"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5155200"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5162155"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5168755"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5175891"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5181163"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5186530"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5193486"
+        }
+      ]
+    },
+    "6": {
+      "label": "Saison 6",
+      "title": "Saison 4",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5558735"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5565316"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5574503"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5582223"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5589758"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5597263"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5606165"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5613056"
+        }
+      ]
+    },
+    "7": {
+      "label": "Saison 7",
+      "title": "Film - La Forteresse Infinie",
+      "episodes": []
+    }
+  }
+}
