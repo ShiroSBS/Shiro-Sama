@@ -1,9 +1,9 @@
 {
   "id": "classroom-of-the-elite",
   "title": "Classroom of the Elite",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
+  "poster": "https://i.imgur.com/kYnBdl0.jpeg",
+  "banner": "https://i.imgur.com/ilBfUGb.jpeg",
+  "bannerFallback": "https://i.imgur.com/kYnBdl0.jpeg",
   "description": "L'histoire prend place dans le lycée Kōdo Ikusei, une école prestigieuse dotée d'installations ultramodernes où 100% des étudiants vont ensuite à l'université ou entrent dans la vie active. Les élèves ont une liberté totale, ils peuvent avoir la coupe de cheveux qu'ils désirent et apporter n'importe quel bien personnel dans l'établissement. Kōdo Ikusei est comme le paradis, mais seulement en apparence, en effet seulement les étudiants avec de bons résultats reçoivent ce genre de traitement.\nDans cette école, chaque mois, selon les notes et le comportement d'une classe, celle-ci se voit attribuer un nombre de points en conséquence. Ces points permettent l'achat en tout genre au sein de l'école (nourriture, jeux, consoles, ...). De plus chaque groupe est classé en fonction du nombre de points reçus.\nKiyotaka Ayanokōji est un élève de la classe D, regroupant les pires élèves de l'établissement, ceux avec les résultats les plus mauvais. Pour une certaine raison, Kiyotaka a été négligent durant les examens d'entrée et a donc été placé dans cette fameuse classe.\nAprès avoir rencontré Suzune Horikita et Kikyō Kushida, deux élèves de sa classe, Kiyotaka Ayanokōji et ses nouvelles camarades décident ensemble de coopérer afin d'améliorer les notes de leur classe et essayeront d'atteindre les classes supérieures.",
   "genres": [
     "Comédie",
@@ -14,8 +14,8 @@
   ],
   "rating": "7.6",
   "year": "2017",
-  "status": "termine",
-  "statusLabel": "Terminé",
+  "status": "en-cours",
+  "statusLabel": "En cours",
   "heroTitle": "Classroom of the Elite",
   "stats": [
     {
@@ -48,7 +48,7 @@
     },
     {
       "color": "#94a3b8",
-      "text": "● Terminé"
+      "text": "● En cours"
     }
   ],
   "seasons": {
@@ -58,62 +58,62 @@
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "La faiblesse est un mal",
           "id": "4799425"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Cacher son talent",
           "id": "4801518"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "L'art du marchandage",
           "id": "4810031"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Des vérités cachées",
           "id": "4818237"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "L'enfer, c'est les autres",
           "id": "4829160"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Deux sortes de mensonges",
           "id": "5412534"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Un ami ignorant",
           "id": "4859838"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Toute espérance perdue",
           "id": "4877616"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Condamné à être libre",
           "id": "4885368"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Le traître en soi",
           "id": "4905085"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le destin et la sottise",
           "id": "4914202"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Génie et folie",
           "id": "4923056"
         }
       ]
@@ -124,67 +124,67 @@
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Garder une âme égale",
           "id": "4798438"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Impatience et paresse",
           "id": "4801519"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Vices et vertus",
           "id": "4810035"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Éduquer les talents",
           "id": "4818231"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Une étape vers le succès",
           "id": "4829170"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La route de la vérité",
           "id": "4840252"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Douter ou tout croire",
           "id": "4859840"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Une blessure au cœur",
           "id": "4877610"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "La vraie faute",
           "id": "4885371"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Désirer sa ruine",
           "id": "4905107"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Maître de soi",
           "id": "4914194"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Force sans prudence",
           "id": "4923064"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Son propre ennemi",
           "id": "4936443"
         }
       ]
@@ -195,153 +195,153 @@
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Le choix humain",
           "id": "5411763"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "L'homme est un loup",
           "id": "5419156"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Vouloir oublier",
           "id": "5425762"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Un devoir sans fruit",
           "id": "5432231"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La fortune aux audacieux",
           "id": "5440577"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Recevoir plutôt que faire",
           "id": "5450119"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Fuir sa propre âme",
           "id": "5458236"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Répéter le passé",
           "id": "5467291"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "L'excès de justice",
           "id": "5475846"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Manque de méthode",
           "id": "5484596"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le bonheur de l'être aimé",
           "id": "5492552"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Changer ses désirs",
           "id": "5501364"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "L'amour, meilleur maître",
           "id": "5508441"
         }
       ]
     },
     "4": {
       "label": "Saison 4",
-      "title": "Saison 4",
+      "title": "Deuxième Année, Premier Semestre",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Assassin de la Chambre Blanche",
           "id": "6186459"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Contrat et rétribution",
           "id": "6186527"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "La détermination d'un leader",
           "id": "6186560"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Vers qui la lame se tourne",
           "id": "6186562"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "L'homme à vingt millions",
           "id": "6191152"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Lutte mouvementée",
           "id": "6196839"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Manigances",
           "id": "6203785"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Ce que regardent les dragons",
           "id": "6210220"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Un début inquiétant",
           "id": "6216133"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Sentiments inavoués",
           "id": "6221629"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Liens",
           "id": "6227109"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Au bout de la vengeance",
           "id": "6232194"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Noyé sous la pluie",
           "id": "6238026"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Le noble prodige",
           "id": "6243429"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Force et volonté",
           "id": "6249169"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Pour l'avenir désiré",
           "id": "6253717"
         }
       ]
