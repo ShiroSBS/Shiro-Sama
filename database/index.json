@@ -328,5 +328,27 @@
       "Slice of Life",
       "Mystère"
     ]
+  },
+  {
+    "id": "mushoku-tensei",
+    "title": "Mushoku Tensei",
+    "poster": "https://i.imgur.com/0lvkSe7.jpeg",
+    "rating": "8.2",
+    "year": "2021",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Ecchi",
+      "Fantasy",
+      "Isekai",
+      "Romance",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
