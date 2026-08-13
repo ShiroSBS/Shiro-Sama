@@ -1,0 +1,100 @@
+{
+  "id": "mushoku-tensei",
+  "title": "Mushoku Tensei",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108465-RgsRpTMhP9Sv.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+  "description": "L'histoire nous entraîne dans le quotidien d'un NEET qui vient d'être chassé de chez ses parents. Ayant le moral au plus bas, il pense au suicide. Jusqu'au jour où il aperçoit une ancienne camarade de classe sur le point de se faire renverser. D'un geste héroïque, il la pousse et se fait renverser à sa place. Suite à ça, il meurt puis se retrouve réincarné dans un monde fantaisiste.\n\nIl se réincarne dans le corps d'un enfant du nom de Rudeus Greyrat. Il est le fils d'un épéiste nommé Paul Greyrat et d'une ancienne aventurière nommée Zenith Greyrat.\n\nBien décidé à faire quelque chose de sa nouvelle vie en tant que Rudeus, il va essayer de devenir le plus grand magicien de l'histoire.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Ecchi",
+    "Fantasy",
+    "Isekai",
+    "Romance",
+    "Science-Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.2",
+  "year": "2021",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Mushoku Tensei",
+  "stats": [
+    { "v": "2", "l": "Saisons" },
+    { "v": "8.2", "l": "Note" },
+    { "v": "2021", "l": "Année" },
+    { "v": "24 min", "l": "Durée / ép." }
+  ],
+  "heroMeta": [
+    { "icon": "⭐", "text": "8.2" },
+    { "text": "🎬 2 Saisons · 49 Éps" },
+    { "text": "📅 2021" },
+    { "color": "#94a3b8", "text": "● Terminé" }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        { "n": 1, "title": "Le Chômeur réincarné", "id": "4671027" },
+        { "n": 2, "title": "Le Professeur", "id": "4671030" },
+        { "n": 3, "title": "Amis", "id": "4671032" },
+        { "n": 4, "title": "Conseil de famille au pied levé", "id": "4671036" },
+        { "n": 5, "title": "La violence de la jeune demoiselle", "id": "4671038" },
+        { "n": 6, "title": "Un jour de congé à Roa", "id": "4671041" },
+        { "n": 7, "title": "Ce que réservent les efforts fournis", "id": "4671047" },
+        { "n": 8, "title": "Le premier tournant", "id": "4671052" },
+        { "n": 9, "title": "Rencontre fortuite", "id": "4671058" },
+        { "n": 10, "title": "La valeur de la vie et le premier travail", "id": "4671063" },
+        { "n": 11, "title": "Les Enfants et le Guerrier", "id": "4671068" },
+        { "n": 12, "title": "La demoiselle aux yeux démoniaques", "id": "4671071" },
+        { "n": 13, "title": "Chassé-croisé", "id": "4671075" },
+        { "n": 14, "title": "Coûteuse gratuité", "id": "4671078" },
+        { "n": 15, "title": "Quiétude à Doldia", "id": "4671080" },
+        { "n": 16, "title": "Dispute de famille", "id": "4671081" },
+        { "n": 17, "title": "Retrouvailles", "id": "4671084" },
+        { "n": 18, "title": "À chacun son périple", "id": "4671086" },
+        { "n": 19, "title": "Choix de parcours", "id": "4671087" },
+        { "n": 20, "title": "Le jour où ma petite sœur est née", "id": "4671088" },
+        { "n": 21, "title": "Le deuxième tournant", "id": "4671089" },
+        { "n": 22, "title": "Le rêve devenu réalité", "id": "4671092" },
+        { "n": 23, "title": "Pas à pas après l'éveil", "id": "4671095" },
+        { "n": 24, "title": "OAV - Épisode spécial", "id": "5114213" }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        { "n": 1, "title": "Épisode 0", "id": "5243279" },
+        { "n": 2, "title": "Fitz le gardien", "id": "5243289" },
+        { "n": 3, "title": "Le mage brisé", "id": "5249507" },
+        { "n": 4, "title": "Excursion nocturne en forêt", "id": "5249510" },
+        { "n": 5, "title": "Rapprochement rapide", "id": "5255614" },
+        { "n": 6, "title": "Lettre d'invitation", "id": "5255616" },
+        { "n": 7, "title": "Je ne veux pas mourir", "id": "5277735" },
+        { "n": 8, "title": "Le rapt des jeunes filles", "id": "5260626" },
+        { "n": 9, "title": "Le fiancé du désespoir", "id": "5277737" },
+        { "n": 10, "title": "Le masque blanc", "id": "5277740" },
+        { "n": 11, "title": "Un sentiment familier", "id": "5277751" },
+        { "n": 12, "title": "Je me donne à toi", "id": "5277762" },
+        { "n": 13, "title": "Ce que je veux te dire", "id": "5282423" },
+        { "n": 14, "title": "La maison de ses rêves", "id": "5519873" },
+        { "n": 15, "title": "La réception", "id": "5527541" },
+        { "n": 16, "title": "Au loin", "id": "5534589" },
+        { "n": 17, "title": "Norn et Aisha", "id": "5540510" },
+        { "n": 18, "title": "Les sentiments d'un frère", "id": "5547436" },
+        { "n": 19, "title": "Troisième tournant", "id": "5552697" },
+        { "n": 20, "title": "Voyage dans le désert", "id": "5565322" },
+        { "n": 21, "title": "L'entrée dans le labyrinthe", "id": "5574499" },
+        { "n": 22, "title": "Le cercle du sixième étage", "id": "5582205" },
+        { "n": 23, "title": "Parents", "id": "5589753" },
+        { "n": 24, "title": "Le retour", "id": "5597254" },
+        { "n": 25, "title": "Prendre la suite", "id": "5605561" }
+      ]
+    }
+  }
+}
