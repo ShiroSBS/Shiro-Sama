@@ -37,7 +37,7 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "La Nouvelle Vie de Rudeus",
       "episodes": [
         { "n": 1, "title": "Le Chômeur réincarné", "id": "4671027" },
         { "n": 2, "title": "Le Professeur", "id": "4671030" },
@@ -67,7 +67,7 @@
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "Le Retour à la Vie Scolaire",
       "episodes": [
         { "n": 1, "title": "Épisode 0", "id": "5243279" },
         { "n": 2, "title": "Fitz le gardien", "id": "5243289" },
