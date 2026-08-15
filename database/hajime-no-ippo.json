@@ -440,12 +440,12 @@
       ]
     },
     "2": {
-      "label": "Saison 2",
+      "label": "Movie",
       "title": "Film - Champion Road",
       "episodes": []
     },
     "3": {
-      "label": "Saison 3",
+      "label": "Saison 2",
       "title": "Saison 2 - De nouveaux rivaux à l'horizon",
       "episodes": [
         {
@@ -581,7 +581,7 @@
       ]
     },
     "4": {
-      "label": "Saison 4",
+      "label": "Saison 3",
       "title": "Saison 3 - L'ascension vers la couronne mondiale",
       "episodes": [
         {
