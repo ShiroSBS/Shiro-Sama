@@ -1,0 +1,175 @@
+{
+  "id": "gachiakuta",
+  "title": "Gachiakuta",
+  "poster": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/gachiakuta.webp",
+  "banner": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/gachiakuta.webp",
+  "bannerFallback": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/gachiakuta.webp",
+  "description": "Les descendants de criminels vivent dans des bidonvilles et sont méprisés par les gens de l'autre côté de la frontière. Ludo, un orphelin, vit avec son père adoptif Legto, à qui il est redevable pour l'avoir sauvé quand il était bébé. Malgré sa misérable vie, Ludo trouve quand même du réconfort auprès de ses proches, jusqu'au jour où tout change lorsque Legto se fait assassiner et Ludo est condamné à mort pour un crime qu'il n'a pas commis.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Aventure",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.2",
+  "year": "2025",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Gachiakuta",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.2",
+      "l": "Note"
+    },
+    {
+      "v": "2025",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.2"
+    },
+    {
+      "text": "🎬 1 Saisons · 22 Éps"
+    },
+    {
+      "text": "📅 2025"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1 - S'extirper de la Fosse",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La Sphère",
+          "id": "5955316"
+        },
+        {
+          "n": 2,
+          "title": "Les Habités",
+          "id": "5963187"
+        },
+        {
+          "n": 3,
+          "title": "Le Sol",
+          "id": "5976520"
+        },
+        {
+          "n": 4,
+          "title": "Le QG des Nettoyeurs",
+          "id": "5981805"
+        },
+        {
+          "n": 5,
+          "title": "Raiders",
+          "id": "5988006"
+        },
+        {
+          "n": 6,
+          "title": "Un coup bien placé !!",
+          "id": "5992415"
+        },
+        {
+          "n": 7,
+          "title": "Un compte à régler",
+          "id": "5997438"
+        },
+        {
+          "n": 8,
+          "title": "Avancer",
+          "id": "6002913"
+        },
+        {
+          "n": 9,
+          "title": "Canvas Town",
+          "id": "6011376"
+        },
+        {
+          "n": 10,
+          "title": "Penta : le no man's land du désert",
+          "id": "6013304"
+        },
+        {
+          "n": 11,
+          "title": "L'hospitalité d'Amo",
+          "id": "6017883"
+        },
+        {
+          "n": 12,
+          "title": "Une sorte de malédiction",
+          "id": "6022495"
+        },
+        {
+          "n": 13,
+          "title": "Un regard vide",
+          "id": "6026536"
+        },
+        {
+          "n": 14,
+          "title": "La tempête avant la tempête",
+          "id": "6049206"
+        },
+        {
+          "n": 15,
+          "title": "Affrontement !",
+          "id": "6054333"
+        },
+        {
+          "n": 16,
+          "title": "Doué ou pas",
+          "id": "6058612"
+        },
+        {
+          "n": 17,
+          "title": "Souvenirs d'un médiocre",
+          "id": "6063769"
+        },
+        {
+          "n": 18,
+          "title": "Oh Zap, carrément légit",
+          "id": "6078515"
+        },
+        {
+          "n": 19,
+          "title": "Les Gardiens",
+          "id": "6084211"
+        },
+        {
+          "n": 20,
+          "title": "Enseigne",
+          "id": "6088410"
+        },
+        {
+          "n": 21,
+          "title": "TIME ATTACK",
+          "id": "6091951"
+        },
+        {
+          "n": 22,
+          "title": "Le pouvoir de la protection",
+          "id": "6097124"
+        }
+      ]
+    }
+  }
+}
