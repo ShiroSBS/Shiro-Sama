@@ -216,8 +216,7 @@
       "Aventure",
       "Comédie",
       "Fantastique",
-      "Science",
-      "Fiction"
+      "Science-Fiction"
     ]
   },
   {
@@ -231,8 +230,8 @@
     "genres": [
       "Action",
       "Aventure",
-      "Science",
-      "Fiction & Fantastique"
+      "Science-Fiction",
+      "Fantastique"
     ]
   },
   {
@@ -250,8 +249,7 @@
       "Surnaturel",
       "Isekai",
       "Action",
-      "Science",
-      "Fiction",
+      "Science-Fiction",
       "Fantastique"
     ]
   },
@@ -270,8 +268,7 @@
       "Surnaturel",
       "Shônen",
       "Aventure",
-      "Science",
-      "Fiction",
+      "Science-Fiction",
       "Fantastique"
     ]
   },
@@ -290,8 +287,7 @@
       "Fantastique",
       "Historique",
       "Surnaturel",
-      "Science",
-      "Fiction"
+      "Science-Fiction"
     ]
   },
   {
@@ -346,9 +342,25 @@
       "Fantasy",
       "Isekai",
       "Romance",
-      "Science",
-      "Fiction",
+      "Science-Fiction",
       "Fantastique"
+    ]
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "Hajime no Ippo",
+    "poster": "https://i.imgur.com/DWV6j28.jpeg",
+    "rating": "8.8",
+    "year": "2000",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Drame",
+      "Shônen",
+      "Tournois",
+      "Aventure"
     ]
   }
 ]
