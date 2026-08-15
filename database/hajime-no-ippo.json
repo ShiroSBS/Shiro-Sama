@@ -13,10 +13,10 @@
     "Tournois",
     "Aventure"
   ],
-  "rating": "?",
-  "year": "????",
-  "status": "cours",
-  "statusLabel": "En cours",
+  "rating": "8.8",
+  "year": "2000",
+  "status": "termine",
+  "statusLabel": "Terminé",
   "heroTitle": "Hajime no Ippo",
   "stats": [
     {
@@ -24,11 +24,11 @@
       "l": "Saisons"
     },
     {
-      "v": "?",
+      "v": "8.8",
       "l": "Note"
     },
     {
-      "v": "????",
+      "v": "2000",
       "l": "Année"
     },
     {
@@ -39,23 +39,23 @@
   "heroMeta": [
     {
       "icon": "⭐",
-      "text": "?"
+      "text": "8.8"
     },
     {
       "text": "🎬 4 Saisons · 127 Éps"
     },
     {
-      "text": "📅 ????"
+      "text": "📅 2000"
     },
     {
-      "color": "#4ade80",
-      "text": "● En cours"
+      "color": "#94a3b8",
+      "text": "● Terminé"
     }
   ],
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Saison 1 - La naissance d'un boxeur",
       "episodes": [
         {
           "n": 1,
@@ -441,12 +441,12 @@
     },
     "2": {
       "label": "Saison 2",
-      "title": "Champion Road",
+      "title": "Film - Champion Road",
       "episodes": []
     },
     "3": {
       "label": "Saison 3",
-      "title": "Saison 2",
+      "title": "Saison 2 - De nouveaux rivaux à l'horizon",
       "episodes": [
         {
           "n": 1,
@@ -582,7 +582,7 @@
     },
     "4": {
       "label": "Saison 4",
-      "title": "Saison 3",
+      "title": "Saison 3 - L'ascension vers la couronne mondiale",
       "episodes": [
         {
           "n": 1,
