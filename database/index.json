@@ -362,5 +362,64 @@
       "Tournois",
       "Aventure"
     ]
+  },
+  {
+    "id": "hunter-x-hunter",
+    "title": "Hunter x Hunter",
+    "poster": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/hunter-x-hunter.webp",
+    "rating": "?",
+    "year": "????",
+    "status": "cours",
+    "statusLabel": "En cours",
+    "genres": [
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Shônen",
+      "Surnaturel",
+      "Thriller",
+      "Tournois",
+      "Kaï",
+      "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "baki",
+    "title": "Baki",
+    "poster": "https://cdn.jsdelivr.net/gh/Anime-Sama/IMG@img/contenu/thumb/baki.webp",
+    "rating": "?",
+    "year": "????",
+    "status": "cours",
+    "statusLabel": "En cours",
+    "genres": [
+      "Action",
+      "Shônen",
+      "Tournois",
+      "Aventure",
+      "Crime",
+      "Drame"
+   ]
+  },
+  {
+    "id": "gachiakuta",
+    "title": "Gachiakuta",
+    "poster": "https://i.imgur.com/PV0y5DO.jpeg",
+    "rating": "8.2",
+    "year": "2025",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Fantasy",
+      "Mystère",
+      "Aventure",
+      "Science-Fiction",
+      "Fantastique"
+    ]
   }
 ]
