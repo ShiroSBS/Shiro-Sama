@@ -454,5 +454,28 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "naruto",
+    "title": "Naruto",
+    "poster": "https://i.imgur.com/9vtiERs.jpeg",
+    "rating": "8.0",
+    "year": "2002",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Fantasy",
+      "Shônen",
+      "Surnaturel",
+      "Tournois",
+      "Kaï",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
