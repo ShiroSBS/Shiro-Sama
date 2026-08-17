@@ -434,5 +434,25 @@
       "Tournois",
       "Drame"
     ]
+  },
+  {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "FullMetal Alchemist Brotherhood",
+    "poster": "https://i.imgur.com/W23OJXp.jpeg",
+    "rating": "9.0",
+    "year": "2009",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Surnaturel",
+      "Thriller",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
