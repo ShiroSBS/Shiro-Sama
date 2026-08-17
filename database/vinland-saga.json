@@ -1,0 +1,313 @@
+{
+  "id": "vinland-saga",
+  "title": "Vinland Saga",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+  "description": "Vinland Saga nous raconte l'histoire d'un jeune Viking, Thorfinn. Ce dernier fait partie de l'équipage d'un chef de guerre du nom d'Askeladd.\nEnchainant les combats et les missions dangereuses, Thorfinn s'endurcit et gagne en maturité. Il a un objectif : la vengeance !",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Folklore",
+    "Guerre",
+    "Médiéval",
+    "Vengeance",
+    "Viking"
+  ],
+  "rating": "8.7",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Vinland Saga",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.7",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5722803"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5722805"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5722807"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5722809"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5722811"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5722813"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5722815"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5722817"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5722819"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5722822"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5722823"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5722825"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5722826"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5722827"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5722829"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5722831"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5722832"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5722834"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5722835"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5722837"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5722838"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5722841"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5722843"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "5722845"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5722847"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5722849"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5722850"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5722852"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5722853"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5722854"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5723071"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5722857"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5722859"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5722860"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5722862"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5722863"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5722864"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5722865"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5722866"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5722867"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5722868"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5722869"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5722870"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5722871"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5722872"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5722873"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5722874"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "5722876"
+        }
+      ]
+    }
+  }
+}
