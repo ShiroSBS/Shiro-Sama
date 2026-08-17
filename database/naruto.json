@@ -59,8 +59,8 @@
   ],
   "seasons": {
     "2": {
-      "label": "Saison 2",
-      "title": "Sans Fillers",
+      "label": "Saison 1",
+      "title": "Naruto - Sans Fillers",
       "episodes": [
         { "n": 1, "title": "Je m'appelle Naruto !", "id": "4963284" },
         { "n": 2, "title": "Conan ! Je suis Konoha-Maru !", "id": "4963285" },
@@ -195,8 +195,8 @@
       ]
     },
     "3": {
-      "label": "Saison 3",
-      "title": "Film",
+      "label": "Flim",
+      "title": "Film - Naruto",
       "episodes": [
         { "n": 1, "title": "Naruto et la Princesse des neiges", "id": "4796948" },
         { "n": 2, "title": "La Légende de la pierre de Guelel", "id": "4796969" },
