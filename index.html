@@ -88,20 +88,7 @@ body.search-open .app-shell{visibility:hidden}
 .s-tab{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:8px 20px;border-radius:8px;background:var(--bg3);color:var(--muted);transition:all .2s;}
 .s-tab:hover:not(.active){background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.2)}
 .s-tab.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
-.anime-selector{display:flex;gap:14px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding-bottom:6px;scrollbar-width:none;}
-.anime-selector::-webkit-scrollbar{display:none}
-@media(min-width:901px){
-  .anime-selector{scrollbar-width:thin;scrollbar-color:var(--accent) var(--bg3);padding-bottom:12px;}
-  .anime-selector::-webkit-scrollbar{display:block;height:8px}
-  .anime-selector::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
-  .anime-selector::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
-  .anime-selector::-webkit-scrollbar-thumb:hover{background:var(--accent2)}
-}
-.anime-sel-card{cursor:pointer;border-radius:10px;overflow:hidden;border:2px solid var(--border);transition:all .35s cubic-bezier(.22,1,.36,1);flex-shrink:0;width:110px;scroll-snap-align:start;animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
-.anime-sel-card:hover{border-color:rgba(59,126,255,.5);transform:translateY(-4px) scale(1.03);box-shadow:0 10px 26px rgba(0,0,0,.5)}
-.anime-sel-card.active{border-color:var(--accent);box-shadow:0 0 20px rgba(59,126,255,.4)}
-.anime-sel-thumb{width:100%;aspect-ratio:2/3;object-fit:cover;display:block}
-.anime-sel-title{font-size:11px;font-weight:700;text-align:center;padding:6px 4px;color:var(--text);background:var(--bg3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
 .ep-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;}
 .ep-card{position:relative;background:linear-gradient(155deg,rgba(255,255,255,.05),rgba(255,255,255,.015));backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.09);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .2s ease,border-color .2s ease;animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
 .ep-card:hover{transform:translateY(-4px);border-color:rgba(59,126,255,.4);}
@@ -168,6 +155,34 @@ body.search-open .app-shell{visibility:hidden}
 .watch-topbar-title{font-size:13px;font-weight:700;color:var(--text)}.watch-topbar-ep{font-size:11px;color:var(--muted);margin-top:1px}
 footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;}
 .footer-copy{font-size:12px;color:var(--dim)}
+/* === Footer Shiro-Sama (inspiré, pas 1:1) === */
+.site-footer{background:var(--bg2);border-top:1px solid var(--border);padding:52px 32px 26px;margin-top:0;}
+.footer-top{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:44px;max-width:1200px;margin:0 auto 34px;}
+.footer-heading{font-size:15px;font-weight:800;letter-spacing:-.02em;margin-bottom:16px;color:var(--text);display:flex;align-items:center;gap:8px}
+.footer-heading::before{content:'';width:3px;height:15px;background:var(--accent);border-radius:2px;display:inline-block}
+.footer-text{font-size:13px;line-height:1.75;color:var(--muted);max-width:440px}
+.footer-link{display:flex;align-items:center;gap:10px;font-size:13.5px;color:var(--muted);font-weight:600;margin-bottom:13px;transition:color .2s}
+.footer-link:hover{color:var(--text)}
+.footer-link-icon{width:26px;height:26px;border-radius:50%;background:var(--accentGlow);border:1px solid var(--border2);display:flex;align-items:center;justify-content:center;font-size:12.5px;flex-shrink:0;color:var(--accent2)}
+.footer-bottom{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;max-width:1200px;margin:0 auto;padding-top:22px;border-top:1px solid var(--border);}
+@media(max-width:800px){.footer-top{grid-template-columns:1fr;gap:30px}}
+@media(max-width:480px){.site-footer{padding:36px 16px 20px}.footer-top{margin-bottom:24px}}
+/* === Historique de visionnage === */
+.history-row{display:flex;gap:14px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;padding-bottom:8px;scrollbar-width:thin;scrollbar-color:var(--accent) var(--bg3);}
+.history-row::-webkit-scrollbar{height:8px}
+.history-row::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
+.history-row::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
+.history-card{position:relative;cursor:pointer;border-radius:12px;overflow:hidden;border:1px solid var(--border);flex-shrink:0;width:170px;aspect-ratio:2/3;scroll-snap-align:start;transition:all .35s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;background:var(--bg3);}
+.history-card:hover{border-color:rgba(59,126,255,.5);transform:translateY(-4px) scale(1.02);box-shadow:0 12px 30px rgba(0,0,0,.55)}
+.history-thumb{width:100%;height:100%;object-fit:cover;display:block;filter:brightness(.8)}
+.history-card:hover .history-thumb{filter:brightness(1)}
+.history-tag-series{position:absolute;top:10px;left:10px;background:rgba(7,9,15,.72);backdrop-filter:blur(4px);color:var(--text);font-size:9.5px;font-weight:800;letter-spacing:.06em;padding:3px 8px;border-radius:5px;border:1px solid var(--border);}
+.history-tag-ep{position:absolute;top:38px;left:10px;background:linear-gradient(135deg,#2563eb,#3b7eff);color:#fff;font-size:10.5px;font-weight:800;padding:3px 9px;border-radius:6px;box-shadow:0 3px 10px rgba(59,126,255,.4);}
+.history-delete-btn{position:absolute;top:8px;right:8px;width:26px;height:26px;border-radius:50%;background:rgba(7,9,15,.65);border:1px solid rgba(255,255,255,.15);color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;z-index:2;transition:all .2s;}
+.history-delete-btn:hover{background:#e6394b;border-color:#e6394b;transform:scale(1.08)}
+.history-title-bar{position:absolute;left:0;right:0;bottom:0;padding:22px 10px 10px;background:linear-gradient(to top,rgba(7,9,15,.96) 20%,transparent 100%);font-size:12.5px;font-weight:700;color:var(--text);line-height:1.3;}
+.history-empty{color:var(--muted);font-size:13.5px;padding:24px 4px;}
+@media(max-width:480px){.history-card{width:128px}.history-tag-ep{top:34px}}
 @media(max-width:900px){
   .watch-layout{grid-template-columns:1fr}.sidebar-col{display:none}
   .anime-info-layout{grid-template-columns:1fr;margin-top:-60px}
@@ -181,9 +196,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 }
 @media(max-width:480px){
   img,iframe{max-width:100%}
-  .anime-selector{gap:8px}
-  .anime-sel-card{width:88px}
-  .anime-sel-title{font-size:10px;padding:5px 3px}
+  .history-row{gap:8px}
+  .history-card{width:112px}
   .hero-content{padding:0 16px 26px}
   .hero-badge{font-size:10px;padding:3px 10px;margin-bottom:12px}
   .hero-desc{font-size:13.5px;margin-bottom:18px}
@@ -211,6 +225,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   .search-results-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px;margin-top:20px}
   footer{padding:20px 16px;gap:10px}
   .footer-copy{font-size:11px}
+  .site-footer .footer-copy{font-size:11px}
 }
 
 /* === REFONTE : recherche live + avatar nav === */
@@ -482,8 +497,11 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
   <div class="stats-bar" id="home-stats-bar"></div>
   <div class="section">
     <div style="margin-bottom:20px">
-      <h2 class="section-title" style="margin-bottom:16px">Tous les animes</h2>
-      <div class="anime-selector" id="anime-selector"></div>
+      <div class="section-header" style="margin-bottom:16px">
+        <h2 class="section-title">⏮ Votre historique</h2>
+        <span class="see-all" id="history-clear-btn" onclick="clearHistory()" style="display:none">🗑 Tout supprimer</span>
+      </div>
+      <div class="history-row" id="history-row"></div>
     </div>
     <div class="section-header">
       <h2 class="section-title" id="home-section-title">Saison 1</h2>
@@ -492,9 +510,27 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <div class="season-tabs" id="home-season-tabs"></div>
     <div class="ep-grid" id="home-ep-grid"></div>
   </div>
-  <footer>
-    <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
-    <span class="footer-copy">© 2026 Shiro Sama — Streaming anime VF</span>
+  <footer class="site-footer">
+    <div class="footer-top">
+      <div class="footer-col footer-col-legal">
+        <h3 class="footer-heading">Avertissement légal</h3>
+        <p class="footer-text">Shiro Sama n'héberge aucun fichier sur ses serveurs. Nous fournissons uniquement des liens vers des services externes. Nous ne sommes pas responsables du contenu hébergé par ces services tiers. En cas de problème avec la justice, veuillez contacter directement les hébergeurs des contenus concernés.</p>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Informations</h3>
+        <div class="footer-link"><span class="footer-link-icon">ℹ️</span>C'est quoi Shiro Sama ?</div>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Développé avec</h3>
+        <div class="footer-link"><span class="footer-link-icon">🐍</span>Python</div>
+        <div class="footer-link"><span class="footer-link-icon">🟢</span>Node.js</div>
+        <div class="footer-link"><span class="footer-link-icon">✦</span>Claude AI</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
+      <span class="footer-copy">© 2026 Shiro Sama — Streaming anime VF</span>
+    </div>
   </footer>
 </div>
 
@@ -503,9 +539,27 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <h1 style="font-size:28px;font-weight:900;margin-bottom:24px;letter-spacing:-.03em">Catalogue</h1>
     <div class="anime-grid" id="catalogue-grid"></div>
   </div>
-  <footer>
-    <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
-    <span class="footer-copy">© 2026 Shiro Sama</span>
+  <footer class="site-footer">
+    <div class="footer-top">
+      <div class="footer-col footer-col-legal">
+        <h3 class="footer-heading">Avertissement légal</h3>
+        <p class="footer-text">Shiro Sama n'héberge aucun fichier sur ses serveurs. Nous fournissons uniquement des liens vers des services externes. Nous ne sommes pas responsables du contenu hébergé par ces services tiers. En cas de problème avec la justice, veuillez contacter directement les hébergeurs des contenus concernés.</p>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Informations</h3>
+        <div class="footer-link"><span class="footer-link-icon">ℹ️</span>C'est quoi Shiro Sama ?</div>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Développé avec</h3>
+        <div class="footer-link"><span class="footer-link-icon">🐍</span>Python</div>
+        <div class="footer-link"><span class="footer-link-icon">🟢</span>Node.js</div>
+        <div class="footer-link"><span class="footer-link-icon">✦</span>Claude AI</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
+      <span class="footer-copy">© 2026 Shiro Sama — Streaming anime VF</span>
+    </div>
   </footer>
 </div>
 
@@ -534,9 +588,27 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     <div class="season-tabs" id="anime-season-tabs"></div>
     <div class="ep-grid" id="anime-ep-grid"></div>
   </div>
-  <footer>
-    <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
-    <span class="footer-copy">© 2026 Shiro Sama</span>
+  <footer class="site-footer">
+    <div class="footer-top">
+      <div class="footer-col footer-col-legal">
+        <h3 class="footer-heading">Avertissement légal</h3>
+        <p class="footer-text">Shiro Sama n'héberge aucun fichier sur ses serveurs. Nous fournissons uniquement des liens vers des services externes. Nous ne sommes pas responsables du contenu hébergé par ces services tiers. En cas de problème avec la justice, veuillez contacter directement les hébergeurs des contenus concernés.</p>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Informations</h3>
+        <div class="footer-link"><span class="footer-link-icon">ℹ️</span>C'est quoi Shiro Sama ?</div>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Développé avec</h3>
+        <div class="footer-link"><span class="footer-link-icon">🐍</span>Python</div>
+        <div class="footer-link"><span class="footer-link-icon">🟢</span>Node.js</div>
+        <div class="footer-link"><span class="footer-link-icon">✦</span>Claude AI</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
+      <span class="footer-copy">© 2026 Shiro Sama — Streaming anime VF</span>
+    </div>
   </footer>
 </div>
 
@@ -591,9 +663,27 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
       <div class="ep-list" id="ep-list-sidebar"></div>
     </div>
   </div>
-  <footer>
-    <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
-    <span class="footer-copy">© 2026 Shiro Sama</span>
+  <footer class="site-footer">
+    <div class="footer-top">
+      <div class="footer-col footer-col-legal">
+        <h3 class="footer-heading">Avertissement légal</h3>
+        <p class="footer-text">Shiro Sama n'héberge aucun fichier sur ses serveurs. Nous fournissons uniquement des liens vers des services externes. Nous ne sommes pas responsables du contenu hébergé par ces services tiers. En cas de problème avec la justice, veuillez contacter directement les hébergeurs des contenus concernés.</p>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Informations</h3>
+        <div class="footer-link"><span class="footer-link-icon">ℹ️</span>C'est quoi Shiro Sama ?</div>
+      </div>
+      <div class="footer-col">
+        <h3 class="footer-heading">Développé avec</h3>
+        <div class="footer-link"><span class="footer-link-icon">🐍</span>Python</div>
+        <div class="footer-link"><span class="footer-link-icon">🟢</span>Node.js</div>
+        <div class="footer-link"><span class="footer-link-icon">✦</span>Claude AI</div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="logo" onclick="showPage('home')" style="cursor:pointer"><div class="logo-icon"><img src="asset/logo.png" alt="Shiro Sama"></div><span class="logo-text">Shiro <span>Sama</span></span></div>
+      <span class="footer-copy">© 2026 Shiro Sama — Streaming anime VF</span>
+    </div>
   </footer>
 </div>
 </div>
@@ -774,11 +864,58 @@ async function goToAnime(id){
 }
 
 function renderHome(){
-  document.getElementById('anime-selector').innerHTML=ANIME_INDEX.map(a=>`
-    <div class="anime-sel-card${a.id===currentAnimeId?' active':''}" onclick="selectHomeAnime('${a.id}')">
-      <img class="anime-sel-thumb" src="${a.poster}" alt="${a.title}" onerror="this.style.display='none'"/>
-    </div>`).join('');
+  renderHistory();
   renderHomeForAnime();
+}
+
+/* === Historique de visionnage (remplace l'ancien carrousel "Tous les animes") === */
+const HISTORY_KEY='ss_history';
+function loadHistory(){try{return JSON.parse(localStorage.getItem(HISTORY_KEY)||'[]')}catch(e){return []}}
+function saveHistoryList(list){try{localStorage.setItem(HISTORY_KEY,JSON.stringify(list))}catch(e){}}
+function addToHistory(a,s,i){
+  let list=loadHistory();
+  list=list.filter(h=>h.a!==a);
+  list.unshift({a,s,i,ts:Date.now()});
+  if(list.length>20)list=list.slice(0,20);
+  saveHistoryList(list);
+}
+function removeFromHistory(id,ev){
+  if(ev){ev.stopPropagation();ev.preventDefault();}
+  saveHistoryList(loadHistory().filter(h=>h.a!==id));
+  renderHistory();
+}
+function clearHistory(){
+  saveHistoryList([]);
+  renderHistory();
+}
+async function goToHistoryItem(id,s,i){
+  currentAnimeId=id;
+  try{ await loadAnimeData(id); }catch(e){ console.error(e); return; }
+  playEpisode(s,i);
+}
+function renderHistory(){
+  const row=document.getElementById('history-row');
+  if(!row)return;
+  const clearBtn=document.getElementById('history-clear-btn');
+  const list=loadHistory().filter(h=>ANIME_INDEX.some(x=>x.id===h.a));
+  if(!list.length){
+    row.innerHTML='<div class="history-empty">Ton historique est vide pour le moment. Lance un épisode pour le retrouver ici.</div>';
+    if(clearBtn)clearBtn.style.display='none';
+    return;
+  }
+  if(clearBtn)clearBtn.style.display='inline-flex';
+  row.innerHTML=list.map(h=>{
+    const meta=ANIME_INDEX.find(x=>x.id===h.a);
+    return `<div class="history-card" onclick="goToHistoryItem('${h.a}',${h.s},${h.i})">
+      <button class="history-delete-btn" onclick="removeFromHistory('${h.a}',event)" aria-label="Retirer de l'historique">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
+      </button>
+      <img class="history-thumb" src="${meta.poster}" alt="${meta.title}" onerror="this.src='https://placehold.co/220x310/111520/3b7eff?text=${encodeURIComponent(meta.title).replace(/'/g,'%27')}'"/>
+      <span class="history-tag-series">SÉRIE</span>
+      <span class="history-tag-ep">S${h.s}:E${h.i+1}</span>
+      <div class="history-title-bar">${meta.title}</div>
+    </div>`;
+  }).join('');
 }
 
 async function selectHomeAnime(id){
@@ -818,9 +955,6 @@ function renderHomeForAnime(){
   renderGrid('home-ep-grid', a, activeSeasonNum);
   const si=a.seasons[activeSeasonNum];
   document.getElementById('home-section-title').textContent=si?si.title:'';
-  document.querySelectorAll('.anime-sel-card').forEach(c=>{
-    c.classList.toggle('active',(c.getAttribute('onclick')||'').includes("'"+currentAnimeId+"'"));
-  });
 }
 
 function renderHeroPagination(){
@@ -1018,6 +1152,8 @@ function playEpisode(season,idx){
   renderSeasonTabs('watch',season);
   renderSidebars();
   saveProgress(currentAnimeId,season,idx);
+  addToHistory(currentAnimeId,season,idx);
+  renderHistory();
   renderAnimePage();
   showPage('watch');
 }
