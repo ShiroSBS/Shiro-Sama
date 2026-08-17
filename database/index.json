@@ -384,7 +384,7 @@
   {
     "id": "black-clover",
     "title": "Black Clover",
-    "poster": "https://i.imgur.com/xbVpSTc.jpeg",
+    "poster": "https://i.imgur.com/6mJsZ97.jpeg",
     "rating": "7.9",
     "year": "2017",
     "status": "termine",
@@ -416,6 +416,23 @@
       "Slice of Life",
       "Idols",
       "Réincarnation"
+    ]
+  },
+  {
+    "id": "haikyuu",
+    "title": "Haikyuu",
+    "poster": "https://i.imgur.com/soz4hH9.jpeg",
+    "rating": "8.4",
+    "year": "2014",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Sport",
+      "Comédie",
+      "Shônen",
+      "Tournois",
+      "Drame"
     ]
   }
 ]
