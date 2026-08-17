@@ -1,0 +1,506 @@
+{
+  "id": "haikyuu",
+  "title": "Haikyuu",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+  "description": "Shôyô Hinata, surnommé Shô, aime plus que tout jouer au volley-ball et ce, malgré sa petite taille. Malheureusement, suite à une sévère défaite, son club de collège a été dissous, tous les membres étant partis.\nMais Shô est bien décidé à jouer de nouveau et choisit son futur lycée en fonction de son ambition. Il intègre donc le lycée Karasuno, où a joué son idole, le Petit Géant, tout en espérant faire aussi bien que lui.",
+  "genres": [
+    "Action",
+    "Sport",
+    "Comédie",
+    "Shônen",
+    "Tournois",
+    "Drame"
+  ],
+  "rating": "8.4",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Haikyuu",
+  "stats": [
+    {
+      "v": "4",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 4 Saisons · 85 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Haikyuu!!",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Fin et Début",
+          "id": "5544990"
+        },
+        {
+          "n": 2,
+          "title": "Le club de volley-ball du lycée Karasuno",
+          "id": "5544992"
+        },
+        {
+          "n": 3,
+          "title": "L'allié le plus fort",
+          "id": "5544993"
+        },
+        {
+          "n": 4,
+          "title": "Le paria et le génie",
+          "id": "5544994"
+        },
+        {
+          "n": 5,
+          "title": "La vue depuis le sommet",
+          "id": "5544995"
+        },
+        {
+          "n": 6,
+          "title": "Intéressant",
+          "id": "5544996"
+        },
+        {
+          "n": 7,
+          "title": "Contre le grand roi",
+          "id": "5544998"
+        },
+        {
+          "n": 8,
+          "title": "Celui qu'on appelle l'as",
+          "id": "5544999"
+        },
+        {
+          "n": 9,
+          "title": "Les as de la passe",
+          "id": "5545000"
+        },
+        {
+          "n": 10,
+          "title": "La lune de sang",
+          "id": "5545001"
+        },
+        {
+          "n": 11,
+          "title": "Décision en haut",
+          "id": "5545002"
+        },
+        {
+          "n": 12,
+          "title": "Le chat et la souris",
+          "id": "5545005"
+        },
+        {
+          "n": 13,
+          "title": "Rivaux",
+          "id": "5545006"
+        },
+        {
+          "n": 14,
+          "title": "Celle qui prend la relève",
+          "id": "5545008"
+        },
+        {
+          "n": 15,
+          "title": "Destruction",
+          "id": "5545009"
+        },
+        {
+          "n": 16,
+          "title": "Besoin",
+          "id": "5545010"
+        },
+        {
+          "n": 17,
+          "title": "Le mur infranchissable",
+          "id": "5545011"
+        },
+        {
+          "n": 18,
+          "title": "Pour l'équipe",
+          "id": "5545012"
+        },
+        {
+          "n": 19,
+          "title": "Chemins de fer",
+          "id": "5545014"
+        },
+        {
+          "n": 20,
+          "title": "L'inspiration",
+          "id": "5545015"
+        },
+        {
+          "n": 21,
+          "title": "Le formateur",
+          "id": "5545016"
+        },
+        {
+          "n": 22,
+          "title": "Évolution",
+          "id": "5545018"
+        },
+        {
+          "n": 23,
+          "title": "Flux",
+          "id": "5545019"
+        },
+        {
+          "n": 24,
+          "title": "Le mangeur de panneaux",
+          "id": "5545020"
+        },
+        {
+          "n": 25,
+          "title": "La troisième journée",
+          "id": "5545022"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Haikyuu!! Second Season",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Étirements",
+          "id": "5921559"
+        },
+        {
+          "n": 2,
+          "title": "Direct",
+          "id": "5921568"
+        },
+        {
+          "n": 3,
+          "title": "Le Oui",
+          "id": "5921571"
+        },
+        {
+          "n": 4,
+          "title": "Le centre de gravité",
+          "id": "5921587"
+        },
+        {
+          "n": 5,
+          "title": "La couveuse",
+          "id": "5921591"
+        },
+        {
+          "n": 6,
+          "title": "Tempo",
+          "id": "5921596"
+        },
+        {
+          "n": 7,
+          "title": "Retour",
+          "id": "5921599"
+        },
+        {
+          "n": 8,
+          "title": "Illusionnisme",
+          "id": "5921605"
+        },
+        {
+          "n": 9,
+          "title": "Combat de grenouilles dans un puits",
+          "id": "5921612"
+        },
+        {
+          "n": 10,
+          "title": "La lune",
+          "id": "5921619"
+        },
+        {
+          "n": 11,
+          "title": "Au-dessus",
+          "id": "5921627"
+        },
+        {
+          "n": 12,
+          "title": "Le match de retrouvailles",
+          "id": "5921635"
+        },
+        {
+          "n": 13,
+          "title": "Le terrain d'exercice",
+          "id": "5921642"
+        },
+        {
+          "n": 14,
+          "title": "Noblesse oblige",
+          "id": "5921648"
+        },
+        {
+          "n": 15,
+          "title": "Jouons à tout prix",
+          "id": "5921653"
+        },
+        {
+          "n": 16,
+          "title": "En route pour Tokyo",
+          "id": "5921656"
+        },
+        {
+          "n": 17,
+          "title": "L'aubaine",
+          "id": "5921660"
+        },
+        {
+          "n": 18,
+          "title": "Les champions",
+          "id": "5921662"
+        },
+        {
+          "n": 19,
+          "title": "Le mur de fer de l'amertume et de la ténacité",
+          "id": "5921665"
+        },
+        {
+          "n": 20,
+          "title": "Nettoyeur",
+          "id": "5921667"
+        },
+        {
+          "n": 21,
+          "title": "Le destructeur",
+          "id": "5921670"
+        },
+        {
+          "n": 22,
+          "title": "La lutte",
+          "id": "5921673"
+        },
+        {
+          "n": 23,
+          "title": "Équipe",
+          "id": "5921674"
+        },
+        {
+          "n": 24,
+          "title": "La mutation absolue",
+          "id": "5921675"
+        },
+        {
+          "n": 25,
+          "title": "La déclaration de guerre",
+          "id": "5921677"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Haikyuu!! Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Salutations",
+          "id": "5943000"
+        },
+        {
+          "n": 2,
+          "title": "La menace du mur gauche",
+          "id": "5943001"
+        },
+        {
+          "n": 3,
+          "title": "Un joueur de plus",
+          "id": "5943002"
+        },
+        {
+          "n": 4,
+          "title": "Le gars du fond de la classe",
+          "id": "5943003"
+        },
+        {
+          "n": 5,
+          "title": "Individus contre le tout",
+          "id": "5943004"
+        },
+        {
+          "n": 6,
+          "title": "Le match décidant du terrain",
+          "id": "5943005"
+        },
+        {
+          "n": 7,
+          "title": "Obsession",
+          "id": "5943006"
+        },
+        {
+          "n": 8,
+          "title": "Une bête sans pitié",
+          "id": "5943007"
+        },
+        {
+          "n": 9,
+          "title": "Les hypothèses des vaincus",
+          "id": "5943008"
+        },
+        {
+          "n": 10,
+          "title": "La bataille pour le sommet",
+          "id": "5943009"
+        }
+      ]
+    },
+    "4": {
+      "label": "Saison 4",
+      "title": "Haikyuu!! To the Top",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Introductions",
+          "id": "6154289"
+        },
+        {
+          "n": 2,
+          "title": "Perdu",
+          "id": "6154295"
+        },
+        {
+          "n": 3,
+          "title": "Perspective",
+          "id": "6154299"
+        },
+        {
+          "n": 4,
+          "title": "Pris au piège",
+          "id": "6154303"
+        },
+        {
+          "n": 5,
+          "title": "La faim",
+          "id": "6154307"
+        },
+        {
+          "n": 6,
+          "title": "Amélioration",
+          "id": "6154310"
+        },
+        {
+          "n": 7,
+          "title": "Retour",
+          "id": "6154314"
+        },
+        {
+          "n": 8,
+          "title": "Les illuminations",
+          "id": "6154319"
+        },
+        {
+          "n": 9,
+          "title": "Les premiers duels",
+          "id": "6154322"
+        },
+        {
+          "n": 10,
+          "title": "La bataille de la poubelle (Prélude)",
+          "id": "6154329"
+        },
+        {
+          "n": 11,
+          "title": "Chanceux",
+          "id": "6154335"
+        },
+        {
+          "n": 12,
+          "title": "Vivace",
+          "id": "6154343"
+        },
+        {
+          "n": 13,
+          "title": "Le deuxième jour",
+          "id": "6154347"
+        },
+        {
+          "n": 14,
+          "title": "Rythme",
+          "id": "6154350"
+        },
+        {
+          "n": 15,
+          "title": "Retrouvailles",
+          "id": "6154354"
+        },
+        {
+          "n": 16,
+          "title": "Briser",
+          "id": "6154355"
+        },
+        {
+          "n": 17,
+          "title": "Chats et singes",
+          "id": "6154362"
+        },
+        {
+          "n": 18,
+          "title": "Pièges",
+          "id": "6154369"
+        },
+        {
+          "n": 19,
+          "title": "Le fleuve de la vie",
+          "id": "6154378"
+        },
+        {
+          "n": 20,
+          "title": "Tête-à-tête",
+          "id": "6154384"
+        },
+        {
+          "n": 21,
+          "title": "Le héros",
+          "id": "6154386"
+        },
+        {
+          "n": 22,
+          "title": "Le grand art",
+          "id": "6154389"
+        },
+        {
+          "n": 23,
+          "title": "Naissance",
+          "id": "6154392"
+        },
+        {
+          "n": 24,
+          "title": "Des monstres affamés",
+          "id": "6154396"
+        },
+        {
+          "n": 25,
+          "title": "Promesse tenue",
+          "id": "6154400"
+        }
+      ]
+    }
+  }
+}
