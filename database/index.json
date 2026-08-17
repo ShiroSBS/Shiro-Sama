@@ -380,5 +380,25 @@
       "Science-Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "black-clover",
+    "title": "Black Clover",
+    "poster": "https://i.imgur.com/6mJsZ97.jpeg",
+    "rating": "7.9",
+    "year": "2017",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Fantasy",
+      "Shônen",
+      "Kaï",
+      "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
