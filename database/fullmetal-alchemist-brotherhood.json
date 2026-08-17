@@ -1,0 +1,386 @@
+{
+  "id": "fullmetal-alchemist-brotherhood",
+  "title": "FullMetal Alchemist Brotherhood",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+  "description": "Cette version est une seconde adaptation du manga de Hiromu Arakawa. Elle est bien plus fidèle au manga que la précédente version, et le design change quelque peu.\n\nEdward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Surnaturel",
+    "Thriller",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "9.0",
+  "year": "2009",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "FullMetal Alchemist Brotherhood",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "9.0",
+      "l": "Note"
+    },
+    {
+      "v": "2009",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "9.0"
+    },
+    {
+      "text": "🎬 1 Saisons · 64 Éps"
+    },
+    {
+      "text": "📅 2009"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Le Fullmetal Alchemist",
+          "id": "6250150"
+        },
+        {
+          "n": 2,
+          "title": "Le premier jour",
+          "id": "6250160"
+        },
+        {
+          "n": 3,
+          "title": "La cité de l'hérésie",
+          "id": "6250186"
+        },
+        {
+          "n": 4,
+          "title": "Les tourments d'un alchimiste",
+          "id": "6250214"
+        },
+        {
+          "n": 5,
+          "title": "Pluie de chagrins",
+          "id": "6250241"
+        },
+        {
+          "n": 6,
+          "title": "L'espoir de la table",
+          "id": "6250250"
+        },
+        {
+          "n": 7,
+          "title": "L'orphelinat de Hidden Valley",
+          "id": "6250252"
+        },
+        {
+          "n": 8,
+          "title": "Le serpent qui se mord la queue",
+          "id": "6250256"
+        },
+        {
+          "n": 9,
+          "title": "Souvenirs de l'autre côté",
+          "id": "6250258"
+        },
+        {
+          "n": 10,
+          "title": "Destinées brisées",
+          "id": "6250265"
+        },
+        {
+          "n": 11,
+          "title": "Miracle à Rush Valley",
+          "id": "6250268"
+        },
+        {
+          "n": 12,
+          "title": "Un tout est un, un est tout",
+          "id": "6250271"
+        },
+        {
+          "n": 13,
+          "title": "Les bêtes de Dublith",
+          "id": "6250331"
+        },
+        {
+          "n": 14,
+          "title": "Ceux qui se dressent à l'ouest",
+          "id": "6250379"
+        },
+        {
+          "n": 15,
+          "title": "L'émissaire de l'Est",
+          "id": "6250383"
+        },
+        {
+          "n": 16,
+          "title": "Les traces d'un camarade",
+          "id": "6250384"
+        },
+        {
+          "n": 17,
+          "title": "Autour de la flamme",
+          "id": "6250385"
+        },
+        {
+          "n": 18,
+          "title": "Le poing de l'angoisse",
+          "id": "6250387"
+        },
+        {
+          "n": 19,
+          "title": "La mort de l'immortel",
+          "id": "6250388"
+        },
+        {
+          "n": 20,
+          "title": "Le père du tombeau",
+          "id": "6250392"
+        },
+        {
+          "n": 21,
+          "title": "L'avance du fou",
+          "id": "6250412"
+        },
+        {
+          "n": 22,
+          "title": "Promesses lointaines",
+          "id": "6250418"
+        },
+        {
+          "n": 23,
+          "title": "La fille qui grandit",
+          "id": "6250427"
+        },
+        {
+          "n": 24,
+          "title": "À l'intérieur du ventre",
+          "id": "6250464"
+        },
+        {
+          "n": 25,
+          "title": "Ténèbres de l'obscurité",
+          "id": "6250495"
+        },
+        {
+          "n": 26,
+          "title": "Réunion",
+          "id": "6250531"
+        },
+        {
+          "n": 27,
+          "title": "Intermède / Fête de la famille",
+          "id": "6250567"
+        },
+        {
+          "n": 28,
+          "title": "Le père",
+          "id": "6250598"
+        },
+        {
+          "n": 29,
+          "title": "La lutte désespérée",
+          "id": "6250605"
+        },
+        {
+          "n": 30,
+          "title": "La reine exterminatrice",
+          "id": "6250615"
+        },
+        {
+          "n": 31,
+          "title": "La promesse du jour de l'an",
+          "id": "6250632"
+        },
+        {
+          "n": 32,
+          "title": "L'ombre du piqueur",
+          "id": "6250655"
+        },
+        {
+          "n": 33,
+          "title": "Les remparts du nord",
+          "id": "6250677"
+        },
+        {
+          "n": 34,
+          "title": "La reine des glaces",
+          "id": "6250700"
+        },
+        {
+          "n": 35,
+          "title": "La silhouette d'un autre",
+          "id": "6250732"
+        },
+        {
+          "n": 36,
+          "title": "L'unité familiale",
+          "id": "6250748"
+        },
+        {
+          "n": 37,
+          "title": "Le premier homonculus",
+          "id": "6250785"
+        },
+        {
+          "n": 38,
+          "title": "Le conflit de Baschool",
+          "id": "6250804"
+        },
+        {
+          "n": 39,
+          "title": "Le rêve de Rizenpool",
+          "id": "6251625"
+        },
+        {
+          "n": 40,
+          "title": "La petite fille de Briggs",
+          "id": "6251626"
+        },
+        {
+          "n": 41,
+          "title": "L'enfer",
+          "id": "6251629"
+        },
+        {
+          "n": 42,
+          "title": "Les signes d'une contre-attaque",
+          "id": "6251631"
+        },
+        {
+          "n": 43,
+          "title": "Une morsure de fourmi",
+          "id": "6251634"
+        },
+        {
+          "n": 44,
+          "title": "Un éclair de pureté",
+          "id": "6251636"
+        },
+        {
+          "n": 45,
+          "title": "Le jour de l'engagement",
+          "id": "6251637"
+        },
+        {
+          "n": 46,
+          "title": "Double mensonge",
+          "id": "6251639"
+        },
+        {
+          "n": 47,
+          "title": "Le messager des ténèbres",
+          "id": "6251642"
+        },
+        {
+          "n": 48,
+          "title": "Le serment fait dans le souterrain",
+          "id": "6251645"
+        },
+        {
+          "n": 49,
+          "title": "Amour de famille",
+          "id": "6251649"
+        },
+        {
+          "n": 50,
+          "title": "Des perturbations dans la capitale",
+          "id": "6251651"
+        },
+        {
+          "n": 51,
+          "title": "L'armée immortelle",
+          "id": "6251653"
+        },
+        {
+          "n": 52,
+          "title": "La force combinée",
+          "id": "6251656"
+        },
+        {
+          "n": 53,
+          "title": "Des flammes de vengeance",
+          "id": "6251660"
+        },
+        {
+          "n": 54,
+          "title": "Au-delà de l'enfer",
+          "id": "6251663"
+        },
+        {
+          "n": 55,
+          "title": "Les moyens de survivre",
+          "id": "6251666"
+        },
+        {
+          "n": 56,
+          "title": "Le retour du chef",
+          "id": "6251668"
+        },
+        {
+          "n": 57,
+          "title": "L'éternel urgent",
+          "id": "6251671"
+        },
+        {
+          "n": 58,
+          "title": "Les sacrifices humains",
+          "id": "6251674"
+        },
+        {
+          "n": 59,
+          "title": "L'apogée",
+          "id": "6251677"
+        },
+        {
+          "n": 60,
+          "title": "L'œil du ciel, la porte de la Terre",
+          "id": "6251679"
+        },
+        {
+          "n": 61,
+          "title": "Celui qui absorbe Dieu",
+          "id": "6251683"
+        },
+        {
+          "n": 62,
+          "title": "Une contre-attaque acharnée",
+          "id": "6251686"
+        },
+        {
+          "n": 63,
+          "title": "L'autre côté de la porte",
+          "id": "6251690"
+        },
+        {
+          "n": 64,
+          "title": "La fin du voyage",
+          "id": "6251692"
+        }
+      ]
+    }
+  }
+}
