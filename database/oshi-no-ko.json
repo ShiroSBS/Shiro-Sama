@@ -1,0 +1,250 @@
+{
+  "id": "oshi-no-ko",
+  "title": "Oshi No Ko",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-WqmmwZ4nMzAy.png",
+  "description": "Le docteur Gorô est obstétricien dans un hôpital de campagne. Il est loin du monde de paillettes dans lequel évolue Ai Hoshino, une chanteuse au succès grandissant dont il est 'un fan absolu'. Ces deux-là vont peut-être se rencontrer dans des circonstances peu favorables, mais cet événement changera leur vie à jamais !",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Psychologique",
+    "Slice of Life",
+    "Idols",
+    "Réincarnation"
+  ],
+  "rating": "8.4",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Oshi No Ko",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 35 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1 - L'enfant de mon idole",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Mère et enfants",
+          "id": "5244555"
+        },
+        {
+          "n": 2,
+          "title": "La 3e option",
+          "id": "5244558"
+        },
+        {
+          "n": 3,
+          "title": "Drama tiré d'un manga",
+          "id": "5244560"
+        },
+        {
+          "n": 4,
+          "title": "Acteur",
+          "id": "5244561"
+        },
+        {
+          "n": 5,
+          "title": "Télé-réalité de rencontre",
+          "id": "5244563"
+        },
+        {
+          "n": 6,
+          "title": "Égocentrisme",
+          "id": "5244564"
+        },
+        {
+          "n": 7,
+          "title": "Buzz",
+          "id": "5244565"
+        },
+        {
+          "n": 8,
+          "title": "La première fois",
+          "id": "5244566"
+        },
+        {
+          "n": 9,
+          "title": "B-Komachi",
+          "id": "5244568"
+        },
+        {
+          "n": 10,
+          "title": "Pression",
+          "id": "5244570"
+        },
+        {
+          "n": 11,
+          "title": "Idole",
+          "id": "5244571"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2 - Tokyo Blade",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Tokyo Blade",
+          "id": "5808935"
+        },
+        {
+          "n": 2,
+          "title": "Le jeu du téléphone",
+          "id": "5808936"
+        },
+        {
+          "n": 3,
+          "title": "Réécriture",
+          "id": "5808938"
+        },
+        {
+          "n": 4,
+          "title": "Jeu d'acteur",
+          "id": "5808939"
+        },
+        {
+          "n": 5,
+          "title": "Jouer la scène",
+          "id": "5808942"
+        },
+        {
+          "n": 6,
+          "title": "Évolution",
+          "id": "5808944"
+        },
+        {
+          "n": 7,
+          "title": "Soleil",
+          "id": "5808947"
+        },
+        {
+          "n": 8,
+          "title": "Déclencheur",
+          "id": "5808949"
+        },
+        {
+          "n": 9,
+          "title": "Rêve",
+          "id": "5808950"
+        },
+        {
+          "n": 10,
+          "title": "Libération",
+          "id": "5808952"
+        },
+        {
+          "n": 11,
+          "title": "Gôa",
+          "id": "5808954"
+        },
+        {
+          "n": 12,
+          "title": "Retrouvailles",
+          "id": "5808956"
+        },
+        {
+          "n": 13,
+          "title": "Vœu",
+          "id": "5808957"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Obsession",
+          "id": "6220232"
+        },
+        {
+          "n": 2,
+          "title": "Calcul",
+          "id": "6220240"
+        },
+        {
+          "n": 3,
+          "title": "Respect des règles",
+          "id": "6220244"
+        },
+        {
+          "n": 4,
+          "title": "Aveugle",
+          "id": "6220246"
+        },
+        {
+          "n": 5,
+          "title": "Business",
+          "id": "6220249"
+        },
+        {
+          "n": 6,
+          "title": "Idol et Amour",
+          "id": "6220251"
+        },
+        {
+          "n": 7,
+          "title": "Rupture",
+          "id": "6220266"
+        },
+        {
+          "n": 8,
+          "title": "Plan",
+          "id": "6220286"
+        },
+        {
+          "n": 9,
+          "title": "Capitalisme et Passion",
+          "id": "6220300"
+        },
+        {
+          "n": 10,
+          "title": "Casting Privé",
+          "id": "6220304"
+        },
+        {
+          "n": 11,
+          "title": "C'est le commencement",
+          "id": "6220313"
+        }
+      ]
+    }
+  }
+}
