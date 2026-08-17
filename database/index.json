@@ -477,5 +477,26 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "vinland-saga",
+    "title": "Vinland Saga",
+    "poster": "https://i.imgur.com/ePpFMUt.jpeg",
+    "rating": "8.7",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Seinen",
+      "Action",
+      "Aventure",
+      "Drame",
+      "Historique",
+      "Folklore",
+      "Guerre",
+      "Médiéval",
+      "Vengeance",
+      "Viking"
+    ]
   }
 ]
