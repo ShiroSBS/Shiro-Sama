@@ -511,5 +511,25 @@
       "Comédie",
       "Drame"
     ]
+  },
+  {
+    "id": "the-rising-of-the-shield-hero",
+    "title": "The Rising of the Shield Hero",
+    "poster": "https://i.imgur.com/TCcT8bB.jpeg",
+    "rating": "7.6",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Drame",
+      "Fantasy",
+      "Psychologique",
+      "Romance",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
