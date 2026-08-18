@@ -175,7 +175,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .history-row::-webkit-scrollbar{height:8px}
 .history-row::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
 .history-row::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
-.history-card{position:relative;cursor:pointer;border-radius:12px;overflow:hidden;border:1px solid var(--border);flex-shrink:0;width:170px;aspect-ratio:2/3;scroll-snap-align:start;transition:transform .45s cubic-bezier(.22,1,.36,1),border-color .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;background:var(--bg3);}
+.history-card{position:relative;cursor:pointer;border-radius:12px;overflow:hidden;border:1px solid var(--border);flex-shrink:0;width:170px;aspect-ratio:2/3;scroll-snap-align:start;transition:transform .45s cubic-bezier(.22,1,.36,1),border-color .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;background:var(--bg3);-webkit-mask-image:-webkit-radial-gradient(circle,#fff 100%,#000 100%);mask-image:radial-gradient(circle,#fff 100%,#000 100%);}
 .history-card::before{content:'';position:absolute;inset:0;background:linear-gradient(115deg,transparent 0%,rgba(255,255,255,.32) 45%,transparent 62%);transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,1,.36,1);pointer-events:none;z-index:1;}
 .history-card:hover::before{transform:translateX(130%);}
 .history-card:hover{border-color:rgba(59,126,255,.6);transform:translateY(-6px) scale(1.03);box-shadow:0 16px 34px rgba(0,0,0,.55),0 0 26px rgba(59,126,255,.4)}
