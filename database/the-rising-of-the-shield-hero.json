@@ -1,9 +1,9 @@
 {
   "id": "the-rising-of-the-shield-hero",
   "title": "The Rising of the Shield Hero",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99263-IwkmdCTsDY1t.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99263-LcazQwdlWzMy.jpg",
+  "poster": "https://i.imgur.com/TCcT8bB.jpeg",
+  "banner": "https://i.imgur.com/TgVOBEU.jpeg",
+  "bannerFallback": "https://i.imgur.com/TCcT8bB.jpeg",
   "description": "Naofumi se voit un jour invoqué dans un monde fantastique avec trois autres personnes afin de devenir les héros de ce monde. Dès leur arrivée, chacun se retrouve équipé d'une des quatre armes légendaires où Naofumi hérite d'un simple bouclier considéré comme le plus inutile des quatre équipements.\nEn raison de son manque de charisme, Naofumi finit malheureusement avec une seule coéquipière tandis que les autres en avaient plusieurs. Et comme si cela ne suffisait pas, lors du deuxième jour, il a été trahi, accusé à tort et volé par ladite partenaire.\nMéprisé de tous, du roi aux paysans, le jeune homme ne pense désormais plus qu'à se venger !",
   "genres": [
     "Action",
@@ -58,334 +58,334 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Saison 1 - Le Héros au bouclier",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Le Héros au bouclier",
           "id": "4398295"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "La Jeune Fille esclave",
           "id": "4398306"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "La Vague de calamité",
           "id": "4398307"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "La Berceuse de l'aube",
           "id": "4398311"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Filo",
           "id": "4398315"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Une nouvelle compagne",
           "id": "4398319"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le Saint au bouclier",
           "id": "4398324"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Le Bouclier du courroux",
           "id": "4398328"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Melty",
           "id": "4398334"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La Tempête",
           "id": "4398335"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Reprise du combat",
           "id": "4398336"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le Tailladeur de nuit",
           "id": "4398337"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Le Démon au bouclier",
           "id": "4398338"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Souvenirs ineffaçables",
           "id": "4398341"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Raphtalia",
           "id": "4398342"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "La Déesse du salut",
           "id": "4398343"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "La Lignée du dragon",
           "id": "4398345"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Une chaîne de conspirations",
           "id": "4398346"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Les Quatre Héros sacrés",
           "id": "4398348"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Le Combat décisif",
           "id": "4398349"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le Châtiment",
           "id": "4398350"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "La Réunion des Héros",
           "id": "4398351"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "L'Archipel de Cal Mira",
           "id": "4398352"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Les Gardiens d'un autre monde",
           "id": "4398353"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "The Rising of the Shield Hero",
           "id": "4398354"
         }
       ]
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "Saison 2 - La Tortue Esprit",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Un rugissement d'agonie",
           "id": "4702857"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Empreintes de la Tortue Esprit",
           "id": "4709245"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le Château qui marche",
           "id": "4718842"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Ruines dans le brouillard",
           "id": "4728475"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Ost Hourai",
           "id": "4735790"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "En poursuite",
           "id": "4744402"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le Labyrinthe infini",
           "id": "4753393"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Un adieu sous la neige",
           "id": "4761555"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Hummingbird",
           "id": "4772048"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Le Héros au Katana",
           "id": "4781089"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Kizuna et Yomogi",
           "id": "4796432"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "La Raison de se battre",
           "id": "4796420"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Fleurs offertes en souvenir",
           "id": "4803852"
         }
       ]
     },
     "3": {
       "label": "Saison 3",
-      "title": "Saison 3",
+      "title": "Saison 3 - Lurolona",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Le Marché noir des esclaves",
           "id": "5307448"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Nadia",
           "id": "5315978"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Les Frères et Sœurs Silphyna",
           "id": "5326164"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "L'Opération de capture de la Lance",
           "id": "5336278"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Chacun son chemin",
           "id": "5347993"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La Cible",
           "id": "5357930"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "La Fille aux cheveux bicolores",
           "id": "5365775"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Le Nénuphar géant",
           "id": "5373741"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "L'Empereur Dragon",
           "id": "5381332"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Panda et Tigre",
           "id": "5388571"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le Drapeau de l'alliance",
           "id": "5406111"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Ceux qu'il faut protéger",
           "id": "5406113"
         }
       ]
     },
     "4": {
       "label": "Saison 4",
-      "title": "Saison 4",
+      "title": "Saison 4 - Silt Welt",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Silt Welt",
           "id": "5974177"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Hospitalité",
           "id": "5978874"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Ce que sont de vrais sujets",
           "id": "5984799"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Le pouvoir confié",
           "id": "6004443"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Tigre blanc",
           "id": "6004445"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Départ",
           "id": "6011097"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Débarquement à Q'Ten Lo",
           "id": "6011101"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Grand boa",
           "id": "6011103"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Zodia",
           "id": "6015687"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Prière",
           "id": "6020316"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "La prêtresse de l'oracle",
           "id": "6024091"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le retour de l'Impératrice",
           "id": "6028832"
         }
       ]
