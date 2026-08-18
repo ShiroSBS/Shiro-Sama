@@ -175,10 +175,12 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .history-row::-webkit-scrollbar{height:8px}
 .history-row::-webkit-scrollbar-track{background:var(--bg3);border-radius:4px}
 .history-row::-webkit-scrollbar-thumb{background:var(--accent);border-radius:4px}
-.history-card{position:relative;cursor:pointer;border-radius:12px;overflow:hidden;border:1px solid var(--border);flex-shrink:0;width:170px;aspect-ratio:2/3;scroll-snap-align:start;transition:transform .45s cubic-bezier(.22,1,.36,1),border-color .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;background:var(--bg3);}
-.history-card::before{content:'';position:absolute;inset:0;background:linear-gradient(115deg,transparent 0%,rgba(255,255,255,.32) 45%,transparent 62%);transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,1,.36,1);pointer-events:none;z-index:1;}
-.history-card:hover::before{transform:translateX(130%);}
-.history-card:hover{border-color:rgba(59,126,255,.6);transform:translateY(-6px) scale(1.03);box-shadow:0 16px 34px rgba(0,0,0,.55),0 0 26px rgba(59,126,255,.4)}
+.history-card{position:relative;cursor:pointer;border-radius:12px;flex-shrink:0;width:170px;aspect-ratio:2/3;scroll-snap-align:start;transition:transform .45s cubic-bezier(.22,1,.36,1),box-shadow .45s cubic-bezier(.22,1,.36,1);animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;background:var(--bg3);transform:translateZ(0);}
+.history-card-inner{position:relative;width:100%;height:100%;border-radius:12px;overflow:hidden;border:1px solid var(--border);transition:border-color .45s cubic-bezier(.22,1,.36,1);isolation:isolate;transform:translateZ(0);}
+.history-card-inner::before{content:'';position:absolute;inset:0;background:linear-gradient(115deg,transparent 0%,rgba(255,255,255,.32) 45%,transparent 62%);transform:translateX(-130%);transition:transform .85s cubic-bezier(.22,1,.36,1);pointer-events:none;z-index:1;}
+.history-card:hover .history-card-inner::before{transform:translateX(130%);}
+.history-card:hover .history-card-inner{border-color:rgba(59,126,255,.6);}
+.history-card:hover{transform:translateY(-6px) scale(1.03);box-shadow:0 16px 34px rgba(0,0,0,.55),0 0 26px rgba(59,126,255,.4)}
 .history-thumb{width:100%;height:100%;object-fit:cover;display:block;filter:brightness(.8);transition:filter .5s ease,transform .5s cubic-bezier(.22,1,.36,1);}
 .history-card:hover .history-thumb{filter:brightness(1.08);transform:scale(1.07)}
 .history-tag-series{position:absolute;top:10px;left:10px;background:rgba(7,9,15,.72);backdrop-filter:blur(4px);color:var(--text);font-size:9.5px;font-weight:800;letter-spacing:.06em;padding:3px 8px;border-radius:5px;border:1px solid var(--border);z-index:2;}
@@ -912,13 +914,15 @@ function renderHistory(){
   row.innerHTML=list.map(h=>{
     const meta=ANIME_INDEX.find(x=>x.id===h.a);
     return `<div class="history-card" onclick="goToHistoryItem('${h.a}',${h.s},${h.i})">
-      <button class="history-delete-btn" onclick="removeFromHistory('${h.a}',event)" aria-label="Retirer de l'historique">
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
-      </button>
-      <img class="history-thumb" src="${meta.poster}" alt="${meta.title}" onerror="this.src='https://placehold.co/220x310/111520/3b7eff?text=${encodeURIComponent(meta.title).replace(/'/g,'%27')}'"/>
-      <span class="history-tag-series">ANIME</span>
-      <span class="history-tag-ep">S${h.s}:E${h.i+1}</span>
-      <div class="history-title-bar">${meta.title}</div>
+      <div class="history-card-inner">
+        <button class="history-delete-btn" onclick="removeFromHistory('${h.a}',event)" aria-label="Retirer de l'historique">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/><path d="M10 11v6M14 11v6"/><path d="M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"/></svg>
+        </button>
+        <img class="history-thumb" src="${meta.poster}" alt="${meta.title}" onerror="this.src='https://placehold.co/220x310/111520/3b7eff?text=${encodeURIComponent(meta.title).replace(/'/g,'%27')}'"/>
+        <span class="history-tag-series">ANIME</span>
+        <span class="history-tag-ep">S${h.s}:E${h.i+1}</span>
+        <div class="history-title-bar">${meta.title}</div>
+      </div>
     </div>`;
   }).join('');
 }
