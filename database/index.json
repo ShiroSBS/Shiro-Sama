@@ -531,5 +531,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "terror-in-resonance",
+    "title": "Terror in Resonance",
+    "poster": "https://i.imgur.com/RK1o3fF.jpeg",
+    "rating": "7.8",
+    "year": "2014",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Drame",
+      "Mystère",
+      "Psychologique",
+      "Thriller",
+      "Crime"
+    ]
   }
 ]
