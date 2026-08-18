@@ -498,5 +498,18 @@
       "Vengeance",
       "Viking"
     ]
+  },
+  {
+    "id": "kuroko-no-basket",
+    "title": "Kuroko no Basket",
+    "poster": "https://i.imgur.com/At3A4B9.jpeg",
+    "rating": "7.8",
+    "year": "2012",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Drame"
+    ]
   }
 ]
