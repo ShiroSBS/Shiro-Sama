@@ -588,5 +588,27 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "tokyo-ghoul",
+    "title": "Tokyo Ghoul",
+    "poster": "https://i.imgur.com/6BIalBt.jpeg",
+    "rating": "7.6",
+    "year": "2014",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Horreur",
+      "Épouvante",
+      "Mystère",
+      "Psychologique",
+      "Seinen",
+      "Surnaturel",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
