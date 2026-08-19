@@ -1,0 +1,264 @@
+{
+  "id": "frieren",
+  "title": "Frieren",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+  "description": "Le jeune héros Himmel et ses compagnons, l'elfe Frieren, le nain Eisen et le prêtre Heiter, rentrent victorieux de leur combats contre le roi des démons. Au bout de dix années d'efforts, ils ont ramené la paix dans le royaume. Il est temps pour eux de retrouver une vie normale... Difficile à imaginer après tant d'aventures en commun ! Frieren, elle, ne semble guère touchée par la séparation. Pour la magicienne à la longévité exceptionnelle, une décennie ne pèse pas lourd. Elle reprend la route en solo et promet de retrouver ses camarades un demi-siècle plus tard. Elle tient parole... mais ces retrouvailles sont aussi les derniers instants passés avec Himmel, devenu un vieillard qui s'éteint paisiblement sous ses yeux. Frieren est sous le choc... La vie des humains est si courte ! L'elfe a beau être experte en magie, il lui reste encore un long chemin à parcourir pour comprendre la race humaine... Son nouvel objectif : s'initier aux arcanes du cœur !",
+  "genres": [
+    "Shônen",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Slice of Life",
+    "Elfe",
+    "Magie",
+    "Action",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "9.1",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Frieren",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "9.1",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "9.1"
+    },
+    {
+      "text": "🎬 2 Saisons · 38 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1 - Beyond Journey's End",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'Aventure touche à sa fin",
+          "id": "5289523"
+        },
+        {
+          "n": 2,
+          "title": "Ce n'était pas forcément de la magie",
+          "id": "5289524"
+        },
+        {
+          "n": 3,
+          "title": "La magie qui tue",
+          "id": "5289526"
+        },
+        {
+          "n": 4,
+          "title": "La terre des âmes",
+          "id": "5289527"
+        },
+        {
+          "n": 5,
+          "title": "Le fantôme du passé",
+          "id": "5299302"
+        },
+        {
+          "n": 6,
+          "title": "Le héros du village",
+          "id": "5307446"
+        },
+        {
+          "n": 7,
+          "title": "Ressembler à un conte de fées",
+          "id": "5316024"
+        },
+        {
+          "n": 8,
+          "title": "Frieren la faucheuse",
+          "id": "5326128"
+        },
+        {
+          "n": 9,
+          "title": "Aura la Guillotine",
+          "id": "5336290"
+        },
+        {
+          "n": 10,
+          "title": "Une magicienne ordinaire",
+          "id": "5348006"
+        },
+        {
+          "n": 11,
+          "title": "Le Nord et ses épreuves",
+          "id": "5357956"
+        },
+        {
+          "n": 12,
+          "title": "Un véritable héros",
+          "id": "5365746"
+        },
+        {
+          "n": 13,
+          "title": "L'aversion envers ses semblables",
+          "id": "5373753"
+        },
+        {
+          "n": 14,
+          "title": "Le privilège des jeunes",
+          "id": "5388589"
+        },
+        {
+          "n": 15,
+          "title": "L'odeur des ennuis",
+          "id": "5397102"
+        },
+        {
+          "n": 16,
+          "title": "Des amis de longue date",
+          "id": "5397101"
+        },
+        {
+          "n": 17,
+          "title": "Prends soin de toi",
+          "id": "5413758"
+        },
+        {
+          "n": 18,
+          "title": "L'examen des magiciens de premier rang",
+          "id": "5420974"
+        },
+        {
+          "n": 19,
+          "title": "Un plan bien réfléchi",
+          "id": "5427176"
+        },
+        {
+          "n": 20,
+          "title": "La nécessité d'éliminer",
+          "id": "5434730"
+        },
+        {
+          "n": 21,
+          "title": "Le monde de la magie",
+          "id": "5443475"
+        },
+        {
+          "n": 22,
+          "title": "De futurs ennemis",
+          "id": "5452423"
+        },
+        {
+          "n": 23,
+          "title": "La conquête du labyrinthe",
+          "id": "5461352"
+        },
+        {
+          "n": 24,
+          "title": "Des copies parfaites",
+          "id": "5469357"
+        },
+        {
+          "n": 25,
+          "title": "Une faille fatale",
+          "id": "5478827"
+        },
+        {
+          "n": 26,
+          "title": "Le sommet de la magie",
+          "id": "5487053"
+        },
+        {
+          "n": 27,
+          "title": "L'ère des humains",
+          "id": "5495416"
+        },
+        {
+          "n": 28,
+          "title": "Ce serait embarrassant si on se recroisait",
+          "id": "5504164"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2 — Le voyage vers Ende",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Allez, reprenons la route",
+          "id": "6117323"
+        },
+        {
+          "n": 2,
+          "title": "Le héros du Sud",
+          "id": "6122228"
+        },
+        {
+          "n": 3,
+          "title": "Le lieu idéal",
+          "id": "6129700"
+        },
+        {
+          "n": 4,
+          "title": "Leurs terres natales",
+          "id": "6135178"
+        },
+        {
+          "n": 5,
+          "title": "La logistique du haut-plateau du nord",
+          "id": "6151653"
+        },
+        {
+          "n": 6,
+          "title": "L’expédition punitive",
+          "id": "6158117"
+        },
+        {
+          "n": 7,
+          "title": "Révolte le Divin",
+          "id": "6162959"
+        },
+        {
+          "n": 8,
+          "title": "Une belle fin",
+          "id": "6168320"
+        },
+        {
+          "n": 9,
+          "title": "Les Mémoires de Himmel",
+          "id": "6174420"
+        },
+        {
+          "n": 10,
+          "title": "Une vue à couper le souffle",
+          "id": "6180000"
+        }
+      ]
+    }
+  }
+}
