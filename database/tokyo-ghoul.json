@@ -1,0 +1,320 @@
+{
+  "id": "tokyo-ghoul",
+  "title": "Tokyo Ghoul",
+  "poster": "https://i.imgur.com/6BIalBt.jpeg",
+  "banner": "https://i.imgur.com/pEf7OQk.jpeg",
+  "bannerFallback": "https://i.imgur.com/6BIalBt.jpeg",
+  "description": "Tokyo est devenue une ville cruelle et impitoyable, un endroit où des créatures vicieuses appelées «goules» existent aux côtés des humains. Les habitants de cette grande métropole vivent dans la peur constante de ces sauvages sanguinaires et de leur soif de chair humaine. Cependant, la plus grande menace que ces goules posent est leur capacité dangereuse à se faire passer pour des humains et de se fondre dans la société.\nL'histoire suit Ken Kaneki, un étudiant universitaire timide qui est immédiatement attiré par Rize Kamishiro, une lectrice avide comme lui.\nCependant, Rize n'est pas exactement ce qu'elle pretend être. Durant un rendez-vous, elle manque de tuer Kaneki en lui dévoilant sa nature de goule.\nIl survit grâce aux organes de Rize, greffés à la place de ceux qu'elle avait détruit en l'attaquant. Le jeune homme est désormais un hybride, mi-humain, mi-goule et va vivre un véritable enfer.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Psychologique",
+    "Seinen",
+    "Surnaturel",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Tokyo Ghoul",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 3 Saisons · 48 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Tokyo Ghoul",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Tragédie",
+          "id": "3608056"
+        },
+        {
+          "n": 2,
+          "title": "Incubation",
+          "id": "2737054"
+        },
+        {
+          "n": 3,
+          "title": "Colombe",
+          "id": "2737056"
+        },
+        {
+          "n": 4,
+          "title": "Dîner",
+          "id": "3608057"
+        },
+        {
+          "n": 5,
+          "title": "Cicatrice",
+          "id": "2737061"
+        },
+        {
+          "n": 6,
+          "title": "Pluie d'amertume",
+          "id": "2737063"
+        },
+        {
+          "n": 7,
+          "title": "Captivité",
+          "id": "2737067"
+        },
+        {
+          "n": 8,
+          "title": "Mouvement",
+          "id": "2737077"
+        },
+        {
+          "n": 9,
+          "title": "Cage",
+          "id": "2737080"
+        },
+        {
+          "n": 10,
+          "title": "Aogiri",
+          "id": "2737083"
+        },
+        {
+          "n": 11,
+          "title": "Impulsion",
+          "id": "2737088"
+        },
+        {
+          "n": 12,
+          "title": "Goule",
+          "id": "2737091"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Tokyo Ghoul √A",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Nouveaux jours",
+          "id": "2736326"
+        },
+        {
+          "n": 2,
+          "title": "Fleurs dans la nuit",
+          "id": "2736327"
+        },
+        {
+          "n": 3,
+          "title": "Pendue",
+          "id": "2736330"
+        },
+        {
+          "n": 4,
+          "title": "Profondeurs",
+          "id": "2736396"
+        },
+        {
+          "n": 5,
+          "title": "Fissures",
+          "id": "2736400"
+        },
+        {
+          "n": 6,
+          "title": "Un millier de chemins",
+          "id": "4666150"
+        },
+        {
+          "n": 7,
+          "title": "Réminiscence",
+          "id": "4666156"
+        },
+        {
+          "n": 8,
+          "title": "Anciens souvenirs",
+          "id": "4666157"
+        },
+        {
+          "n": 9,
+          "title": "La ville des désirs",
+          "id": "4666158"
+        },
+        {
+          "n": 10,
+          "title": "Le dernier regard",
+          "id": "4666159"
+        },
+        {
+          "n": 11,
+          "title": "Un jour, sous la pluie",
+          "id": "4666161"
+        },
+        {
+          "n": 12,
+          "title": "Ken",
+          "id": "4666162"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Tokyo Ghoul:re",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Chasseurs",
+          "id": "4668046"
+        },
+        {
+          "n": 2,
+          "title": "Un fragment de souvenir",
+          "id": "4668047"
+        },
+        {
+          "n": 3,
+          "title": "La nuit des sacrifices",
+          "id": "4668048"
+        },
+        {
+          "n": 4,
+          "title": "Le bal des enchères",
+          "id": "4668050"
+        },
+        {
+          "n": 5,
+          "title": "Rêves fauchés",
+          "id": "4668052"
+        },
+        {
+          "n": 6,
+          "title": "Au bout de la nuit",
+          "id": "4668053"
+        },
+        {
+          "n": 7,
+          "title": "Les jours défilent",
+          "id": "4668054"
+        },
+        {
+          "n": 8,
+          "title": "Celui qui se dresse",
+          "id": "4668057"
+        },
+        {
+          "n": 9,
+          "title": "Le spectre du passé",
+          "id": "4668058"
+        },
+        {
+          "n": 10,
+          "title": "Tremblement",
+          "id": "4668059"
+        },
+        {
+          "n": 11,
+          "title": "L'éveil de la nuit",
+          "id": "4668060"
+        },
+        {
+          "n": 12,
+          "title": "Au-delà de l'aube",
+          "id": "4668062"
+        },
+        {
+          "n": 13,
+          "title": "La place du disparu",
+          "id": "4668064"
+        },
+        {
+          "n": 14,
+          "title": "Un blanc éclatant",
+          "id": "4668065"
+        },
+        {
+          "n": 15,
+          "title": "L'union des faibles",
+          "id": "4668067"
+        },
+        {
+          "n": 16,
+          "title": "La fin d'un monde",
+          "id": "4668068"
+        },
+        {
+          "n": 17,
+          "title": "Rencontre tragique",
+          "id": "4668070"
+        },
+        {
+          "n": 18,
+          "title": "Face-à-face",
+          "id": "4668071"
+        },
+        {
+          "n": 19,
+          "title": "Liens secrets",
+          "id": "4668073"
+        },
+        {
+          "n": 20,
+          "title": "L'éveil de la bête",
+          "id": "4668074"
+        },
+        {
+          "n": 21,
+          "title": "Rappelle-toi",
+          "id": "4668075"
+        },
+        {
+          "n": 22,
+          "title": "L'ultime combat",
+          "id": "4668076"
+        },
+        {
+          "n": 23,
+          "title": "La réponse",
+          "id": "4668078"
+        },
+        {
+          "n": 24,
+          "title": "Le dénouement",
+          "id": "4668079"
+        }
+      ]
+    }
+  }
+}
