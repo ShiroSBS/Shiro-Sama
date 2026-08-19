@@ -561,9 +561,29 @@
       "Aventure",
       "Drame",
       "Fantasy",
+      "Slice of Life",
       "Elfe",
       "Magie",
       "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "my-hero-academia",
+    "title": "My Hero Academia",
+    "poster": "https://i.imgur.com/vfBzMuU.jpeg",
+    "rating": "7.7",
+    "year": "2016",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Ecole",
+      "Shônen",
+      "Super Pouvoirs",
+      "Aventure",
       "Science",
       "Fiction",
       "Fantastique"
