@@ -1,9 +1,9 @@
 {
   "id": "my-hero-academia",
   "title": "My Hero Academia",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21459-yeVkolGKdGUV.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+  "poster": "https://i.imgur.com/vfBzMuU.jpeg",
+  "banner": "https://i.imgur.com/JKT4JlJ.jpeg",
+  "bannerFallback": "https://i.imgur.com/vfBzMuU.jpeg",
   "description": "Dans un futur proche suite à une mutation génétique, 80% de la population mondiale possède des super pouvoirs appelés \"Alters\". Les super-héros protègent la population mondiale face aux super-vilains qui utilisent leur Alter à des fins maléfiques. Le plus célèbre des super-héro se nomme All Might. Izuku Midoriya en est fan, et rêve d'intégrer la filière super-héroïque du lycée Yuei pour suivre les traces de son idole ainsi devenir le plus grand des super-héros.\nMalheureusement, Izuku ne possède pas de pouvoir.",
   "genres": [
     "Action",
@@ -22,7 +22,7 @@
   "heroTitle": "My Hero Academia",
   "stats": [
     {
-      "v": "10",
+      "v": "8",
       "l": "Saisons"
     },
     {
@@ -44,7 +44,7 @@
       "text": "7.7"
     },
     {
-      "text": "🎬 10 Saisons · 182 Éps"
+      "text": "🎬 8 Saisons · 174 Éps"
     },
     {
       "text": "📅 2016"
@@ -57,971 +57,919 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "La Naissance d'un Héros",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Izuku Midoriya : Les Origines",
           "id": "4955114"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Les conditions d'un héros",
           "id": "4955115"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le rugissement des muscles",
           "id": "4955118"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Ligne de départ",
           "id": "4955119"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Ce que je peux faire pour l'instant",
           "id": "4955121"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Déchaîne-toi, maudit geek !",
           "id": "4955123"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Deku contre Katchan",
           "id": "4955125"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La ligne de départ de Bakugo",
           "id": "4955127"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Ouais, fais de ton mieux, Iida !",
           "id": "4955128"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Rencontre avec l'inconnu",
           "id": "4955131"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Game Over",
           "id": "4955134"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "All Might",
           "id": "4955151"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Dans le cœur de chacun",
           "id": "4955153"
         }
       ]
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "Le Festival Sportif de Yuei",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Et voilà les réponses !",
           "id": "4955367"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Le festival d'esprit sportif",
           "id": "4955369"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Des Alters tous plus uniques les uns que les autres",
           "id": "4955370"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Stratégie, stratégie, stratégie",
           "id": "4955371"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La finale des cavaliers",
           "id": "4955372"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Le garçon né avec tout",
           "id": "4955374"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Victoire ou défaite",
           "id": "4955376"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Tremblez, challenger !",
           "id": "4955378"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Bakugo contre Uraraka",
           "id": "4955379"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Shoto Todoroki : Les Origines",
           "id": "4955381"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Tenya Iida",
           "id": "4955382"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Todoroki contre Bakugo",
           "id": "4955383"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Le temps des choix",
           "id": "4955384"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Gran Torino entre en scène !",
           "id": "4955385"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Midoriya et Shigaraki",
           "id": "4955386"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Le tueur de héros contre les élèves de Yuei",
           "id": "4955387"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Dénouement",
           "id": "4955389"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Les répercussions de l'affaire Stain",
           "id": "4955390"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "L'évaluation de chacun",
           "id": "4955391"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Le bras de fer",
           "id": "4955392"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Révisions intensives",
           "id": "4955393"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Yaoyorozu : La Renaissance",
           "id": "4955399"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Le mur",
           "id": "4955401"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Katsuki Bakugo : Les Origines",
           "id": "4955402"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "La rencontre",
           "id": "4955410"
         }
       ]
     },
     "3": {
       "label": "Saison 3",
-      "title": "Saison 3",
+      "title": "Le Camp d'Été et la Bataille de Kamino",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "C'est parti, camp d'été !",
           "id": "4826614"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Wild Wild Pussycats",
           "id": "4826619"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Kota",
           "id": "4826621"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Mon héros",
           "id": "4826624"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Avance, fer de lance !",
           "id": "4826627"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Rebondissements",
           "id": "4826629"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "La surprise",
           "id": "4826633"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "De quoi parlent-ils ?",
           "id": "4826636"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "All For One",
           "id": "4911044"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Le symbole de la paix",
           "id": "4826639"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "One For All",
           "id": "4826677"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "La fin du commencement, le commencement de la fin",
           "id": "4826648"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Emménagement au dortoir",
           "id": "4826654"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Attaques spéciales",
           "id": "4826615"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "L'examen",
           "id": "4826617"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Shiketsu, une école d'élite",
           "id": "4826620"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Seconde A et Seconde Shiketsu",
           "id": "4822882"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Opération sauvetage",
           "id": "4822884"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Sauvetage et évaluation",
           "id": "4826628"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "L'amour sauvera la Terre !",
           "id": "4826631"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "À quoi penses-tu ?",
           "id": "4826635"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Parlons de ton Alter",
           "id": "4826640"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Deku contre Katchan 2",
           "id": "4826642"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "La saison des rencontres",
           "id": "4826646"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Le grand trio",
           "id": "4826651"
         }
       ]
     },
     "4": {
       "label": "Saison 4",
-      "title": "Saison 4",
+      "title": "Le Raid contre les Huit Préceptes",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Le scoop de la Seconde A de Yuei",
           "id": "4954970"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Overhaul",
           "id": "4954971"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Boy Meets...",
           "id": "4954974"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Affronter le destin",
           "id": "4954975"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Courage, Red Riot !",
           "id": "4954976"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Salutation",
           "id": "4954978"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "La réunion",
           "id": "4954979"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Les trois grands de Yuei",
           "id": "4954980"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Suneater, le mangeur de soleil",
           "id": "4954981"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Red Riot : Partie 1",
           "id": "4954982"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Red Riot : Partie 2",
           "id": "4954984"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Un secours temporaire",
           "id": "4954985"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Lemillion",
           "id": "4954986"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "L'espoir",
           "id": "4954988"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Le futur en question",
           "id": "4954989"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Gagner le cœur des enfants",
           "id": "4954991"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "La fierté d'un père",
           "id": "4954993"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "La fête du lycée",
           "id": "4954995"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "La préparation de la fête du lycée",
           "id": "4954996"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Gold Tips Imperial",
           "id": "4954997"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Deku contre Gentle Criminal",
           "id": "4954998"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "La fête commence !",
           "id": "4955000"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Que la fête soit !",
           "id": "4955003"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Japanese Hero Chart",
           "id": "4955004"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Son début",
           "id": "4955005"
         }
       ]
     },
     "5": {
       "label": "Saison 5",
-      "title": "Saison 5",
+      "title": "L'Entraînement Commun",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Tous en scène, Seconde A !",
           "id": "4804713"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Vestiges",
           "id": "4804716"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le choc des Alters !",
           "id": "4804717"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Le coup d'envoi !",
           "id": "4804719"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Opération improvisations",
           "id": "4804722"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La vision du futur",
           "id": "4804723"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Match 3",
           "id": "4804725"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La logique du vainqueur",
           "id": "4804727"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Ce dont on hérite",
           "id": "4804731"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La surcharge de One For All",
           "id": "4804734"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "La vérité sur la cinquième manche",
           "id": "4804736"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "De nouveaux pouvoirs et All For One",
           "id": "4804738"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Bonne année !",
           "id": "4804741"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "L'agence d'Endeavor",
           "id": "4804742"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Étape par étape",
           "id": "4804743"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Des retrouvailles attendues",
           "id": "4804745"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Le repas chez les Todoroki",
           "id": "4804746"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Ce qui ne pardonne pas",
           "id": "4804747"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Plus héros que quiconque",
           "id": "4804750"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "My Villain Academia",
           "id": "4804751"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le festival de la renaissance",
           "id": "4804754"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Sad Man's Parade",
           "id": "4804757"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Tenko Shimura : Les Origines",
           "id": "4804758"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Tomura Shigaraki : Les Origines",
           "id": "4804759"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Le ciel bleu après la tempête",
           "id": "4804761"
         }
       ]
     },
     "6": {
       "label": "Saison 6",
-      "title": "Saison 6",
+      "title": "La Guerre de Libération du Paranormal",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Un début de mission fulgurant",
           "id": "4983760"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Mirko, la numéro 5",
           "id": "4983761"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "La justice à ma façon",
           "id": "4942898"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "L'héritier",
           "id": "4950306"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le frisson du combat",
           "id": "4957335"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Rencontre 2",
           "id": "4963894"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Les limites",
           "id": "4969589"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La ligue contre les étudiants",
           "id": "4975582"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Bakugo Katsuki : Les Origines",
           "id": "5871740"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Ceux en nous",
           "id": "4989586"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "La danse de Dabi",
           "id": "4997741"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le fil de l'espoir",
           "id": "5009716"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "L'enfer sur Terre",
           "id": "5009733"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "L'enfer de la famille Todoroki 2",
           "id": "5025092"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Le monde au bord du gouffre",
           "id": "5031735"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Tartare",
           "id": "5039698"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "L'histoire de la famille Todoroki",
           "id": "5049336"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "On ne peut pas rester comme ça",
           "id": "5224323"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Le vengeur noir",
           "id": "5067708"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Mercenaire",
           "id": "5073671"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "La magnifique Lady Nagant",
           "id": "5087571"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Mes amis",
           "id": "5087556"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Deku contre la Seconde A",
           "id": "5093751"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "La déclaration d'une jeune fille",
           "id": "5100063"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Connexion",
           "id": "5106833"
         }
       ]
     },
     "7": {
       "label": "Saison 7",
-      "title": "Saison 7",
+      "title": "La Guerre Finale",
       "episodes": [
         {
           "n": 1,
-          "title": "Épisode Récapitulatif 1",
+          "title": "Memories - Izuku Midoriya",
           "id": "5518283"
         },
         {
           "n": 2,
-          "title": "Épisode Récapitulatif 2",
+          "title": "Memories - Yagi Toshinori",
           "id": "5528938"
         },
         {
           "n": 3,
-          "title": "Épisode Récapitulatif 3",
+          "title": "Memories - Heroes",
           "id": "5533034"
         },
         {
           "n": 4,
-          "title": "Épisode Récapitulatif 4",
+          "title": "Memories - Izuku & Tomura",
           "id": "5539246"
         },
         {
           "n": 5,
-          "title": "Episode 1",
+          "title": "In Extremis",
           "id": "5545771"
         },
         {
           "n": 6,
-          "title": "Episode 2",
+          "title": "Spectre",
           "id": "5552037"
         },
         {
           "n": 7,
-          "title": "Episode 3",
+          "title": "Vilain",
           "id": "5557297"
         },
         {
           "n": 8,
-          "title": "Episode 4",
+          "title": "L'histoire d'un imposteur",
           "id": "5564652"
         },
         {
           "n": 9,
-          "title": "Episode 5",
+          "title": "C'est maintenant !",
           "id": "5572934"
         },
         {
           "n": 10,
-          "title": "Episode 6",
+          "title": "Division",
           "id": "5580514"
         },
         {
           "n": 11,
-          "title": "Episode 7",
+          "title": "Inflation",
           "id": "5588490"
         },
         {
           "n": 12,
-          "title": "Episode 8",
+          "title": "Deux Flashs",
           "id": "5595568"
         },
         {
           "n": 13,
-          "title": "Episode 9",
+          "title": "Extras",
           "id": "5603332"
         },
         {
           "n": 14,
-          "title": "Episode 10",
+          "title": "Un héros blessé",
           "id": "5676963"
         },
         {
           "n": 15,
-          "title": "Episode 11",
+          "title": "Combattre sans Alter",
           "id": "5676965"
         },
         {
           "n": 16,
-          "title": "Episode 12",
+          "title": "Ce qui menait à cet instant",
           "id": "5676968"
         },
         {
           "n": 17,
-          "title": "Episode 13",
+          "title": "Un fil d'espoir",
           "id": "5676970"
         },
         {
           "n": 18,
-          "title": "Episode 14",
+          "title": "L'effet papillon",
           "id": "5676972"
         },
         {
           "n": 19,
-          "title": "Episode 15",
+          "title": "Je suis là",
           "id": "5686959"
         },
         {
           "n": 20,
-          "title": "Episode 16",
+          "title": "L'histoire d'une obsession",
           "id": "5695197"
         },
         {
           "n": 21,
-          "title": "Episode 17",
+          "title": "Un monde où l'on sourit",
           "id": "5703675"
         },
         {
           "n": 22,
-          "title": "Episode 18",
+          "title": "Armored All Might",
           "id": "5714060"
         },
         {
           "n": 23,
-          "title": "Episode 19",
+          "title": "Égoïste",
           "id": "5722749"
         },
         {
           "n": 24,
-          "title": "Episode 20",
+          "title": "Katsuki Bakugo : La résurrection",
           "id": "5735034"
         },
         {
           "n": 25,
-          "title": "Episode 21",
+          "title": "Une fille aimée",
           "id": "5739877"
         }
       ]
     },
     "8": {
       "label": "Saison 8",
-      "title": "Saison 8",
+      "title": "La Saison Finale",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Toshinori Yagi : Les Origines / L'Envol",
           "id": "6043439"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "The End of an Era, and...",
           "id": "6048735"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le Boss final",
           "id": "6053690"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Alter : Explosion !",
           "id": "6058085"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le Plus Grand de tous les vilains",
           "id": "6073004"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Frappe-le au cœur, Izuku !",
           "id": "6077985"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "De Shota à...",
           "id": "6083653"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Izuku Midoriya : L'Envol",
           "id": "6088156"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Épilogue. L'Enfer des Todoroki : Fin",
           "id": "6101746"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La fille qui aime les sourires",
           "id": "6184058"
-        }
-      ]
-    },
-    "9": {
-      "label": "Saison 9",
-      "title": "Film",
-      "episodes": [
-        {
-          "n": 1,
-          "title": "Two Heroes (après la saison 2)",
-          "id": "4702147"
         },
         {
-          "n": 2,
-          "title": "Heroes Rising (après la saison 4)",
-          "id": "4702142"
-        },
-        {
-          "n": 3,
-          "title": "World Heroes Mission (après la saison 5)",
-          "id": "4957303"
-        }
-      ]
-    },
-    "10": {
-      "label": "Saison 10",
-      "title": "OAVs",
-      "episodes": [
-        {
-          "n": 1,
-          "title": "Entraînement à la survie partie 1 (OAV saison 4)",
-          "id": "4867547"
-        },
-        {
-          "n": 2,
-          "title": "Entraînement à la survie partie 2 (OAV saison 4)",
-          "id": "4867553"
-        },
-        {
-          "n": 3,
-          "title": "LHB (OAV saison 5)",
-          "id": "4867550"
-        },
-        {
-          "n": 4,
-          "title": "Riez ! Quitte à en mourir... (OAV saison 5)",
-          "id": "4867543"
-        },
-        {
-          "n": 5,
-          "title": "Yuei Heroes Battle",
-          "id": "5346493"
-        },
-        {
-          "n": 6,
-          "title": "I Am a Hero Too ",
-          "id": "6256061"
+          "n": 11,
+          "title": "My Hero Academia",
+          "id": "6184059"
         }
       ]
     }
