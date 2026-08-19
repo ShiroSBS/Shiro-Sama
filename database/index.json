@@ -547,5 +547,27 @@
       "Thriller",
       "Crime"
     ]
+  },
+  {
+    "id": "frieren",
+    "title": "Frieren",
+    "poster": "https://i.imgur.com/GVEmir3.jpeg",
+    "rating": "9.1",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Shônen",
+      "Aventure",
+      "Drame",
+      "Fantasy",
+      "Slice of Life",
+      "Elfe",
+      "Magie",
+      "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
