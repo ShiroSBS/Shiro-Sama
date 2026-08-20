@@ -1,0 +1,193 @@
+{
+  "id": "my-dress-up-darling",
+  "title": "My Dress-Up Darling",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132405-LnPQaqaksEpN.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+  "description": "Wakana Gojo est un lycéen solitaire. Son rêve est de devenir artisan et de fabriquer les poupées traditionnelles pour le Hina Matsuri. Mais comme cette passion n'est pas très virile, il la cache et ne se fait pas remarquer. Jusqu'au jour où Marine Kitagawa, la fille la plus populaire du lycée, le voit se servir d'une machine à coudre ! Contre toute attente elle lui demande de devenir son couturier pour réaliser... des tenues de cosplay !",
+  "genres": [
+    "Comédie",
+    "Ecchi",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Adolescence",
+    "Cosplay",
+    "Couture",
+    "Otaku",
+    "Drame"
+  ],
+  "rating": "8.0",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "My Dress-Up Darling",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.0",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.0"
+    },
+    {
+      "text": "🎬 2 Saisons · 24 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Les débuts de Marin et Wakana",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "J'ai trouvé ça trop mignon !",
+          "id": "5154250"
+        },
+        {
+          "n": 2,
+          "title": "Je vais vraiment le faire !",
+          "id": "5161071"
+        },
+        {
+          "n": 3,
+          "title": "Je suis sûr que je vais réussir !",
+          "id": "5167362"
+        },
+        {
+          "n": 4,
+          "title": "Il y a plein de choses à faire !",
+          "id": "5174870"
+        },
+        {
+          "n": 5,
+          "title": "C'est comme si j'étais dans un rêve !",
+          "id": "5180435"
+        },
+        {
+          "n": 6,
+          "title": "Je suis désolé",
+          "id": "5185531"
+        },
+        {
+          "n": 7,
+          "title": "Je vais le faire !",
+          "id": "5192235"
+        },
+        {
+          "n": 8,
+          "title": "On se retrouve à l'aquarium !",
+          "id": "5198973"
+        },
+        {
+          "n": 9,
+          "title": "Ça fait longtemps !",
+          "id": "5205077"
+        },
+        {
+          "n": 10,
+          "title": "Ça fait bizarre de se retrouver comme ça",
+          "id": "5211665"
+        },
+        {
+          "n": 11,
+          "title": "Pour toi",
+          "id": "5219782"
+        },
+        {
+          "n": 12,
+          "title": "Ma robe préférée",
+          "id": "5226783"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Les nouveaux cosplays de Marin et Wakana",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Il connaît mon corps sur le bout des doigts",
+          "id": "5975684"
+        },
+        {
+          "n": 2,
+          "title": "Les seins, ça peut être un accessoire",
+          "id": "5981121"
+        },
+        {
+          "n": 3,
+          "title": "Le quotidien, c'est trop bien~~~~",
+          "id": "5987749"
+        },
+        {
+          "n": 4,
+          "title": "Je connais tout de mon corps",
+          "id": "5991889"
+        },
+        {
+          "n": 5,
+          "title": "800 millions",
+          "id": "5996978"
+        },
+        {
+          "n": 6,
+          "title": "J'y arriverai de mes mains",
+          "id": "6002481"
+        },
+        {
+          "n": 7,
+          "title": "Je vais graver ces souvenirs !",
+          "id": "6011158"
+        },
+        {
+          "n": 8,
+          "title": "Je ne sais exprimer ma reconnaissance qu'avec de l'argent",
+          "id": "6013652"
+        },
+        {
+          "n": 9,
+          "title": "Moi : Je n'ai pas l'intention de dormir ce soir",
+          "id": "6017438"
+        },
+        {
+          "n": 10,
+          "title": "Quoi !? Tu vas tout raser maintenant !?",
+          "id": "6022077"
+        },
+        {
+          "n": 11,
+          "title": "Je pensais que rien de bon ne m'arriverait dans ma vie",
+          "id": "6025986"
+        },
+        {
+          "n": 12,
+          "title": "Dear My Dress-Up Darling",
+          "id": "6031542"
+        }
+      ]
+    }
+  }
+}
