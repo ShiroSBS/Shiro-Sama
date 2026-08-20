@@ -670,5 +670,24 @@
       "Otaku",
       "Drame"
     ]
+  },
+  {
+    "id": "shangri-la-frontier",
+    "title": "Shangri-La Frontier",
+    "poster": "https://i.imgur.com/DqDg8qd.jpeg",
+    "rating": "8.0",
+    "year": "2023",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Fantasy",
+      "Shônen",
+      "Comédie",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
