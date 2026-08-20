@@ -1,0 +1,329 @@
+{
+  "id": "kengan-ashura",
+  "title": "Kengan Ashura",
+  "poster": "https://i.imgur.com/wN7HF4u.jpeg",
+  "banner": "https://i.imgur.com/h0QbEbX.jpeg",
+  "bannerFallback": "https://i.imgur.com/wN7HF4u.jpeg",
+  "description": "Depuis la période d'Edo, des arènes de gladiateurs existent dans certaines régions du Japon. Dans ces arènes, les riches propriétaires d'entreprises engagent des gladiateurs pour qu'ils se battent entre eux dans des combats sans arme où le vainqueur remporte tout.\n\nNous suivons le quotidien de Tokita Ouma, un guerrier surnommé Ashura, qui dévaste ses adversaires les uns après les autres. Ses capacités hors du commun attirent l'attention des grands propriétaires d'entreprise, dont le président du groupe Nogi Group, Nogi Hideki.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Aventure",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.3",
+  "year": "2019",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Kengan Ashura",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.3",
+      "l": "Note"
+    },
+    {
+      "v": "2019",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.3"
+    },
+    {
+      "text": "🎬 2 Saisons · 52 Éps"
+    },
+    {
+      "text": "📅 2019"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Kengan Ashura - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Kengan",
+          "id": "5109688"
+        },
+        {
+          "n": 2,
+          "title": "Super-homme",
+          "id": "5109690"
+        },
+        {
+          "n": 3,
+          "title": "Le Monstre",
+          "id": "5109691"
+        },
+        {
+          "n": 4,
+          "title": "Les Retrouvailles",
+          "id": "5109694"
+        },
+        {
+          "n": 5,
+          "title": "L'Épreuve",
+          "id": "5109695"
+        },
+        {
+          "n": 6,
+          "title": "Le Serment",
+          "id": "5109696"
+        },
+        {
+          "n": 7,
+          "title": "La Veille",
+          "id": "5259439"
+        },
+        {
+          "n": 8,
+          "title": "Le Coup d'envoi",
+          "id": "5109701"
+        },
+        {
+          "n": 9,
+          "title": "La Justice",
+          "id": "5109702"
+        },
+        {
+          "n": 10,
+          "title": "La Volonté",
+          "id": "5109706"
+        },
+        {
+          "n": 11,
+          "title": "Le Déchaînement",
+          "id": "5109707"
+        },
+        {
+          "n": 12,
+          "title": "L'Affrontement",
+          "id": "5109709"
+        },
+        {
+          "n": 13,
+          "title": "La Conviction",
+          "id": "5109710"
+        },
+        {
+          "n": 14,
+          "title": "Le Maître des cérémonies",
+          "id": "5109711"
+        },
+        {
+          "n": 15,
+          "title": "Le Pêcheur",
+          "id": "5109714"
+        },
+        {
+          "n": 16,
+          "title": "Le Rakshasa",
+          "id": "5109716"
+        },
+        {
+          "n": 17,
+          "title": "Le Style Niko",
+          "id": "5109717"
+        },
+        {
+          "n": 18,
+          "title": "La Ligne de démarcation",
+          "id": "5109719"
+        },
+        {
+          "n": 19,
+          "title": "L'Épuisement",
+          "id": "5109721"
+        },
+        {
+          "n": 20,
+          "title": "L'Élimination",
+          "id": "5109723"
+        },
+        {
+          "n": 21,
+          "title": "Le Fléau",
+          "id": "5109725"
+        },
+        {
+          "n": 22,
+          "title": "La Lutte",
+          "id": "5109726"
+        },
+        {
+          "n": 23,
+          "title": "L'Avènement",
+          "id": "5109727"
+        },
+        {
+          "n": 24,
+          "title": "L'Anéantissement",
+          "id": "5109732"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Kengan Ashura - Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Un mauvais pressentiment",
+          "id": "5258287"
+        },
+        {
+          "n": 2,
+          "title": "Un combat à mort",
+          "id": "5258288"
+        },
+        {
+          "n": 3,
+          "title": "L'Orgueil",
+          "id": "5258289"
+        },
+        {
+          "n": 4,
+          "title": "Le Monstre",
+          "id": "5258290"
+        },
+        {
+          "n": 5,
+          "title": "Le Surhomme contre le Monstre",
+          "id": "5258291"
+        },
+        {
+          "n": 6,
+          "title": "Le Choix",
+          "id": "5258293"
+        },
+        {
+          "n": 7,
+          "title": "La Vengeance",
+          "id": "5258294"
+        },
+        {
+          "n": 8,
+          "title": "L'Obscurité",
+          "id": "5258296"
+        },
+        {
+          "n": 9,
+          "title": "L'Éveil",
+          "id": "5258297"
+        },
+        {
+          "n": 10,
+          "title": "Le Guerrier ultime",
+          "id": "5258299"
+        },
+        {
+          "n": 11,
+          "title": "La Révélation",
+          "id": "5258300"
+        },
+        {
+          "n": 12,
+          "title": "Le Final du deuxième tour",
+          "id": "5258301"
+        },
+        {
+          "n": 13,
+          "title": "L'Invasion",
+          "id": "5638740"
+        },
+        {
+          "n": 14,
+          "title": "La Révolution",
+          "id": "5638742"
+        },
+        {
+          "n": 15,
+          "title": "Le Troisième tour",
+          "id": "5638744"
+        },
+        {
+          "n": 16,
+          "title": "Le Choc des titans",
+          "id": "5638747"
+        },
+        {
+          "n": 17,
+          "title": "Le Crocs de Metsudo",
+          "id": "5638748"
+        },
+        {
+          "n": 18,
+          "title": "L'Héritier",
+          "id": "5638749"
+        },
+        {
+          "n": 19,
+          "title": "La Détermination",
+          "id": "5638750"
+        },
+        {
+          "n": 20,
+          "title": "Le Démon",
+          "id": "5638752"
+        },
+        {
+          "n": 21,
+          "title": "Le Sommet",
+          "id": "5638753"
+        },
+        {
+          "n": 22,
+          "title": "Le Vrai visage",
+          "id": "5638754"
+        },
+        {
+          "n": 23,
+          "title": "La Demi-finale",
+          "id": "5638757"
+        },
+        {
+          "n": 24,
+          "title": "L'Épée et le Bouclier",
+          "id": "5638758"
+        },
+        {
+          "n": 25,
+          "title": "La Finale",
+          "id": "5638760"
+        },
+        {
+          "n": 26,
+          "title": "L'Ultime affrontement",
+          "id": "5638762"
+        },
+        {
+          "n": 27,
+          "title": "Le Résultat",
+          "id": "5638764"
+        },
+        {
+          "n": 28,
+          "title": "L'Ashura",
+          "id": "5638765"
+        }
+      ]
+    }
+  }
+}
