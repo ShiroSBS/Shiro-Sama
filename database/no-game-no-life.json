@@ -1,0 +1,136 @@
+{
+  "id": "no-game-no-life",
+  "title": "No Game, No Life",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+  "description": "Sora et Shiro sont deux frère et sœur hikikomori. L'hikikomori désigne une pathologie psycho-sociale caractérisant les personnes (souvent des adolescents) qui vivent coupées du monde en restant cloîtrées chez elles, refusant toute communication. Dans le cas des deux protagonistes, leur condition vient de leur vision du monde réel, qui se résume à un jeu guère intéressant.\n\nEnsemble, ils forment un duo de joueurs invaincus, véritable légende urbaine. Un jour, un garçon se qualifiant de \"Dieu\" les transportse dans un monde fantastique, où il a interdit toute forme de violence entre les 16 races différentes y vivant. À la place, toute décision ou conflit est réglé par le jeu. Les deux adolescents y sont convoqués car ils pourraient bien être les sauveurs de l'humanité, la race Imanity qui, classée dernière parmi les 16 races, se retrouve confinée dans leur seule et unique cité restante. Durant leur quête pour sauver l'Imanity, ils rencontrent Stephanie Dola : reconnue comme la petite fille de l'ancien roi considéré comme fou, Jibril : une Flügel qui est l'une des races les plus puissantes et Kurami Zell : une ancienne ennemie devenue une alliée.",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Ecchi",
+    "Fantastique",
+    "Fantasy",
+    "Science",
+    "Fiction",
+    "Action"
+  ],
+  "rating": "7.7",
+  "year": "2014",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "No Game, No Life",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2014",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 2 Saisons · 13 Éps"
+    },
+    {
+      "text": "📅 2014"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "No Game, No Life",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Débutant",
+          "id": "4673580"
+        },
+        {
+          "n": 2,
+          "title": "Challenger",
+          "id": "4673582"
+        },
+        {
+          "n": 3,
+          "title": "Expert",
+          "id": "4673584"
+        },
+        {
+          "n": 4,
+          "title": "Grandmaster",
+          "id": "4673587"
+        },
+        {
+          "n": 5,
+          "title": "Weak Square",
+          "id": "4673588"
+        },
+        {
+          "n": 6,
+          "title": "Intéressant",
+          "id": "4673589"
+        },
+        {
+          "n": 7,
+          "title": "Sacrifice",
+          "id": "4673590"
+        },
+        {
+          "n": 8,
+          "title": "Fake End",
+          "id": "4673592"
+        },
+        {
+          "n": 9,
+          "title": "Sky Walk",
+          "id": "4673593"
+        },
+        {
+          "n": 10,
+          "title": "Blue Rose",
+          "id": "4673594"
+        },
+        {
+          "n": 11,
+          "title": "Killing Giant",
+          "id": "4673597"
+        },
+        {
+          "n": 12,
+          "title": "Rule Number 10",
+          "id": "4673598"
+        }
+      ]
+    },
+    "2": {
+      "label": "Film",
+      "title": "No Game No Life: Zero",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "No Game No Life: Zero",
+          "id": "4673603"
+        }
+      ]
+    }
+  }
+}
