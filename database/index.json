@@ -610,5 +610,25 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "ranma-1-2",
+    "title": "Ranma 1-2",
+    "poster": "https://i.imgur.com/5Z3Bk5n.jpeg",
+    "rating": "7.5",
+    "year": "1989",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Romance",
+      "Shônen",
+      "Surnaturel",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
