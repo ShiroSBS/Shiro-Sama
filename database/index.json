@@ -616,7 +616,7 @@
     "title": "Ranma 1-2",
     "poster": "https://i.imgur.com/5Z3Bk5n.jpeg",
     "rating": "7.5",
-    "year": "2024",
+    "year": "1989",
     "status": "termine",
     "statusLabel": "Terminé",
     "genres": [
@@ -685,6 +685,23 @@
       "Fantasy",
       "Shônen",
       "Comédie",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "kengan-ashura",
+    "title": "Kengan Ashura",
+    "poster": "https://i.imgur.com/wN7HF4u.jpeg",
+    "rating": "7.3",
+    "year": "2019",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Aventure",
       "Science",
       "Fiction",
       "Fantastique"
