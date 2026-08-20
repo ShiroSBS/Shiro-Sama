@@ -1,0 +1,316 @@
+{
+  "id": "shangri-la-frontier",
+  "title": "Shangri-La Frontier",
+  "poster": "https://i.imgur.com/DqDg8qd.jpeg",
+  "banner": "https://i.imgur.com/t5yWvvY.jpeg",
+  "bannerFallback": "https://i.imgur.com/DqDg8qd.jpeg",
+  "description": "Sunraku est un passionné de jeux vidéo un peu particulier, qui voue sa vie à s'essayer aux pires \"bouses\" : scénario bancal, bugs dans tous les sens... il se délecte à déjouer tous ces pièges !\nMais lorsqu'il décide pour une fois de s'attaquer au MMORPG Shangri-La Frontier, un \"Greatest Of All Times\" aux trente millions de membres inscrits, il ne se doute pas qu'il va devoir faire preuve de tous ses talents pour venir à bout d'une épreuve encore plus corsée...",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Shônen",
+    "Comédie",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.0",
+  "year": "2023",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Shangri-La Frontier",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.0",
+      "l": "Note"
+    },
+    {
+      "v": "2023",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.0"
+    },
+    {
+      "text": "🎬 2 Saisons · 49 Éps"
+    },
+    {
+      "text": "📅 2023"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Shangri-La Frontier",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Pourquoi joues-tu aux jeux vidéo ?",
+          "id": "5293584"
+        },
+        {
+          "n": 2,
+          "title": "L'excentrique et ses compères",
+          "id": "5301953"
+        },
+        {
+          "n": 3,
+          "title": "Wezaemon le Tombeur d'arbres",
+          "id": "5310310"
+        },
+        {
+          "n": 4,
+          "title": "Le goût du jeu poubelle",
+          "id": "5319104"
+        },
+        {
+          "n": 5,
+          "title": "Être écharpé par un lapin",
+          "id": "5329087"
+        },
+        {
+          "n": 6,
+          "title": "Le pinceau de la reine",
+          "id": "5339258"
+        },
+        {
+          "n": 7,
+          "title": "Un prédateur hors pair",
+          "id": "5349910"
+        },
+        {
+          "n": 8,
+          "title": "La création d'une légende",
+          "id": "5359627"
+        },
+        {
+          "n": 9,
+          "title": "Le monde à travers les yeux d'un monstre",
+          "id": "5368056"
+        },
+        {
+          "n": 10,
+          "title": "La chasse aux loups",
+          "id": "5376029"
+        },
+        {
+          "n": 11,
+          "title": "La lumière des feux d'artifice",
+          "id": "5399048"
+        },
+        {
+          "n": 12,
+          "title": "Ce qui se cache derrière les ténèbres",
+          "id": "5407949"
+        },
+        {
+          "n": 13,
+          "title": "Bienvenue à Rabituza",
+          "id": "5416326"
+        },
+        {
+          "n": 14,
+          "title": "Un coup de poing enflammé",
+          "id": "5422524"
+        },
+        {
+          "n": 15,
+          "title": "Les trois compères",
+          "id": "5437308"
+        },
+        {
+          "n": 16,
+          "title": "Le calme avant la tempête",
+          "id": "5446300"
+        },
+        {
+          "n": 17,
+          "title": "L'éveil de la bête",
+          "id": "5454444"
+        },
+        {
+          "n": 18,
+          "title": "Le duel au sommet",
+          "id": "5463540"
+        },
+        {
+          "n": 19,
+          "title": "Le monde qui s'effondre",
+          "id": "5472350"
+        },
+        {
+          "n": 20,
+          "title": "Du moment qu'il y a un espoir",
+          "id": "5481025"
+        },
+        {
+          "n": 21,
+          "title": "Le rituel de purification",
+          "id": "5489208"
+        },
+        {
+          "n": 22,
+          "title": "Le messager de la fin",
+          "id": "5497284"
+        },
+        {
+          "n": 23,
+          "title": "Tout donner pour un instant",
+          "id": "5504891"
+        },
+        {
+          "n": 24,
+          "title": "La fin du combat",
+          "id": "5519069"
+        },
+        {
+          "n": 25,
+          "title": "Les héros du monde réel",
+          "id": "5519073"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Dans la peau d'un poisson",
+          "id": "5749891"
+        },
+        {
+          "n": 2,
+          "title": "L'invitation de la reine",
+          "id": "5754293"
+        },
+        {
+          "n": 3,
+          "title": "L'étincelle de la révolte",
+          "id": "5762541"
+        },
+        {
+          "n": 4,
+          "title": "Le géant de fer",
+          "id": "5766739"
+        },
+        {
+          "n": 5,
+          "title": "Les secrets de la ruine",
+          "id": "5775547"
+        },
+        {
+          "n": 6,
+          "title": "L'affrontement sous les arbres",
+          "id": "5781485"
+        },
+        {
+          "n": 7,
+          "title": "Le masque et le katana",
+          "id": "5786799"
+        },
+        {
+          "n": 8,
+          "title": "La malédiction de la nuit",
+          "id": "5792131"
+        },
+        {
+          "n": 9,
+          "title": "Le choc des volontés",
+          "id": "5797439"
+        },
+        {
+          "n": 10,
+          "title": "La promesse du héros",
+          "id": "5804899"
+        },
+        {
+          "n": 11,
+          "title": "L'héritier du feu",
+          "id": "5804900"
+        },
+        {
+          "n": 12,
+          "title": "L'ombre de la mort",
+          "id": "5807640"
+        },
+        {
+          "n": 13,
+          "title": "Le sanctuaire sous la mer",
+          "id": "5813493"
+        },
+        {
+          "n": 14,
+          "title": "Le souffle du dragon d'eau",
+          "id": "5820852"
+        },
+        {
+          "n": 15,
+          "title": "Le duel des arènes",
+          "id": "5827549"
+        },
+        {
+          "n": 16,
+          "title": "La quête des abysses",
+          "id": "5835303"
+        },
+        {
+          "n": 17,
+          "title": "La lumière de l'aube",
+          "id": "5841221"
+        },
+        {
+          "n": 18,
+          "title": "Le pacte du guerrier",
+          "id": "5847622"
+        },
+        {
+          "n": 19,
+          "title": "Les liens du destin",
+          "id": "5853521"
+        },
+        {
+          "n": 20,
+          "title": "La cité oubliée",
+          "id": "5859566"
+        },
+        {
+          "n": 21,
+          "title": "L'assaut des légendes",
+          "id": "5864915"
+        },
+        {
+          "n": 22,
+          "title": "Le réveil du roi",
+          "id": "5871224"
+        },
+        {
+          "n": 23,
+          "title": "La bataille ultime",
+          "id": "5878585"
+        },
+        {
+          "n": 24,
+          "title": "Shangri-La Frontier",
+          "id": "5887164"
+        }
+      ]
+    }
+  }
+}
