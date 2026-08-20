@@ -1,0 +1,185 @@
+{
+  "id": "ranma-1-2",
+  "title": "Ranma ½ (2024)",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210-qgahLDYT0t9b.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210-apebEUbenwLc.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210-qgahLDYT0t9b.png",
+  "description": "Effervescence chez la famille Tendô. Aujourd'hui doivent venir Genma Saotome et son fils Ranma, amis de la famille. Ranma est supposé épouser une des trois filles Tendô, tandis que le couple doit poursuivre l'exploitation du dojo familial Tendô.\n\nTout irait pour le mieux si M. Saotome ne passait pas sa vie sous forme d'un panda, et que Ranma Saotome n'alternait pas entre les formes d'un gentil lycéen ultra doué en arts martiaux et d'une ravissante jeune fille, dotée de presque autant de force physique que sa version homme, par la suite d'une baignade dans les sources maléfiques de Chine lors de son entraînement.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Romance",
+    "Shônen",
+    "Surnaturel",
+    "Arts Martiaux"
+  ],
+  "rating": "7.8",
+  "year": "2024",
+  "status": "en_cours",
+  "statusLabel": "En cours",
+  "heroTitle": "Ranma ½ (2024)",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.8",
+      "l": "Note"
+    },
+    {
+      "v": "2024",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.8"
+    },
+    {
+      "text": "🎬 2 Saisons · 23 Éps"
+    },
+    {
+      "text": "📅 2024"
+    },
+    {
+      "color": "#38bdf8",
+      "text": "● En cours"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Ranma ½ (2024) - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Voici Ranma",
+          "id": "5703462"
+        },
+        {
+          "n": 2,
+          "title": "Je déteste les hommes",
+          "id": "5713210"
+        },
+        {
+          "n": 3,
+          "title": "Parce que j'aime quelqu'un d'autre",
+          "id": "5722147"
+        },
+        {
+          "n": 4,
+          "title": "La traque de Ranma",
+          "id": "5731000"
+        },
+        {
+          "n": 5,
+          "title": "Tu n'es vraiment pas mignonne",
+          "id": "5739537"
+        },
+        {
+          "n": 6,
+          "title": "La Rose Noire Kodachi",
+          "id": "5746483"
+        },
+        {
+          "n": 7,
+          "title": "Ryoga, l'éternel perdu",
+          "id": "5753382"
+        },
+        {
+          "n": 8,
+          "title": "Le cochon noir P-chan",
+          "id": "5760853"
+        },
+        {
+          "n": 9,
+          "title": "La technique des châtaignes",
+          "id": "5765572"
+        },
+        {
+          "n": 10,
+          "title": "La vengeance de Shampoo",
+          "id": "5769593"
+        },
+        {
+          "n": 11,
+          "title": "Le baiser de la mort",
+          "id": "5774029"
+        },
+        {
+          "n": 12,
+          "title": "Je t'aime, Ranma !",
+          "id": "5780228"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Ranma ½ (2024) - Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'eau de la mémoire",
+          "id": "6025935"
+        },
+        {
+          "n": 2,
+          "title": "Le retour de Shampoo",
+          "id": "6031427"
+        },
+        {
+          "n": 3,
+          "title": "L'attaque de Mousse",
+          "id": "6037377"
+        },
+        {
+          "n": 4,
+          "title": "Les boulettes d'amour",
+          "id": "6043095"
+        },
+        {
+          "n": 5,
+          "title": "Le secret de Happosai",
+          "id": "6048642"
+        },
+        {
+          "n": 6,
+          "title": "Le trésor du dojo",
+          "id": "6053398"
+        },
+        {
+          "n": 7,
+          "title": "La malédiction du chat",
+          "id": "6057975"
+        },
+        {
+          "n": 8,
+          "title": "Le défi de Ryoga",
+          "id": "6068100"
+        },
+        {
+          "n": 9,
+          "title": "La cloche magique",
+          "id": "6072924"
+        },
+        {
+          "n": 10,
+          "title": "La revanche de Mousse",
+          "id": "6077848"
+        },
+        {
+          "n": 11,
+          "title": "Le grand affrontement",
+          "id": "6083503"
+        }
+      ]
+    }
+  }
+}
