@@ -649,5 +649,26 @@
       "Fiction",
       "Action"
     ]
+  },
+  {
+    "id": "my-dress-up-darling",
+    "title": "My Dress-Up Darling",
+    "poster": "https://i.imgur.com/GbQtxHy.jpeg",
+    "rating": "8.0",
+    "year": "2022",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Ecchi",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Adolescence",
+      "Cosplay",
+      "Couture",
+      "Otaku",
+      "Drame"
+    ]
   }
 ]
