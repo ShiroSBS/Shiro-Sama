@@ -1,9 +1,9 @@
 {
   "id": "my-hero-academia-vigilantes",
   "title": "My Hero Academia: Vigilantes",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
+  "poster": "https://i.imgur.com/8pweyrj.jpeg",
+  "banner": "https://i.imgur.com/8LEh3Aa.jpeg",
+  "bannerFallback": "https://i.imgur.com/8pweyrj.jpeg",
   "description": "Être héros est un vrai métier. Il y a des règles à respecter, et il n'est pas donné à tout le monde d'être officiellement accrédité. Pourtant, certains décident de jouer hors limites et de se battre pour la justice... sans aucune qualification ! On les appelle des justiciers et, aux yeux de la loi, ils ne valent pas mieux que les vilains !\n\nKoichi, un jeune étudiant fan d'All Might, le plus puissant des héros, appartient à cette catégorie. Il utilise son pouvoir de glissade pour rendre service autour de lui : ramasser les ordures, aider les vieilles dames à traverser... Ça part d'un bon sentiment et, pourtant, ses activités sont illégales dès lors qu'il utilise son alter sans autorisation sur la voie publique.\n\nSon sens de la justice l'amène à former une équipe improbable avec un grand costaud amateur de bagarres et une jeune chanteuse avide de gloire... À eux trois, ils se lancent à l'attaque d'un trafic de drogue aux effets destructeurs. Mais là où les héros agissent en respectant la loi, pour les justiciers, une seule devise : la fin justifie les moyens !",
   "genres": [
     "Action",
@@ -62,132 +62,132 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "My Hero Academia: Vigilantes - Saison 1",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Je suis là !",
           "id": "5871164"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Départ",
           "id": "5879053"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "L'Homme aux poings",
           "id": "5887182"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "L'idole Pop Step",
           "id": "5895450"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La drogue Trigger",
           "id": "5902223"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Stendhal l'épéiste",
           "id": "5909546"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Sans accréditation",
           "id": "5916132"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "L'Héritage",
           "id": "5922199"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Captain Celebrity",
           "id": "5927789"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "L'événement",
           "id": "5932804"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le poids de la justice",
           "id": "5938241"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Véritable nature",
           "id": "5944128"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Les justiciers de Naruhata",
           "id": "5949655"
         }
       ]
     },
     "2": {
       "label": "Saison 2",
-      "title": "Saison 2",
+      "title": "My Hero Academia: Vigilantes - Saison 2",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "La visite de Makoto",
           "id": "6092443"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Le festival de Naruhata",
           "id": "6097829"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Queen Bee",
           "id": "6102860"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Le passé de O'Clock",
           "id": "6108078"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le combat d'un père",
           "id": "6113655"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Triste séparation",
           "id": "6119130"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le retour du Crawler",
           "id": "6126480"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "Menace sur la ville",
           "id": "6137686"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Voler de ses propres ailes",
           "id": "6142589"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Protéger notre foyer",
           "id": "6165406"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "L'étoffe d'un véritable héros",
           "id": "6171290"
         }
       ]
