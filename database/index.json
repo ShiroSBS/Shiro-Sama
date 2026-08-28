@@ -693,7 +693,7 @@
   {
     "id": "kengan-ashura",
     "title": "Kengan Ashura",
-    "poster": "https://i.imgur.com/wN7HF4u.jpeg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100891-vPfnfkzizYFe.jpg",
     "rating": "7.3",
     "year": "2019",
     "status": "termine",
@@ -702,6 +702,30 @@
       "Action",
       "Drame",
       "Aventure",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
+  },
+  {
+    "id": "my-hero-academia-vigilantes",
+    "title": "My Hero Academia: Vigilantes",
+    "poster": "https://i.imgur.com/8pweyrj.jpeg",
+    "rating": "7.6",
+    "year": "2025",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Comédie",
+      "Drame",
+      "Surnaturel",
+      "Combats",
+      "Super héros",
+      "Super pouvoirs",
+      "Action",
+      "Aventure",
+      "Drame",
       "Science",
       "Fiction",
       "Fantastique"
