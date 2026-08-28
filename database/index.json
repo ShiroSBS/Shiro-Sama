@@ -1,5 +1,20 @@
 [
   {
+    "id": "blue-box",
+    "title": "Blue Box",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
+    "rating": "8.1",
+    "year": "2024",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Romance",
+      "School Life",
+      "Drame"
+    ]
+  },
+  {
     "id": "jujutsu-kaisen",
     "title": "Jujutsu Kaisen",
     "poster": "https://i.imgur.com/3kE1pBE.jpeg",
