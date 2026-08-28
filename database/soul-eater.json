@@ -1,0 +1,319 @@
+{
+  "id": "soul-eater",
+  "title": "Soul Eater",
+  "poster": "https://i.imgur.com/f6wZwPm.jpeg",
+  "banner": "https://i.imgur.com/RUSgBBB.jpeg",
+  "bannerFallback": "https://i.imgur.com/f6wZwPm.jpeg",
+  "description": "Soul Eater raconte l'histoire de 3 jeunes apprentis faucheurs d'âmes, de l'école Shibusen, où ils apprennent à devenir de vrais faucheurs d'âmes confirmés.\n\n- Maka, jeune fille dont les parents sont en conflit, son père étant un peu volage...\n\n- Black Star, dernier héritier du clan des porteurs d'étoiles responsable de nombreux massacres.\n\n- Death the Kid, fils de Shinigami-sama, obsédé voir Maniaque de la symétrie.\n\nCes jeunes gens possèdent des armes humaines pouvant prendre l'apparence d'armes diverses, appelées \"armes démoniaques\". En leur faisant manger 99 âmes d'humains corrompus (Oeufs du grand Dévoreur) et 1 âme de sorcière, ils les transformeront en Death Scythe, des armes démoniaques plus puissantes et plus évoluées. Leurs armes respectives sont:\n\n- Soul, se bat sous forme de faux, garçon sympathique et matteur (Maka).\n\n- Tsubaki, se bat sous diverses formes, jeune fille de grande taille à la poitrine développée.(Black Star)\n\n- Les soeurs Thompson, se battent sous la forme de 2 pistolets, 2 sœurs qui ont vécues dans la rue toute leur vie.(Death the Kid)\n\nTout serait bien si c'était aussi simple, malheureusement de nombreux obstacles barrent la route des protagonistes.",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.7",
+  "year": "2008",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Soul Eater",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.7",
+      "l": "Note"
+    },
+    {
+      "v": "2008",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.7"
+    },
+    {
+      "text": "🎬 1 Saisons · 51 Éps"
+    },
+    {
+      "text": "📅 2008"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Soul Eater - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La résonance des âmes",
+          "id": "3235391"
+        },
+        {
+          "n": 2,
+          "title": "C'est moi l'assassin !",
+          "id": "3235392"
+        },
+        {
+          "n": 3,
+          "title": "Le garçon parfait",
+          "id": "3235393"
+        },
+        {
+          "n": 4,
+          "title": "L'apparition du chasseur de sorcières",
+          "id": "3235394"
+        },
+        {
+          "n": 5,
+          "title": "La forme de l'âme",
+          "id": "3235395"
+        },
+        {
+          "n": 6,
+          "title": "Le nouveau venu tant redouté",
+          "id": "3235396"
+        },
+        {
+          "n": 7,
+          "title": "Le sang noir de la terreur",
+          "id": "3235397"
+        },
+        {
+          "n": 8,
+          "title": "La sorcière Médusa",
+          "id": "3235398"
+        },
+        {
+          "n": 9,
+          "title": "La légende de l'épée sacrée",
+          "id": "3235399"
+        },
+        {
+          "n": 10,
+          "title": "L'épée maudite Masamune",
+          "id": "3235400"
+        },
+        {
+          "n": 11,
+          "title": "Le camélia",
+          "id": "3235401"
+        },
+        {
+          "n": 12,
+          "title": "Le courage face à la peur",
+          "id": "3235402"
+        },
+        {
+          "n": 13,
+          "title": "L'œil du diable",
+          "id": "3235403"
+        },
+        {
+          "n": 14,
+          "title": "Le super examen écrit",
+          "id": "3235404"
+        },
+        {
+          "n": 15,
+          "title": "Le dragon noir mangeur d'âmes",
+          "id": "3235405"
+        },
+        {
+          "n": 16,
+          "title": "Féroce combat sur le navire fantôme",
+          "id": "3235407"
+        },
+        {
+          "n": 17,
+          "title": "La légende de l'épée sacrée 2",
+          "id": "3235408"
+        },
+        {
+          "n": 18,
+          "title": "Le cauchemar du soir de la fête",
+          "id": "3235409"
+        },
+        {
+          "n": 19,
+          "title": "Le combat souterrain commence",
+          "id": "3235410"
+        },
+        {
+          "n": 20,
+          "title": "La bataille de la résonance du sang noir",
+          "id": "3235411"
+        },
+        {
+          "n": 21,
+          "title": "Vas-y, mon âme",
+          "id": "3235412"
+        },
+        {
+          "n": 22,
+          "title": "Le sceau du sanctuaire",
+          "id": "3235413"
+        },
+        {
+          "n": 23,
+          "title": "Mort ou vif",
+          "id": "3235414"
+        },
+        {
+          "n": 24,
+          "title": "Le combat des dieux",
+          "id": "3235415"
+        },
+        {
+          "n": 25,
+          "title": "Le rassemblement des Death Scythes",
+          "id": "3235416"
+        },
+        {
+          "n": 26,
+          "title": "Une rentrée dans la joie et la timidité",
+          "id": "3235417"
+        },
+        {
+          "n": 27,
+          "title": "Pulsion meurtrière de 800 ans",
+          "id": "3235418"
+        },
+        {
+          "n": 28,
+          "title": "L'épéiste divin est de retour",
+          "id": "3235419"
+        },
+        {
+          "n": 29,
+          "title": "La renaissance de Médusa",
+          "id": "3235420"
+        },
+        {
+          "n": 30,
+          "title": "L'express express",
+          "id": "3235421"
+        },
+        {
+          "n": 31,
+          "title": "Le bonheur parfait",
+          "id": "3235422"
+        },
+        {
+          "n": 32,
+          "title": "La légende de l'épée sacrée 3",
+          "id": "3235423"
+        },
+        {
+          "n": 33,
+          "title": "Résonance en chaîne",
+          "id": "3235424"
+        },
+        {
+          "n": 34,
+          "title": "Le tournoi de la capture d'Eibon",
+          "id": "3235425"
+        },
+        {
+          "n": 35,
+          "title": "L'ouragan Mosquito",
+          "id": "3235427"
+        },
+        {
+          "n": 36,
+          "title": "Une véritable résonance",
+          "id": "3235428"
+        },
+        {
+          "n": 37,
+          "title": "La première affaire du détective",
+          "id": "3235429"
+        },
+        {
+          "n": 38,
+          "title": "La tentation du combat asura",
+          "id": "3235430"
+        },
+        {
+          "n": 39,
+          "title": "La fuite de Chrona",
+          "id": "3235431"
+        },
+        {
+          "n": 40,
+          "title": "Le grand combat",
+          "id": "3235432"
+        },
+        {
+          "n": 41,
+          "title": "Un choix paisible",
+          "id": "3235433"
+        },
+        {
+          "n": 42,
+          "title": "Le pas en avant",
+          "id": "3235434"
+        },
+        {
+          "n": 43,
+          "title": "L'artefact final",
+          "id": "3235435"
+        },
+        {
+          "n": 44,
+          "title": "La détermination de Chrona",
+          "id": "3235436"
+        },
+        {
+          "n": 45,
+          "title": "La longueur d'onde anti-démon",
+          "id": "3235437"
+        },
+        {
+          "n": 46,
+          "title": "Bravoure ou carnage",
+          "id": "3235438"
+        },
+        {
+          "n": 47,
+          "title": "Le renversement de situation",
+          "id": "3235439"
+        },
+        {
+          "n": 48,
+          "title": "La faucheuse à l'arme démoniaque",
+          "id": "3235440"
+        },
+        {
+          "n": 49,
+          "title": "L'éveil d'Asura",
+          "id": "3235441"
+        },
+        {
+          "n": 50,
+          "title": "Vas-y à fond",
+          "id": "3235442"
+        },
+        {
+          "n": 51,
+          "title": "Le mot de passe est courage",
+          "id": "3235443"
+        }
+      ]
+    }
