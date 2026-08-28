@@ -1,0 +1,186 @@
+{
+  "id": "blue-box",
+  "title": "Blue Box",
+  "poster": "https://i.imgur.com/iR7dOuk.jpeg",
+  "banner": "https://i.imgur.com/7IjmpeV.jpeg",
+  "bannerFallback": "https://i.imgur.com/iR7dOuk.jpeg",
+  "description": "Taiki Inomata est un membre de l'équipe masculine de badminton de l'école Eimei. Il est amoureux d'une fille de l'équipe de basketball, Chinatsu Kano, aux côtés de qui, il s'entraîne tous les matins dans le gymnase. Cependant, sa relation avec Chinatsu prendra un tournant lors d'un jour de printemps.",
+  "genres": [
+    "Comédie",
+    "Romance",
+    "School Life",
+    "Drame"
+  ],
+  "rating": "8.1",
+  "year": "2024",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Blue Box",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.1",
+      "l": "Note"
+    },
+    {
+      "v": "2024",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.1"
+    },
+    {
+      "text": "🎬 1 Saisons · 25 Éps"
+    },
+    {
+      "text": "📅 2024"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Blue Box - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Chinatsu Kano",
+          "id": "5884030"
+        },
+        {
+          "n": 2,
+          "title": "Il faut aller aux nationales",
+          "id": "5884032"
+        },
+        {
+          "n": 3,
+          "title": "Chii",
+          "id": "5884036"
+        },
+        {
+          "n": 4,
+          "title": "S'il gagne",
+          "id": "5884041"
+        },
+        {
+          "n": 5,
+          "title": "Aquarium",
+          "id": "5884043"
+        },
+        {
+          "n": 6,
+          "title": "Courage, Inomata",
+          "id": "5884047"
+        },
+        {
+          "n": 7,
+          "title": "L'un ou l'autre",
+          "id": "5884053"
+        },
+        {
+          "n": 8,
+          "title": "La même ambition",
+          "id": "5884055"
+        },
+        {
+          "n": 9,
+          "title": "Un pas vers toi",
+          "id": "5884057"
+        },
+        {
+          "n": 10,
+          "title": "Je veux être plus fort",
+          "id": "5884061"
+        },
+        {
+          "n": 11,
+          "title": "Un sentiment nouveau",
+          "id": "5884063"
+        },
+        {
+          "n": 12,
+          "title": "La compétition approche",
+          "id": "5884067"
+        },
+        {
+          "n": 13,
+          "title": "Jour de match",
+          "id": "5884070"
+        },
+        {
+          "n": 14,
+          "title": "Le mur à franchir",
+          "id": "5884072"
+        },
+        {
+          "n": 15,
+          "title": "Ce que ça signifie",
+          "id": "5884077"
+        },
+        {
+          "n": 16,
+          "title": "Nos promesses",
+          "id": "5884079"
+        },
+        {
+          "n": 17,
+          "title": "Plus qu'un simple sport",
+          "id": "5884083"
+        },
+        {
+          "n": 18,
+          "title": "Ne pas avoir de regrets",
+          "id": "5884084"
+        },
+        {
+          "n": 19,
+          "title": "Soutien mutuel",
+          "id": "5884088"
+        },
+        {
+          "n": 20,
+          "title": "L'épreuve de force",
+          "id": "5884091"
+        },
+        {
+          "n": 21,
+          "title": "Détermination",
+          "id": "5884096"
+        },
+        {
+          "n": 22,
+          "title": "Jusqu'à la fin",
+          "id": "5884098"
+        },
+        {
+          "n": 23,
+          "title": "Les résultats",
+          "id": "5884100"
+        },
+        {
+          "n": 24,
+          "title": "Ce qui change",
+          "id": "5884102"
+        },
+        {
+          "n": 25,
+          "title": "Un nouveau départ",
+          "id": "5884104"
+        }
+      ]
+    }
+  }
+}
