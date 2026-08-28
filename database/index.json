@@ -1,5 +1,6 @@
-{
-  "id": "jujutsu-kaisen",
+[
+  {
+    "id": "jujutsu-kaisen",
     "title": "Jujutsu Kaisen",
     "poster": "https://i.imgur.com/3kE1pBE.jpeg",
     "rating": "8.4",
@@ -750,3 +751,4 @@
       "Fantastique"
     ]
   }
+]
