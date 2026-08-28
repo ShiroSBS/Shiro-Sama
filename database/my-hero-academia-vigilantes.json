@@ -1,0 +1,196 @@
+{
+  "id": "my-hero-academia-vigilantes",
+  "title": "My Hero Academia: Vigilantes",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
+  "description": "Être héros est un vrai métier. Il y a des règles à respecter, et il n'est pas donné à tout le monde d'être officiellement accrédité. Pourtant, certains décident de jouer hors limites et de se battre pour la justice... sans aucune qualification ! On les appelle des justiciers et, aux yeux de la loi, ils ne valent pas mieux que les vilains !\n\nKoichi, un jeune étudiant fan d'All Might, le plus puissant des héros, appartient à cette catégorie. Il utilise son pouvoir de glissade pour rendre service autour de lui : ramasser les ordures, aider les vieilles dames à traverser... Ça part d'un bon sentiment et, pourtant, ses activités sont illégales dès lors qu'il utilise son alter sans autorisation sur la voie publique.\n\nSon sens de la justice l'amène à former une équipe improbable avec un grand costaud amateur de bagarres et une jeune chanteuse avide de gloire... À eux trois, ils se lancent à l'attaque d'un trafic de drogue aux effets destructeurs. Mais là où les héros agissent en respectant la loi, pour les justiciers, une seule devise : la fin justifie les moyens !",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Surnaturel",
+    "Combats",
+    "Super héros",
+    "Super pouvoirs",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Science",
+    "Fiction",
+    "Fantastique"
+  ],
+  "rating": "7.6",
+  "year": "2025",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "My Hero Academia: Vigilantes",
+  "stats": [
+    {
+      "v": "2",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.6",
+      "l": "Note"
+    },
+    {
+      "v": "2025",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.6"
+    },
+    {
+      "text": "🎬 2 Saisons · 24 Éps"
+    },
+    {
+      "text": "📅 2025"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5871164"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5879053"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5887182"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5895450"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5902223"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5909546"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5916132"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5922199"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5927789"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5932804"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5938241"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5944128"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5949655"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "6092443"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "6097829"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "6102860"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "6108078"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "6113655"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "6119130"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "6126480"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "6137686"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "6142589"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "6165406"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "6171290"
+        }
+      ]
+    }
+  }
+}
