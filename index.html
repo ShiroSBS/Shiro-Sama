@@ -490,8 +490,8 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
       <input type="file" id="profile-avatar-input" accept="image/*" style="display:none" onchange="onProfileAvatarChange(event)"/>
     </div>
     <input class="profile-input" id="profile-pseudo-input" placeholder="Ton pseudo" maxlength="24"/>
+    <button class="btn btn-ghost" id="profile-modal-delete-btn" onclick="deleteProfile()" style="display:none;color:#ff6b6b;width:100%;justify-content:center;margin-bottom:10px">🗑 Supprimer ce profil</button>
     <div class="profile-modal-actions">
-      <button class="btn btn-ghost" id="profile-modal-delete-btn" onclick="deleteProfile()" style="display:none;color:#ff6b6b">🗑 Supprimer</button>
       <button class="btn btn-ghost" onclick="closeProfileModal()">Annuler</button>
       <button class="btn btn-primary" onclick="saveProfile()">Enregistrer</button>
     </div>
