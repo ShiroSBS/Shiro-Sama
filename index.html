@@ -88,12 +88,17 @@ body.search-open .app-shell{visibility:hidden}
 .s-tab{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:8px 20px;border-radius:8px;background:var(--bg3);color:var(--muted);transition:all .2s;}
 .s-tab:hover:not(.active){background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.2)}
 .s-tab.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
-.sort-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:22px;}
-.sort-label{font-size:13px;font-weight:700;color:var(--muted);}
-.sort-btn{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:8px 16px;border-radius:8px;background:var(--bg3);color:var(--muted);transition:all .2s;display:flex;align-items:center;gap:6px;}
-.sort-btn:hover{background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.2)}
-.sort-btn.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
-.sort-btn .sort-arrow{font-size:11px;opacity:.85;transition:transform .2s}
+.sort-dropdown-wrap{position:relative;}
+.sort-btn-main{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:9px 16px;border-radius:9px;background:var(--bg3);color:var(--text);transition:all .2s;display:flex;align-items:center;gap:8px;white-space:nowrap;}
+.sort-btn-main:hover{background:var(--bg4);border-color:rgba(59,126,255,.3)}
+.sort-btn-main .chevron{font-size:10px;color:var(--muted);transition:transform .2s}
+.sort-btn-main.open .chevron{transform:rotate(180deg)}
+.sort-dropdown{position:absolute;top:calc(100% + 8px);right:0;min-width:190px;background:rgba(14,17,28,.9);backdrop-filter:blur(30px) saturate(1.7);-webkit-backdrop-filter:blur(30px) saturate(1.7);border:1px solid rgba(255,255,255,.1);border-radius:14px;box-shadow:0 24px 70px rgba(0,0,0,.55),0 1px 0 rgba(255,255,255,.08) inset;padding:6px;display:none;z-index:250;}
+.sort-dropdown.active{display:block;animation:springIn .25s cubic-bezier(.34,1.56,.64,1)}
+.sort-option{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;border-radius:9px;font-size:13px;font-weight:700;color:var(--muted);cursor:pointer;transition:background .15s,color .15s;}
+.sort-option:hover{background:var(--bg4);color:var(--text)}
+.sort-option.active{background:rgba(59,126,255,.18);color:var(--accent2)}
+.sort-option .sort-arrow{font-size:11px;opacity:.85}
 
 .ep-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;}
 .ep-card{position:relative;background:linear-gradient(155deg,rgba(255,255,255,.05),rgba(255,255,255,.015));backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.09);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .2s ease,border-color .2s ease;animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
@@ -550,11 +555,18 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 <div id="page-catalogue" class="page">
   <div style="padding:40px 32px 60px;max-width:1200px;margin:0 auto">
     <h1 style="font-size:28px;font-weight:900;margin-bottom:24px;letter-spacing:-.03em">Catalogue</h1>
-    <div class="sort-bar">
-      <span class="sort-label">Trier par :</span>
-      <button class="sort-btn" id="sort-btn-rating" onclick="sortCatalogue('rating')">⭐ Note <span class="sort-arrow" id="sort-arrow-rating"></span></button>
-      <button class="sort-btn" id="sort-btn-alpha" onclick="sortCatalogue('alpha')">A-Z <span class="sort-arrow" id="sort-arrow-alpha"></span></button>
-      <button class="sort-btn" id="sort-btn-year" onclick="sortCatalogue('year')">📅 Date <span class="sort-arrow" id="sort-arrow-year"></span></button>
+    <div class="section-header" style="margin-bottom:24px">
+      <h1 style="font-size:28px;font-weight:900;letter-spacing:-.03em;margin:0">Catalogue</h1>
+      <div class="sort-dropdown-wrap">
+        <button class="sort-btn-main" id="sort-btn-main" onclick="toggleSortDropdown(event)">
+          Trier par : <span id="sort-btn-main-label">Défaut</span> <span class="chevron">▾</span>
+        </button>
+        <div class="sort-dropdown" id="sort-dropdown">
+          <div class="sort-option" id="sort-opt-rating" onclick="sortCatalogue('rating')">⭐ Note <span class="sort-arrow" id="sort-arrow-rating"></span></div>
+          <div class="sort-option" id="sort-opt-alpha" onclick="sortCatalogue('alpha')">A-Z <span class="sort-arrow" id="sort-arrow-alpha"></span></div>
+          <div class="sort-option" id="sort-opt-year" onclick="sortCatalogue('year')">📅 Date <span class="sort-arrow" id="sort-arrow-year"></span></div>
+        </div>
+      </div>
     </div>
     <div class="anime-grid" id="catalogue-grid"></div>
   </div>
@@ -1096,22 +1108,41 @@ function sortCatalogue(key){
     catalogueSortDir=(key==='alpha')?1:-1; // note/date : décroissant par défaut, A-Z : croissant
   }
   renderCatalogue();
+  closeSortDropdown();
 }
 
 function updateSortButtons(){
+  const labels={rating:'Note',alpha:'A-Z',year:'Date'};
+  document.getElementById('sort-btn-main-label').textContent=catalogueSortKey?labels[catalogueSortKey]:'Défaut';
   ['rating','alpha','year'].forEach(key=>{
-    const btn=document.getElementById('sort-btn-'+key);
+    const opt=document.getElementById('sort-opt-'+key);
     const arrow=document.getElementById('sort-arrow-'+key);
-    if(!btn) return;
+    if(!opt) return;
     if(catalogueSortKey===key){
-      btn.classList.add('active');
+      opt.classList.add('active');
       arrow.textContent=catalogueSortDir===1?'↑':'↓';
     }else{
-      btn.classList.remove('active');
+      opt.classList.remove('active');
       arrow.textContent='';
     }
   });
 }
+
+function toggleSortDropdown(e){
+  e.stopPropagation();
+  document.getElementById('sort-dropdown').classList.toggle('active');
+  document.getElementById('sort-btn-main').classList.toggle('open');
+}
+
+function closeSortDropdown(){
+  document.getElementById('sort-dropdown').classList.remove('active');
+  document.getElementById('sort-btn-main').classList.remove('open');
+}
+
+document.addEventListener('click',(e)=>{
+  const wrap=document.querySelector('.sort-dropdown-wrap');
+  if(wrap && !wrap.contains(e.target)) closeSortDropdown();
+});
 
 function renderSeasonTabs(ctx, activeSNum){
   const a=getAnime();
