@@ -393,6 +393,11 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 .profil-tile-add{background:var(--bg3);border:2px dashed var(--border2);color:var(--muted)}
 .profil-tile-name{font-size:15px;font-weight:700;color:var(--text)}
 .profil-tile-name.muted{color:var(--muted);font-weight:600}
+.profil-tile{position:relative}
+.profil-tile-avatar-wrap{position:relative}
+.profil-tile-active{border-color:rgba(59,126,255,.9)!important;box-shadow:0 0 0 3px rgba(59,126,255,.25)}
+.profil-tile-edit{position:absolute;top:-6px;right:-6px;width:28px;height:28px;border-radius:50%;background:rgba(14,17,28,.92);border:1px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:12px;color:var(--muted);cursor:pointer;transition:all .2s;z-index:2;}
+.profil-tile-edit:hover{background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.5)}
 .profil-edit-btn{margin-top:36px;padding:10px 22px;border-radius:10px;background:rgba(255,255,255,.06);border:1px solid var(--border2);color:var(--muted);font-size:13px;font-weight:700;cursor:pointer;transition:all .2s ease}
 .profil-edit-btn:hover{background:rgba(255,255,255,.12);color:var(--text)}
 </style>
@@ -486,6 +491,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
     </div>
     <input class="profile-input" id="profile-pseudo-input" placeholder="Ton pseudo" maxlength="24"/>
     <div class="profile-modal-actions">
+      <button class="btn btn-ghost" id="profile-modal-delete-btn" onclick="deleteProfile()" style="display:none;color:#ff6b6b">🗑 Supprimer</button>
       <button class="btn btn-ghost" onclick="closeProfileModal()">Annuler</button>
       <button class="btn btn-primary" onclick="saveProfile()">Enregistrer</button>
     </div>
@@ -554,7 +560,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 
 <div id="page-catalogue" class="page">
   <div style="padding:40px 32px 60px;max-width:1200px;margin:0 auto">
-    <div class="section-header" style="margin-bottom:24px">
+    <div style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:24px">
       <h1 style="font-size:28px;font-weight:900;letter-spacing:-.03em;margin:0">Catalogue</h1>
       <div class="sort-dropdown-wrap">
         <button class="sort-btn-main" id="sort-btn-main" onclick="toggleSortDropdown(event)">
@@ -748,8 +754,8 @@ let currentSeason = 1;
 let currentEpIdx = 0;
 const getAnime = (id) => animeDataCache[id || currentAnimeId];
 
-function saveProgress(a,s,i){try{localStorage.setItem('ss_prog',JSON.stringify({a,s,i}))}catch(e){}}
-function loadProgress(){try{const p=localStorage.getItem('ss_prog');return p?JSON.parse(p):null}catch(e){return null}}
+function saveProgress(a,s,i){try{localStorage.setItem(progressKey(),JSON.stringify({a,s,i}))}catch(e){}}
+function loadProgress(){try{const p=localStorage.getItem(progressKey());return p?JSON.parse(p):null}catch(e){return null}}
 async function showResumeBanner(){
   const p=loadProgress(); if(!p)return;
   let anime;
@@ -826,46 +832,98 @@ function showPage(name){
   if(mw)mw.style.display=(window.innerWidth<=900&&name==='watch')?'block':'none';
 }
 
-/* === Profil local (pseudo + avatar depuis la galerie, stocké sur l'appareil) === */
-function getProfile(){try{return JSON.parse(localStorage.getItem('ss_profile')||'null')}catch(e){return null}}
+/* === Profils multiples (pseudo + avatar par profil, stockés sur l'appareil) === */
+/* Chaque profil a son propre historique et sa propre progression de visionnage */
+const PROFILES_KEY='ss_profiles';
+const ACTIVE_PROFILE_KEY='ss_active_profile';
+let editingProfileId=null; // null = création, sinon id du profil en cours d'édition
+
+function getProfiles(){try{return JSON.parse(localStorage.getItem(PROFILES_KEY)||'[]')}catch(e){return []}}
+function saveProfiles(list){try{localStorage.setItem(PROFILES_KEY,JSON.stringify(list))}catch(e){}}
+function getActiveProfileId(){try{return localStorage.getItem(ACTIVE_PROFILE_KEY)||null}catch(e){return null}}
+function setActiveProfileId(id){try{if(id)localStorage.setItem(ACTIVE_PROFILE_KEY,id);else localStorage.removeItem(ACTIVE_PROFILE_KEY)}catch(e){}}
+function getActiveProfile(){
+  const id=getActiveProfileId();
+  if(!id)return null;
+  return getProfiles().find(p=>p.id===id)||null;
+}
+function getProfile(){return getActiveProfile();} // alias rétro-compatible
+
+function migrateOldProfile(){
+  if(localStorage.getItem(PROFILES_KEY))return;
+  try{
+    const old=JSON.parse(localStorage.getItem('ss_profile')||'null');
+    if(old&&old.pseudo){
+      const id='p_'+Date.now();
+      saveProfiles([{id,pseudo:old.pseudo,avatar:old.avatar||null}]);
+      setActiveProfileId(id);
+      const oldHist=localStorage.getItem('ss_history');
+      if(oldHist)localStorage.setItem('ss_history_'+id,oldHist);
+      const oldProg=localStorage.getItem('ss_prog');
+      if(oldProg)localStorage.setItem('ss_prog_'+id,oldProg);
+    }else{
+      saveProfiles([]);
+    }
+  }catch(e){saveProfiles([]);}
+}
+
+function historyKey(){const p=getActiveProfile();return p?('ss_history_'+p.id):'ss_history_guest';}
+function progressKey(){const p=getActiveProfile();return p?('ss_prog_'+p.id):'ss_prog_guest';}
+
 function avatarHTML(p,fallback){return p&&p.avatar?`<img src="${p.avatar}" alt="${p.pseudo}"/>`:(fallback||(p?p.pseudo[0].toUpperCase():'+'))}
 
 function renderProfileChip(){
-  const p=getProfile();
+  const p=getActiveProfile();
   document.getElementById('top-profile-avatar').innerHTML=avatarHTML(p);
   document.getElementById('top-profile-name').textContent=p?p.pseudo:'Ajouter un profil';
 }
 
 function renderProfilPage(){
-  const p=getProfile();
   const el=document.getElementById('profil-page-content');
-  if(!p){
-    el.innerHTML=`
-      <div class="profil-page-title">Qui est-ce ?</div>
-      <div class="profil-tiles">
-        <div class="profil-tile" onclick="openProfileModal()">
-          <div class="profil-tile-avatar profil-tile-add">+</div>
-          <div class="profil-tile-name muted">Ajouter un profil</div>
-        </div>
-      </div>`;
-    return;
-  }
+  const profiles=getProfiles();
+  const activeId=getActiveProfileId();
+  const tilesHtml=profiles.map(p=>`
+    <div class="profil-tile">
+      <div class="profil-tile-avatar${p.id===activeId?' profil-tile-active':''}" onclick="selectProfile('${p.id}')">${avatarHTML(p)}</div>
+      <div class="profil-tile-name">${p.pseudo}</div>
+      <div class="profil-tile-edit" onclick="openProfileModal('${p.id}')" title="Modifier ce profil">✎</div>
+    </div>`).join('');
   el.innerHTML=`
     <div class="profil-page-title">Qui est-ce ?</div>
     <div class="profil-tiles">
-      <div class="profil-tile" onclick="openProfileModal()">
-        <div class="profil-tile-avatar">${avatarHTML(p)}</div>
-        <div class="profil-tile-name">${p.pseudo}</div>
+      ${tilesHtml}
+      <div class="profil-tile">
+        <div class="profil-tile-avatar profil-tile-add" onclick="openProfileModal()">+</div>
+        <div class="profil-tile-name muted">Ajouter un profil</div>
       </div>
-    </div>
-    <button class="profil-edit-btn" onclick="openProfileModal()">✎ Modifier le profil</button>`;
+    </div>`;
 }
 
-function openProfileModal(){
-  const p=getProfile();
+function selectProfile(id){
+  setActiveProfileId(id);
+  renderProfileChip();
+  currentAnimeId=null;
+  renderHistory();
+  showPage('home');
+  loadIndex().then(()=>{
+    const hist=loadHistory();
+    const startId=(hist.length && ANIME_INDEX.some(x=>x.id===hist[0].a))?hist[0].a:(ANIME_INDEX[0]&&ANIME_INDEX[0].id);
+    activeSeasonNum=hist.length?hist[0].s:1;
+    if(startId){
+      currentAnimeId=startId;
+      loadAnimeData(startId).then(()=>{renderHome();renderAnimePage();});
+    }
+    showResumeBanner();
+  }).catch(()=>{});
+}
+
+function openProfileModal(id){
+  editingProfileId=id||null;
+  const p=editingProfileId?getProfiles().find(x=>x.id===editingProfileId):null;
   document.getElementById('profile-modal-title').textContent=p?'Modifier ton profil':'Créer ton profil';
   document.getElementById('profile-pseudo-input').value=p?p.pseudo:'';
   document.getElementById('profile-avatar-preview').innerHTML=avatarHTML(p)+'<div class="profile-avatar-edit">Changer</div>';
+  document.getElementById('profile-modal-delete-btn').style.display=p?'inline-flex':'none';
   document.getElementById('profile-modal-backdrop').classList.add('active');
 }
 function closeProfileModal(){document.getElementById('profile-modal-backdrop').classList.remove('active')}
@@ -879,11 +937,36 @@ function saveProfile(){
   const pseudo=document.getElementById('profile-pseudo-input').value.trim();
   if(!pseudo)return;
   const imgEl=document.querySelector('#profile-avatar-preview img');
-  const avatar=imgEl?imgEl.src:(getProfile()?.avatar||null);
-  localStorage.setItem('ss_profile',JSON.stringify({pseudo,avatar}));
+  let profiles=getProfiles();
+  if(editingProfileId){
+    const existing=profiles.find(x=>x.id===editingProfileId);
+    const avatar=imgEl?imgEl.src:(existing?existing.avatar:null);
+    profiles=profiles.map(x=>x.id===editingProfileId?{...x,pseudo,avatar}:x);
+    saveProfiles(profiles);
+  }else{
+    const id='p_'+Date.now();
+    const avatar=imgEl?imgEl.src:null;
+    profiles.push({id,pseudo,avatar});
+    saveProfiles(profiles);
+    setActiveProfileId(id);
+  }
   closeProfileModal();
   renderProfileChip();
   if(document.getElementById('page-profil').classList.contains('active'))renderProfilPage();
+}
+function deleteProfile(){
+  if(!editingProfileId)return;
+  const id=editingProfileId;
+  let profiles=getProfiles().filter(x=>x.id!==id);
+  saveProfiles(profiles);
+  try{localStorage.removeItem('ss_history_'+id);localStorage.removeItem('ss_prog_'+id);}catch(e){}
+  if(getActiveProfileId()===id){
+    setActiveProfileId(profiles.length?profiles[0].id:null);
+  }
+  closeProfileModal();
+  renderProfileChip();
+  renderProfilPage();
+  if(document.getElementById('page-home').classList.contains('active'))renderHistory();
 }
 
 async function goToAnime(id){
@@ -900,8 +983,8 @@ function renderHome(){
 
 /* === Historique de visionnage (remplace l'ancien carrousel "Tous les animes") === */
 const HISTORY_KEY='ss_history';
-function loadHistory(){try{return JSON.parse(localStorage.getItem(HISTORY_KEY)||'[]')}catch(e){return []}}
-function saveHistoryList(list){try{localStorage.setItem(HISTORY_KEY,JSON.stringify(list))}catch(e){}}
+function loadHistory(){try{return JSON.parse(localStorage.getItem(historyKey())||'[]')}catch(e){return []}}
+function saveHistoryList(list){try{localStorage.setItem(historyKey(),JSON.stringify(list))}catch(e){}}
 function addToHistory(a,s,i){
   let list=loadHistory();
   list=list.filter(h=>h.a!==a);
@@ -1297,6 +1380,7 @@ window.addEventListener('scroll',()=>{
 function openAnimePage(){renderAnimePage();showPage('anime');}
 
 async function initApp(){
+  migrateOldProfile();
   renderProfileChip();
   try{
     await loadIndex();
