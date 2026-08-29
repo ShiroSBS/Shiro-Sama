@@ -88,6 +88,12 @@ body.search-open .app-shell{visibility:hidden}
 .s-tab{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:8px 20px;border-radius:8px;background:var(--bg3);color:var(--muted);transition:all .2s;}
 .s-tab:hover:not(.active){background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.2)}
 .s-tab.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
+.sort-bar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:22px;}
+.sort-label{font-size:13px;font-weight:700;color:var(--muted);}
+.sort-btn{cursor:pointer;border:1px solid var(--border);font-family:var(--font);font-size:13px;font-weight:700;padding:8px 16px;border-radius:8px;background:var(--bg3);color:var(--muted);transition:all .2s;display:flex;align-items:center;gap:6px;}
+.sort-btn:hover{background:var(--bg4);color:var(--text);border-color:rgba(59,126,255,.2)}
+.sort-btn.active{background:rgba(59,126,255,.18);border-color:rgba(59,126,255,.5);color:var(--accent2)}
+.sort-btn .sort-arrow{font-size:11px;opacity:.85;transition:transform .2s}
 
 .ep-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px;}
 .ep-card{position:relative;background:linear-gradient(155deg,rgba(255,255,255,.05),rgba(255,255,255,.015));backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.09);border-radius:16px;overflow:hidden;cursor:pointer;transition:transform .2s ease,border-color .2s ease;animation:cardIn .5s cubic-bezier(.22,1,.36,1) backwards;}
@@ -544,6 +550,12 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 32p
 <div id="page-catalogue" class="page">
   <div style="padding:40px 32px 60px;max-width:1200px;margin:0 auto">
     <h1 style="font-size:28px;font-weight:900;margin-bottom:24px;letter-spacing:-.03em">Catalogue</h1>
+    <div class="sort-bar">
+      <span class="sort-label">Trier par :</span>
+      <button class="sort-btn" id="sort-btn-rating" onclick="sortCatalogue('rating')">⭐ Note <span class="sort-arrow" id="sort-arrow-rating"></span></button>
+      <button class="sort-btn" id="sort-btn-alpha" onclick="sortCatalogue('alpha')">A-Z <span class="sort-arrow" id="sort-arrow-alpha"></span></button>
+      <button class="sort-btn" id="sort-btn-year" onclick="sortCatalogue('year')">📅 Date <span class="sort-arrow" id="sort-arrow-year"></span></button>
+    </div>
     <div class="anime-grid" id="catalogue-grid"></div>
   </div>
   <footer class="site-footer">
@@ -1054,14 +1066,51 @@ function renderAnimePage(){
   document.getElementById('anime-ep-count').textContent=si?`${si.episodes.length} épisodes`:'';
 }
 
+let catalogueSortKey=null;
+let catalogueSortDir=1; // 1 = asc, -1 = desc
+
 function renderCatalogue(){
-  document.getElementById('catalogue-grid').innerHTML=ANIME_INDEX.map(a=>`
+  let list=ANIME_INDEX.slice();
+  if(catalogueSortKey==='rating'){
+    list.sort((a,b)=>(a.rating-b.rating)*catalogueSortDir);
+  }else if(catalogueSortKey==='alpha'){
+    list.sort((a,b)=>a.title.localeCompare(b.title)*catalogueSortDir);
+  }else if(catalogueSortKey==='year'){
+    list.sort((a,b)=>(a.year-b.year)*catalogueSortDir);
+  }
+  document.getElementById('catalogue-grid').innerHTML=list.map(a=>`
     <div class="anime-card" onclick="goToAnime('${a.id}')">
       <img class="anime-card-poster" src="${a.poster}" alt="${a.title}" onerror="this.src='https://placehold.co/170x255/111520/3b7eff?text=${encodeURIComponent(a.title).replace(/'/g,'%27')}'"/>
       <div class="anime-card-info">
         <div class="anime-card-sub">⭐ ${a.rating} · ${a.year} · ${a.statusLabel}</div>
       </div>
     </div>`).join('');
+  updateSortButtons();
+}
+
+function sortCatalogue(key){
+  if(catalogueSortKey===key){
+    catalogueSortDir*=-1;
+  }else{
+    catalogueSortKey=key;
+    catalogueSortDir=(key==='alpha')?1:-1; // note/date : décroissant par défaut, A-Z : croissant
+  }
+  renderCatalogue();
+}
+
+function updateSortButtons(){
+  ['rating','alpha','year'].forEach(key=>{
+    const btn=document.getElementById('sort-btn-'+key);
+    const arrow=document.getElementById('sort-arrow-'+key);
+    if(!btn) return;
+    if(catalogueSortKey===key){
+      btn.classList.add('active');
+      arrow.textContent=catalogueSortDir===1?'↑':'↓';
+    }else{
+      btn.classList.remove('active');
+      arrow.textContent='';
+    }
+  });
 }
 
 function renderSeasonTabs(ctx, activeSNum){
