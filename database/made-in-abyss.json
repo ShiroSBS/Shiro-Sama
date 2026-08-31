@@ -1,0 +1,208 @@
+{
+  "id": "made-in-abyss",
+  "title": "Made in Abyss",
+  "poster": "https://i.imgur.com/JnZYxIm.jpeg",
+  "banner": "https://i.imgur.com/UGQeTCl.jpeg",
+  "bannerFallback": "https://i.imgur.com/JnZYxIm.jpeg",
+  "description": "\"Abyss\", un lieu intriguant et nimbé de mystère. Un trou béant, seul lieu inexploré du monde. Un endroit fascinant et dangereux.\n\nRiko, jeune orpheline, a grandi dans une petite ville située au bord du gouffre tout en rêvant de devenir exploratrice, comme sa mère.\nUn jour, alors qu'elle explore le premier niveau de l'Abyss, elle rencontre un étrange robot qui ressemble à s'y méprendre à un être humain.",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Psychologique",
+    "Surnaturel",
+    "Action",
+    "Science-Fiction",
+    "Fantastique"
+  ],
+  "rating": "8.4",
+  "year": "2017",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Made in Abyss",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "8.4",
+      "l": "Note"
+    },
+    {
+      "v": "2017",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "8.4"
+    },
+    {
+      "text": "🎬 3 Saisons · 26 Éps"
+    },
+    {
+      "text": "📅 2017"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Made in Abyss - Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "La Cité du gouffre",
+          "id": "4814886"
+        },
+        {
+          "n": 2,
+          "title": "La Fête du solstice d'été",
+          "id": "4814888"
+        },
+        {
+          "n": 3,
+          "title": "Le Grand Départ",
+          "id": "4814889"
+        },
+        {
+          "n": 4,
+          "title": "Le Bord de l'Abysse",
+          "id": "4814892"
+        },
+        {
+          "n": 5,
+          "title": "Le Mal de l’Abysse",
+          "id": "4814893"
+        },
+        {
+          "n": 6,
+          "title": "Le Camp de chercheuses",
+          "id": "4814894"
+        },
+        {
+          "n": 7,
+          "title": "La Souveraine inamovible",
+          "id": "4814895"
+        },
+        {
+          "n": 8,
+          "title": "Entraînement à la survie",
+          "id": "4814899"
+        },
+        {
+          "n": 9,
+          "title": "La Grande Fosse",
+          "id": "4814901"
+        },
+        {
+          "n": 10,
+          "title": "Le Jardin des fleurs de poison",
+          "id": "4814905"
+        },
+        {
+          "n": 11,
+          "title": "Nanachi",
+          "id": "4814907"
+        },
+        {
+          "n": 12,
+          "title": "La Véritable Nature de la malédiction",
+          "id": "4814909"
+        },
+        {
+          "n": 13,
+          "title": "Les Challengers",
+          "id": "4814912"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Made in Abyss : L'aurore de l'âme des profondeurs",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "L'aurore de l'âme des profondeurs",
+          "id": "5072069"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Made in Abyss : La ville d'or sans retour",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Les Boussolés",
+          "id": "5068001"
+        },
+        {
+          "n": 2,
+          "title": "Le Village des Ombrats",
+          "id": "5068003"
+        },
+        {
+          "n": 3,
+          "title": "La Valeur",
+          "id": "5068004"
+        },
+        {
+          "n": 4,
+          "title": "La Protection",
+          "id": "5068006"
+        },
+        {
+          "n": 5,
+          "title": "Le Perfectionnement",
+          "id": "5068009"
+        },
+        {
+          "n": 6,
+          "title": "L'Appel",
+          "id": "5068010"
+        },
+        {
+          "n": 7,
+          "title": "Le Berceau des vœux",
+          "id": "5068028"
+        },
+        {
+          "n": 8,
+          "title": "Forme d'une promesse",
+          "id": "5068030"
+        },
+        {
+          "n": 9,
+          "title": "Le Retour de la mémoire",
+          "id": "5068013"
+        },
+        {
+          "n": 10,
+          "title": "Ce qui ne peut être rendu",
+          "id": "5068015"
+        },
+        {
+          "n": 11,
+          "title": "La Valeur de la valeur",
+          "id": "5068018"
+        },
+        {
+          "n": 12,
+          "title": "L'Or que l'on ne peut accumuler",
+          "id": "5068021"
+        }
+      ]
+    }
+  }
+}
