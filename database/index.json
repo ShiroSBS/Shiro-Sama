@@ -2,7 +2,7 @@
   {
     "id": "blue-box",
     "title": "Blue Box",
-    "poster": "https://i.imgur.com/iR7dOuk.jpeg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-KKcLfQzV57nG.jpg",
     "rating": "8.1",
     "year": "2024",
     "status": "termine",
@@ -764,6 +764,28 @@
       "Science",
       "Fiction",
       "Fantastique"
+    ]
+  },
+  {
+    "id": "parasite",
+    "title": "Parasite",
+    "poster": "https://i.imgur.com/UerCAQV.jpeg",
+    "rating": "8.4",
+    "year": "2022",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Drame",
+      "Horreur",
+      "Épouvante",
+      "Psychologique",
+      "Romance",
+      "School Life",
+      "Science",
+      "fiction",
+      "Fantastique",
+      "Aventure"
     ]
   }
 ]
