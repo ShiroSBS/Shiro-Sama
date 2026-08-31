@@ -1,0 +1,187 @@
+{
+  "id": "parasite",
+  "title": "Parasite",
+  "poster": "https://i.imgur.com/UerCAQV.jpeg",
+  "banner": "https://i.imgur.com/2jrigha.jpeg",
+  "bannerFallback": "https://i.imgur.com/UerCAQV.jpeg",
+  "description": "Depuis des milliers d'années, l'Homme se trouve au sommet de la chaîne alimentaire. Jusqu'à ce jour où de mystérieuses sphères, abritant d'étranges parasites, se répandent un peu partout sur Terre. Rapidement, les entités prennent possession de certains habitants. Nul ne sait d'où elles viennent, mais ce qui semble certain, c'est qu'elles sont là pour débarrasser le monde de l'espèce humaine.\n\nShinichi, jeune lycéen, est un « hôte » dont le cerveau a miraculeusement été épargné : et pour cause, Migi, son parasite, a pris possession de son bras droit ! Ce cas exceptionnel va déboucher sur une singulière cohabitation. Car au-delà de la fusion physique opérée entre Migi et Shinichi, qui partagent désormais le même corps et la même vie, va se développer un lien d'attachement particulier où les deux êtres vont apprendre chacun l'un de l'autre. Alors que Shinichi se découvre doté d'incroyables facultés physiques, il prend aussi conscience de la menace qui plane sur ses proches... et sur l'humanité tout entière.",
+  "genres": [
+    "Action",
+    "Drame",
+    "Horreur",
+    "Épouvante",
+    "Psychologique",
+    "Romance",
+    "School Life",
+    "Science-fiction",
+    "Fantastique",
+    "Aventure"
+  ],
+  "rating": "8.4",
+  "year": "2022",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Parasite",
+  "stats": [
+    {
+      "v": "1",
+      "l": "Saisons"
+    },
+    {
+      "v": "6.3",
+      "l": "Note"
+    },
+    {
+      "v": "2022",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "6.3"
+    },
+    {
+      "text": "🎬 1 Saisons · 24 Éps"
+    },
+    {
+      "text": "📅 2022"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Parasite - Saison 1 : La Maxime",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Métamorphose",
+          "id": "3093784"
+        },
+        {
+          "n": 2,
+          "title": "Le Diable au corps",
+          "id": "3093785"
+        },
+        {
+          "n": 3,
+          "title": "Le Festin des monstres",
+          "id": "3093787"
+        },
+        {
+          "n": 4,
+          "title": "Visage humain",
+          "id": "3093788"
+        },
+        {
+          "n": 5,
+          "title": "L'Étranger",
+          "id": "3093791"
+        },
+        {
+          "n": 6,
+          "title": "Le Soleil aussi se lève",
+          "id": "3093792"
+        },
+        {
+          "n": 7,
+          "title": "Voyage au bout de la nuit",
+          "id": "3093794"
+        },
+        {
+          "n": 8,
+          "title": "Point de rupture",
+          "id": "3093796"
+        },
+        {
+          "n": 9,
+          "title": "Par-delà le bien et le mal",
+          "id": "3093797"
+        },
+        {
+          "n": 10,
+          "title": "Une lueur dans les ténèbres",
+          "id": "3093803"
+        },
+        {
+          "n": 11,
+          "title": "L'Oiseau bleu",
+          "id": "3093805"
+        },
+        {
+          "n": 12,
+          "title": "Le Cœur battant",
+          "id": "3093806"
+        },
+        {
+          "n": 13,
+          "title": "Bonjour tristesse",
+          "id": "3093581"
+        },
+        {
+          "n": 14,
+          "title": "Le Génie et le Malin",
+          "id": "3093583"
+        },
+        {
+          "n": 15,
+          "title": "Chasseur et Proie",
+          "id": "3093585"
+        },
+        {
+          "n": 16,
+          "title": "Une famille heureuse",
+          "id": "3236131"
+        },
+        {
+          "n": 17,
+          "title": "Le Détective mourant",
+          "id": "3093593"
+        },
+        {
+          "n": 18,
+          "title": "L'Évaluation",
+          "id": "3093595"
+        },
+        {
+          "n": 19,
+          "title": "En froid",
+          "id": "3093599"
+        },
+        {
+          "n": 20,
+          "title": "Crimes et Châtiments",
+          "id": "3093602"
+        },
+        {
+          "n": 21,
+          "title": "Sexe et Sacré",
+          "id": "3093604"
+        },
+        {
+          "n": 22,
+          "title": "Le Calme et la Tempête",
+          "id": "3093617"
+        },
+        {
+          "n": 23,
+          "title": "La Vie et la Mort",
+          "id": "3093662"
+        },
+        {
+          "n": 24,
+          "title": "Parasite",
+          "id": "3093703"
+        }
+      ]
+    }
+  }
+}
