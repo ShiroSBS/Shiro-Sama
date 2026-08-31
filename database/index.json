@@ -787,5 +787,26 @@
       "Fantastique",
       "Aventure"
     ]
+  },
+  {
+    "id": "made-in-abyss",
+    "title": "Made in Abyss",
+    "poster": "https://i.imgur.com/JnZYxIm.jpeg",
+    "rating": "8.4",
+    "year": "2017",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Aventure",
+      "Drame",
+      "Fantasy",
+      "Mystère",
+      "Psychologique",
+      "Surnaturel",
+      "Action",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
