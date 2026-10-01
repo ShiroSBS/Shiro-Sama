@@ -1,9 +1,9 @@
 {
   "id": "yu-yu-hakusho",
   "title": "Yu Yu Hakusho",
-  "poster": "https://i.imgur.com/SWd2Zbc.jpeg",
-  "banner": "https://i.imgur.com/L0bxIpG.jpeg",
-  "bannerFallback": "https://i.imgur.com/SWd2Zbc.jpeg",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx392-z90299zIvYmx.png",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/392-nbB6cBnhHOFb.jpg",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx392-z90299zIvYmx.png",
   "description": "Yusuke Urameshi est un jeune vaurien de 14 ans. Il va pourtant sauver la vie d'un petit garçon et se faire écraser... Il y laisse sa vie.\nPourtant, sa mort, imprévue, pose problème à Enma Jr, le fils du Juge des Enfers. Il décide alors de lui faire passer un test, pour juger de ses qualités. S'il réussit ce test, il pourra ressusciter et deviendra un détective du monde des esprits, afin de combattre avec son guide spirituel Botan, tous les démons trouvés sur Terre pour y faire du mal.\n\nDes missions spectaculaires attendent Yusuke, qui découvre de puissants pouvoirs cachés en lui.Il se fera également de nombreux alliés tout au long de son périple, tels Kurama, Kuwabara et Hiei.",
   "genres": [
     "Action",
@@ -15,9 +15,7 @@
     "Shônen",
     "Surnaturel",
     "Tournois",
-    "Kaï",
-    "Science",
-    "Fiction",
+    "Science-Fiction",
     "Fantastique"
   ],
   "rating": "8.3",
@@ -27,7 +25,7 @@
   "heroTitle": "Yu Yu Hakusho",
   "stats": [
     {
-      "v": "2",
+      "v": "1",
       "l": "Saisons"
     },
     {
@@ -49,7 +47,7 @@
       "text": "8.3"
     },
     {
-      "text": "🎬 2 Saisons · 112 Éps"
+      "text": "🎬 1 Saisons · 112 Éps"
     },
     {
       "text": "📅 1992"
@@ -62,574 +60,569 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Yu Yu Hakusho - Saison 1",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Surpris par la mort",
           "id": "4941750"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "L'épreuve du monde des esprits",
           "id": "4941753"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Kuwabara et la promesse d'un homme",
           "id": "4941758"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Les liens du cœur",
           "id": "4941762"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La résurrection de Yusuke",
           "id": "4941764"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Les trois monstres",
           "id": "4941768"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le secret de Kurama",
           "id": "4941772"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "L'œil maléfique de Hiei",
           "id": "4941775"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "La recherche d'un successeur",
           "id": "4941777"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Combat dans les ténèbres",
           "id": "4941780"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Un combat acharné",
           "id": "4941784"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "La revanche de Kuwabara",
           "id": "4941786"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Yusuke contre Rando",
           "id": "4941793"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Les quatre monstres sacrés",
           "id": "4941796"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Genbu, le monstre de roche",
           "id": "4941800"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Byakko, le monstre blanc",
           "id": "4941804"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Seiryu, le monstre dragon",
           "id": "4941810"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Suzaku, le chef des saintes bêtes",
           "id": "4941814"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "La barrière du monde humain",
           "id": "4941818"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "La ville envahie",
           "id": "4941822"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Yusuke entre en scène",
           "id": "4941827"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Yukina, la fille de la neige",
           "id": "4941832"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Les frères Toguro",
           "id": "4941838"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Les apparitions du monde des ténèbres",
           "id": "4941844"
         },
         {
           "n": 25,
-          "title": "Episode 25",
+          "title": "Un nouvel entraînement",
           "id": "4941847"
         },
         {
           "n": 26,
-          "title": "Episode 26",
+          "title": "Le tournoi des arts martiaux de l'ombre",
           "id": "4941854"
         },
         {
           "n": 27,
-          "title": "Episode 27",
+          "title": "L'équipe Rokuyukai",
           "id": "4941859"
         },
         {
           "n": 28,
-          "title": "Episode 28",
+          "title": "Un match difficile",
           "id": "4941866"
         },
         {
           "n": 29,
-          "title": "Episode 29",
+          "title": "Le sang sur le ring",
           "id": "4941869"
         },
         {
           "n": 30,
-          "title": "Episode 30",
+          "title": "Le coup fatal",
           "id": "4941870"
         },
         {
           "n": 31,
-          "title": "Episode 31",
+          "title": "La technique de l'ivrogne",
           "id": "4941871"
         },
         {
           "n": 32,
-          "title": "Episode 32",
+          "title": "Le match de la mort",
           "id": "4941872"
         },
         {
           "n": 33,
-          "title": "Episode 33",
+          "title": "Le premier tour",
           "id": "4941873"
         },
         {
           "n": 34,
-          "title": "Episode 34",
+          "title": "Le secret de la victoire",
           "id": "4941874"
         },
         {
           "n": 35,
-          "title": "Episode 35",
+          "title": "Le masque de la vérité",
           "id": "4941875"
         },
         {
           "n": 36,
-          "title": "Episode 36",
+          "title": "L'épreuve de courage",
           "id": "4941876"
         },
         {
           "n": 37,
-          "title": "Episode 37",
+          "title": "L'équipe Ichigaki",
           "id": "4941877"
         },
         {
           "n": 38,
-          "title": "Episode 38",
+          "title": "La triste vérité",
           "id": "4941879"
         },
         {
           "n": 39,
-          "title": "Episode 39",
+          "title": "La puissance du désespoir",
           "id": "4941882"
         },
         {
           "n": 40,
-          "title": "Episode 40",
+          "title": "Le combat contre le Dr Ichigaki",
           "id": "4941884"
         },
         {
           "n": 41,
-          "title": "Episode 41",
+          "title": "L'équipe Masho",
           "id": "4941887"
         },
         {
           "n": 42,
-          "title": "Episode 42",
+          "title": "La ruse de Gama",
           "id": "4941890"
         },
         {
           "n": 43,
-          "title": "Episode 43",
+          "title": "La colère de Kurama",
           "id": "4941893"
         },
         {
           "n": 44,
-          "title": "Episode 44",
+          "title": "L'affrontement",
           "id": "4941895"
         },
         {
           "n": 45,
-          "title": "Episode 45",
+          "title": "Le dragon du feu noir",
           "id": "4941899"
         },
         {
           "n": 46,
-          "title": "Episode 46",
+          "title": "Le secret de la transformation",
           "id": "4941903"
         },
         {
           "n": 47,
-          "title": "Episode 47",
+          "title": "Le guerrier légendaire",
           "id": "4941906"
         },
         {
           "n": 48,
-          "title": "Episode 48",
+          "title": "Le choix de Kuwabara",
           "id": "4941909"
         },
         {
           "n": 49,
-          "title": "Episode 49",
+          "title": "La force restante",
           "id": "4941913"
         },
         {
           "n": 50,
-          "title": "Episode 50",
+          "title": "La puissance de Genkai",
           "id": "4941916"
         },
         {
           "n": 51,
-          "title": "Episode 51",
+          "title": "Le roi de l'ombre",
           "id": "4941921"
         },
         {
           "n": 52,
-          "title": "Episode 52",
+          "title": "Le réveil du dragon",
           "id": "4941926"
         },
         {
           "n": 53,
-          "title": "Episode 53",
+          "title": "La mort de Genkai",
           "id": "4941929"
         },
         {
           "n": 54,
-          "title": "Episode 54",
+          "title": "La finale commence",
           "id": "4941933"
         },
         {
           "n": 55,
-          "title": "Episode 55",
+          "title": "La vraie nature de Kurama",
           "id": "4941936"
         },
         {
           "n": 56,
-          "title": "Episode 56",
+          "title": "La résolution de Hiei",
           "id": "4941937"
         },
         {
           "n": 57,
-          "title": "Episode 57",
+          "title": "La menace de Bui",
           "id": "4941939"
         },
         {
           "n": 58,
-          "title": "Episode 58",
+          "title": "L'ultime transformation",
           "id": "4941941"
         },
         {
           "n": 59,
-          "title": "Episode 59",
+          "title": "L'ombre de Toguro",
           "id": "4941943"
         },
         {
           "n": 60,
-          "title": "Episode 60",
+          "title": "Le test d'énergie",
           "id": "4941944"
         },
         {
           "n": 61,
-          "title": "Episode 61",
+          "title": "Le choc des titans",
           "id": "4941947"
         },
         {
           "n": 62,
-          "title": "Episode 62",
+          "title": "Toguro à 100%",
           "id": "4941949"
         },
         {
           "n": 63,
-          "title": "Episode 63",
+          "title": "L'éveil de Yusuke",
           "id": "4941951"
         },
         {
           "n": 64,
-          "title": "Episode 64",
+          "title": "La fin du tournoi",
           "id": "4941952"
         },
         {
           "n": 65,
-          "title": "Episode 65",
+          "title": "La disparition de l'île",
           "id": "4941953"
         },
         {
           "n": 66,
-          "title": "Episode 66",
+          "title": "Le repos des guerriers",
           "id": "4941955"
         },
         {
           "n": 67,
-          "title": "Episode 67",
+          "title": "Un nouveau défi",
           "id": "4941956"
         },
         {
           "n": 68,
-          "title": "Episode 68",
+          "title": "Le piège du manoir",
           "id": "4941957"
         },
         {
           "n": 69,
-          "title": "Episode 69",
+          "title": "Le pouvoir des mots",
           "id": "4941958"
         },
         {
           "n": 70,
-          "title": "Episode 70",
+          "title": "La véritable intention",
           "id": "4941960"
         },
         {
           "n": 71,
-          "title": "Episode 71",
+          "title": "La porte des ténèbres",
           "id": "4941962"
         },
         {
           "n": 72,
-          "title": "Episode 72",
+          "title": "Les sept spectres",
           "id": "4941963"
         },
         {
           "n": 73,
-          "title": "Episode 73",
+          "title": "L'ombre du passé",
           "id": "4941964"
         },
         {
           "n": 74,
-          "title": "Episode 74",
+          "title": "La barrière brisée",
           "id": "4941966"
         },
         {
           "n": 75,
-          "title": "Episode 75",
+          "title": "Le piège de Gourmet",
           "id": "4941967"
         },
         {
           "n": 76,
-          "title": "Episode 76",
+          "title": "L'apparition de Gamemaster",
           "id": "4941968"
         },
         {
           "n": 77,
-          "title": "Episode 77",
+          "title": "Le jeu de la mort",
           "id": "4941971"
         },
         {
           "n": 78,
-          "title": "Episode 78",
+          "title": "Le secret de Sensui",
           "id": "4941974"
         },
         {
           "n": 79,
-          "title": "Episode 79",
+          "title": "L'assaut final",
           "id": "4941975"
         },
         {
           "n": 80,
-          "title": "Episode 80",
+          "title": "La colère de Yusuke",
           "id": "4941977"
         },
         {
           "n": 81,
-          "title": "Episode 81",
+          "title": "La fin de Sensui",
           "id": "4941979"
         },
         {
           "n": 82,
-          "title": "Episode 82",
+          "title": "L'éveil du démon",
           "id": "4941980"
         },
         {
           "n": 83,
-          "title": "Episode 83",
+          "title": "Le choix des héros",
           "id": "4941981"
         },
         {
           "n": 84,
-          "title": "Episode 84",
+          "title": "Le testament de Sensui",
           "id": "4941982"
         },
         {
           "n": 85,
-          "title": "Episode 85",
+          "title": "Le destin de la Terre",
           "id": "4941984"
         },
         {
           "n": 86,
-          "title": "Episode 86",
+          "title": "Le retour au calme",
           "id": "4941985"
         },
         {
           "n": 87,
-          "title": "Episode 87",
+          "title": "La décision de Kurama",
           "id": "4941986"
         },
         {
           "n": 88,
-          "title": "Episode 88",
+          "title": "Le secret de la famille",
           "id": "4941987"
         },
         {
           "n": 89,
-          "title": "Episode 89",
+          "title": "L'invitation du monde des ténèbres",
           "id": "4941989"
         },
         {
           "n": 90,
-          "title": "Episode 90",
+          "title": "L'héritage de Raizen",
           "id": "4941990"
         },
         {
           "n": 91,
-          "title": "Episode 91",
+          "title": "Les trois rois",
           "id": "4941992"
         },
         {
           "n": 92,
-          "title": "Episode 92",
+          "title": "Les nouveaux pouvoirs",
           "id": "4941995"
         },
         {
           "n": 93,
-          "title": "Episode 93",
+          "title": "Le choix de Hiei",
           "id": "4941996"
         },
         {
           "n": 94,
-          "title": "Episode 94",
+          "title": "La réunification",
           "id": "4941997"
         },
         {
           "n": 95,
-          "title": "Episode 95",
+          "title": "Le départ pour le monde des ténèbres",
           "id": "4941998"
         },
         {
           "n": 96,
-          "title": "Episode 96",
+          "title": "Les trois souverains",
           "id": "4942000"
         },
         {
           "n": 97,
-          "title": "Episode 97",
+          "title": "L'adieu à Raizen",
           "id": "4942001"
         },
         {
           "n": 98,
-          "title": "Episode 98",
+          "title": "Le grand tournoi",
           "id": "4942003"
         },
         {
           "n": 99,
-          "title": "Episode 99",
+          "title": "Les éliminatoires",
           "id": "4942004"
         },
         {
           "n": 100,
-          "title": "Episode 100",
+          "title": "Les rois du combat",
           "id": "4942005"
         },
         {
           "n": 101,
-          "title": "Episode 101",
+          "title": "Le choc des monstres",
           "id": "4942007"
         },
         {
           "n": 102,
-          "title": "Episode 102",
+          "title": "La puissance de Mukuro",
           "id": "4942010"
         },
         {
           "n": 103,
-          "title": "Episode 103",
+          "title": "Le secret de Yomi",
           "id": "4942012"
         },
         {
           "n": 104,
-          "title": "Episode 104",
+          "title": "Les quarts de finale",
           "id": "4942013"
         },
         {
           "n": 105,
-          "title": "Episode 105",
+          "title": "Les demi-finales",
           "id": "4942014"
         },
         {
           "n": 106,
-          "title": "Episode 106",
+          "title": "Le combat final",
           "id": "4942015"
         },
         {
           "n": 107,
-          "title": "Episode 107",
+          "title": "Le nouveau roi",
           "id": "4942017"
         },
         {
           "n": 108,
-          "title": "Episode 108",
+          "title": "Les adieux au monde des ténèbres",
           "id": "4942021"
         },
         {
           "n": 109,
-          "title": "Episode 109",
+          "title": "Le retour dans le monde humain",
           "id": "4942022"
         },
         {
           "n": 110,
-          "title": "Episode 110",
+          "title": "Les retrouvailles",
           "id": "4942023"
         },
         {
           "n": 111,
-          "title": "Episode 111",
+          "title": "Un avenir nouveau",
           "id": "4942026"
         },
         {
           "n": 112,
-          "title": "Episode 112",
+          "title": "Pour l'éternité",
           "id": "4942027"
         }
       ]
-    },
-    "2": {
-      "label": "Saison 2",
-      "title": "Kai",
-      "episodes": []
     }
   }
 }
