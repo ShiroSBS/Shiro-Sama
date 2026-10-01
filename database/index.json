@@ -848,5 +848,21 @@
       "School Life",
       "Drame"
     ]
+  },
+  {
+    "id": "horimiya",
+    "title": "Horimiya",
+    "poster": "https://i.imgur.com/iXn1lHH.jpeg",
+    "rating": "8.1",
+    "year": "2021",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Romance",
+      "School Life",
+      "Shônen",
+      "Drame"
+    ]
   }
 ]
