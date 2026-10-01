@@ -808,5 +808,29 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "yu-yu-hakusho",
+    "title": "Yu Yu Hakusho",
+    "poster": "https://i.imgur.com/SWd2Zbc.jpeg",
+    "rating": "8.3",
+    "year": "1992",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Comédie",
+      "Drame",
+      "Horreur",
+      "Épouvante",
+      "Shônen",
+      "Surnaturel",
+      "Tournois",
+      "Kaï",
+      "Science",
+      "Fiction",
+      "Fantastique"
+    ]
   }
 ]
