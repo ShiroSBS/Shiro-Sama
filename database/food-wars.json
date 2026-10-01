@@ -1,0 +1,369 @@
+{
+  "id": "food-wars",
+  "title": "Food Wars",
+  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
+  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20923-9tFdZ5hIrRiF.png",
+  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
+  "description": "Sôma Yukihira, 15 ans, rêve de surpasser son père Jôichirô, cuisinier de talent, et de reprendre le petit restaurant familial. Pour lui, son avenir est tout tracé : dès qu'il terminera sa dernière année de collège, il s'investira à plein temps dans le restaurant. Malheureusement, son père en décide autrement lorsqu'il accepte un travail à New York, dans un grand hôtel. Avant de partir, il oriente Sôma vers un prestigieux lycée, qui forme les meilleurs cuisiniers du Japon. Mais l'établissement est réputé extrêmement difficile et seuls 10% des élèves réussissent à y obtenir un diplôme. Mais Sôma, motivé par son père, a bien l'intention de faire partie des meilleurs.",
+  "genres": [
+    "Comédie",
+    "Ecchi",
+    "Romance",
+    "School Life",
+    "Drame"
+  ],
+  "rating": "7.8",
+  "year": "2015",
+  "status": "termine",
+  "statusLabel": "Terminé",
+  "heroTitle": "Food Wars",
+  "stats": [
+    {
+      "v": "3",
+      "l": "Saisons"
+    },
+    {
+      "v": "7.8",
+      "l": "Note"
+    },
+    {
+      "v": "2015",
+      "l": "Année"
+    },
+    {
+      "v": "24 min",
+      "l": "Durée / ép."
+    }
+  ],
+  "heroMeta": [
+    {
+      "icon": "⭐",
+      "text": "7.8"
+    },
+    {
+      "text": "🎬 3 Saisons · 59 Éps"
+    },
+    {
+      "text": "📅 2015"
+    },
+    {
+      "color": "#94a3b8",
+      "text": "● Terminé"
+    }
+  ],
+  "seasons": {
+    "1": {
+      "label": "Saison 1",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5037835"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5037839"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5037842"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5037844"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5037847"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5037849"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5037852"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5037856"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5037859"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5037862"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5037864"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5037866"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5037868"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5037870"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5037871"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5037872"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5037873"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5037874"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5037875"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5037876"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5037877"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5037879"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5037880"
+        }
+      ]
+    },
+    "2": {
+      "label": "Saison 2",
+      "title": "Saison 2",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5046445"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5046447"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5046452"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5046455"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5046457"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5046459"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5046464"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5046466"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5046472"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5046475"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5046483"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5046487"
+        }
+      ]
+    },
+    "3": {
+      "label": "Saison 3",
+      "title": "Saison 3",
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Episode 1",
+          "id": "5043120"
+        },
+        {
+          "n": 2,
+          "title": "Episode 2",
+          "id": "5043122"
+        },
+        {
+          "n": 3,
+          "title": "Episode 3",
+          "id": "5043123"
+        },
+        {
+          "n": 4,
+          "title": "Episode 4",
+          "id": "5043125"
+        },
+        {
+          "n": 5,
+          "title": "Episode 5",
+          "id": "5043129"
+        },
+        {
+          "n": 6,
+          "title": "Episode 6",
+          "id": "5043131"
+        },
+        {
+          "n": 7,
+          "title": "Episode 7",
+          "id": "5043132"
+        },
+        {
+          "n": 8,
+          "title": "Episode 8",
+          "id": "5043134"
+        },
+        {
+          "n": 9,
+          "title": "Episode 9",
+          "id": "5043136"
+        },
+        {
+          "n": 10,
+          "title": "Episode 10",
+          "id": "5043137"
+        },
+        {
+          "n": 11,
+          "title": "Episode 11",
+          "id": "5043139"
+        },
+        {
+          "n": 12,
+          "title": "Episode 12",
+          "id": "5043142"
+        },
+        {
+          "n": 13,
+          "title": "Episode 13",
+          "id": "5043144"
+        },
+        {
+          "n": 14,
+          "title": "Episode 14",
+          "id": "5043146"
+        },
+        {
+          "n": 15,
+          "title": "Episode 15",
+          "id": "5043149"
+        },
+        {
+          "n": 16,
+          "title": "Episode 16",
+          "id": "5043151"
+        },
+        {
+          "n": 17,
+          "title": "Episode 17",
+          "id": "5043155"
+        },
+        {
+          "n": 18,
+          "title": "Episode 18",
+          "id": "5043157"
+        },
+        {
+          "n": 19,
+          "title": "Episode 19",
+          "id": "5043158"
+        },
+        {
+          "n": 20,
+          "title": "Episode 20",
+          "id": "5043161"
+        },
+        {
+          "n": 21,
+          "title": "Episode 21",
+          "id": "5043163"
+        },
+        {
+          "n": 22,
+          "title": "Episode 22",
+          "id": "5043165"
+        },
+        {
+          "n": 23,
+          "title": "Episode 23",
+          "id": "5043170"
+        },
+        {
+          "n": 24,
+          "title": "Episode 24",
+          "id": "5043172"
+        }
+      ]
+    }
+  }
+}
