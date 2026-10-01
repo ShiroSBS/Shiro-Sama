@@ -1,9 +1,9 @@
 {
   "id": "horimiya",
   "title": "Horimiya",
-  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
-  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124080-ARyLAHHgikRq.jpg",
-  "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
+  "poster": "https://i.imgur.com/iXn1lHH.jpeg",
+  "banner": "https://i.imgur.com/AadljBZ.jpeg",
+  "bannerFallback": "https://i.imgur.com/iXn1lHH.jpeg",
   "description": "Bien qu'admirée à l'école pour sa gentillesse et ses prouesses académiques, Kyôko Hori est cependant différente chez elle. Avec ses parents souvent absents pour travailler, Hori doit s'occuper de son jeune frère et faire le ménage, l'empêchant ainsi de se socialiser en dehors de l'école.\nIzumi Miyamura, un camarade de classe d'Hori, est considéré comme un otaku maussade avec ses grandes lunettes, ses longs cheveux et sa nature timide et calme. Cependant, il est en réalité une personne gentille et serviable possédant neuf piercings cachés derrière ses longs cheveux et un tatouage le long du dos et de l'épaule gauche.\nUn jour, Hori et Miyamura se croisent en dehors de l'école par pur hasard. Comment ces deux personnes vont réagir en découvrant la face cachée de l'autre ?",
   "genres": [
     "Comédie",
@@ -19,7 +19,7 @@
   "heroTitle": "Horimiya",
   "stats": [
     {
-      "v": "2",
+      "v": "1",
       "l": "Saisons"
     },
     {
@@ -41,7 +41,7 @@
       "text": "8.1"
     },
     {
-      "text": "🎬 2 Saisons · 26 Éps"
+      "text": "🎬 1 Saison · 13 Éps"
     },
     {
       "text": "📅 2021"
@@ -54,143 +54,72 @@
   "seasons": {
     "1": {
       "label": "Saison 1",
-      "title": "Saison 1",
+      "title": "Horimiya",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Semblables, mais différents",
           "id": "4958981"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "On ne peut pas le faire seul",
           "id": "4958983"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "C'est pourquoi ça va",
           "id": "4958984"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Tout le monde aime quelqu'un",
           "id": "4958986"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "On ne peut pas le dire",
           "id": "4958987"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "Ce sera toujours l'été",
           "id": "4958988"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Quand tu es là",
           "id": "4958990"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La vérité révélée",
           "id": "4958991"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "C'est difficile, mais pas impossible",
           "id": "4958992"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "Jusqu'à ce que la neige fonde",
           "id": "4958994"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Ça peut ressembler à de la haine",
           "id": "4958995"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Tout commence avec toi",
           "id": "4958997"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Je te donnerais le ciel",
           "id": "4958999"
-        }
-      ]
-    },
-    "2": {
-      "label": "Saison 2",
-      "title": "Piece",
-      "episodes": [
-        {
-          "n": 1,
-          "title": "Episode 1",
-          "id": "5295574"
-        },
-        {
-          "n": 2,
-          "title": "Episode 2",
-          "id": "5295575"
-        },
-        {
-          "n": 3,
-          "title": "Episode 3",
-          "id": "5295576"
-        },
-        {
-          "n": 4,
-          "title": "Episode 4",
-          "id": "5295577"
-        },
-        {
-          "n": 5,
-          "title": "Episode 5",
-          "id": "5295578"
-        },
-        {
-          "n": 6,
-          "title": "Episode 6",
-          "id": "5295579"
-        },
-        {
-          "n": 7,
-          "title": "Episode 7",
-          "id": "5295580"
-        },
-        {
-          "n": 8,
-          "title": "Episode 8",
-          "id": "5295583"
-        },
-        {
-          "n": 9,
-          "title": "Episode 9",
-          "id": "5295584"
-        },
-        {
-          "n": 10,
-          "title": "Episode 10",
-          "id": "5295585"
-        },
-        {
-          "n": 11,
-          "title": "Episode 11",
-          "id": "5295586"
-        },
-        {
-          "n": 12,
-          "title": "Episode 12",
-          "id": "5295587"
-        },
-        {
-          "n": 13,
-          "title": "Episode 13",
-          "id": "5295589"
         }
       ]
     }
