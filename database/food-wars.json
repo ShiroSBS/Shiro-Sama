@@ -1,6 +1,6 @@
 {
   "id": "food-wars",
-  "title": "Food Wars",
+  "title": "Food Wars!",
   "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20923-9tFdZ5hIrRiF.png",
   "bannerFallback": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-pNT38pjW3RFH.jpg",
@@ -16,7 +16,7 @@
   "year": "2015",
   "status": "termine",
   "statusLabel": "Terminé",
-  "heroTitle": "Food Wars",
+  "heroTitle": "Food Wars!",
   "stats": [
     {
       "v": "3",
@@ -53,314 +53,314 @@
   ],
   "seasons": {
     "1": {
-      "label": "Saison 1",
-      "title": "Saison 1",
+      "label": "Saison 1 : Premier service",
+      "title": "Premier service",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Un désert sans fin",
           "id": "5037835"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "La Langue Divine",
           "id": "5037839"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Ce cuisinier ne sourit jamais",
           "id": "5037842"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "La Marie du Dortoir Étoile",
           "id": "5037844"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "Le Cuisinier de la Reine",
           "id": "5037847"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La Séductrice des épices",
           "id": "5037849"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Le Chef du silence et le Chef du bruit",
           "id": "5037852"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La Recette de l'élégance",
           "id": "5037856"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le Plat qui annonce l'automne",
           "id": "5037859"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La Recette idéale",
           "id": "5037862"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le Dragon céleste",
           "id": "5037864"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le Cuisinier de la mémoire",
           "id": "5037866"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Les Œufs du petit-déjeuner",
           "id": "5037868"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "La Métamorphose",
           "id": "5037870"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Le Démon de la cuisine",
           "id": "5037871"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "Le Cuisinier qui a traversé le monde",
           "id": "5037872"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Le Karaage de la séduction",
           "id": "5037873"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Le Karaage de la jeunesse",
           "id": "5037874"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "Les Élus",
           "id": "5037875"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "Dragon accroupi et tigre tapi",
           "id": "5037876"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le Monde inconnu",
           "id": "5037877"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Ce qui dépasse l'ordinaire",
           "id": "5037879"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Les Combattants de la compétition",
           "id": "5037880"
         }
       ]
     },
     "2": {
-      "label": "Saison 2",
-      "title": "Saison 2",
+      "label": "Saison 2 : Le Second service",
+      "title": "Le Second service",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Ce qui est enfermé dans la boîte",
           "id": "5046445"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "L'Ombre et la Lumière",
           "id": "5046447"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Les Pièces du puzzle",
           "id": "5046452"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "Les Rois de la cuisine",
           "id": "5046455"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "L'Aube d'une nouvelle ère",
           "id": "5046457"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La Fille des matins clairs",
           "id": "5046459"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "Les Épées entrelacées",
           "id": "5046464"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La Saison de la moisson",
           "id": "5046466"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "L'Épée qui tranche l'automne",
           "id": "5046472"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La Nouvelle Forme de la cuisine",
           "id": "5046475"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le Stage d'immersion",
           "id": "5046483"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le Retour du héros",
           "id": "5046487"
         }
       ]
     },
     "3": {
-      "label": "Saison 3",
-      "title": "Saison 3",
+      "label": "Saison 3 : Le Troisième service",
+      "title": "Le Troisième service",
       "episodes": [
         {
           "n": 1,
-          "title": "Episode 1",
+          "title": "Défier le Conseil des Dix",
           "id": "5043120"
         },
         {
           "n": 2,
-          "title": "Episode 2",
+          "title": "Le Mapo Tofu",
           "id": "5043122"
         },
         {
           "n": 3,
-          "title": "Episode 3",
+          "title": "Le Festival de la Fête de la Lune",
           "id": "5043123"
         },
         {
           "n": 4,
-          "title": "Episode 4",
+          "title": "La Meute de loups",
           "id": "5043125"
         },
         {
           "n": 5,
-          "title": "Episode 5",
+          "title": "La Table des ténèbres",
           "id": "5043129"
         },
         {
           "n": 6,
-          "title": "Episode 6",
+          "title": "La Reine captive",
           "id": "5043131"
         },
         {
           "n": 7,
-          "title": "Episode 7",
+          "title": "L'Effondrement de l'Académie",
           "id": "5043132"
         },
         {
           "n": 8,
-          "title": "Episode 8",
+          "title": "La Requête de la reine",
           "id": "5043134"
         },
         {
           "n": 9,
-          "title": "Episode 9",
+          "title": "Le Danseur de la cuisine",
           "id": "5043136"
         },
         {
           "n": 10,
-          "title": "Episode 10",
+          "title": "La Danse des poêles",
           "id": "5043137"
         },
         {
           "n": 11,
-          "title": "Episode 11",
+          "title": "Le Banquet de la nuit",
           "id": "5043139"
         },
         {
           "n": 12,
-          "title": "Episode 12",
+          "title": "Le Sommet de la montagne",
           "id": "5043142"
         },
         {
           "n": 13,
-          "title": "Episode 13",
+          "title": "Les Examens de promotion",
           "id": "5043144"
         },
         {
           "n": 14,
-          "title": "Episode 14",
+          "title": "Le Train du Pôle Nord",
           "id": "5043146"
         },
         {
           "n": 15,
-          "title": "Episode 15",
+          "title": "Jeanne d'Arc s'élève",
           "id": "5043149"
         },
         {
           "n": 16,
-          "title": "Episode 16",
+          "title": "La Revanche",
           "id": "5043151"
         },
         {
           "n": 17,
-          "title": "Episode 17",
+          "title": "Sur la corde raide",
           "id": "5043155"
         },
         {
           "n": 18,
-          "title": "Episode 18",
+          "title": "Pour qui nous cuisinons",
           "id": "5043157"
         },
         {
           "n": 19,
-          "title": "Episode 19",
+          "title": "La Déclaration de guerre",
           "id": "5043158"
         },
         {
           "n": 20,
-          "title": "Episode 20",
+          "title": "L'Épreuve d'Erina",
           "id": "5043161"
         },
         {
           "n": 21,
-          "title": "Episode 21",
+          "title": "Le Pionnier du désert",
           "id": "5043163"
         },
         {
           "n": 22,
-          "title": "Episode 22",
+          "title": "Vers le champ de bataille",
           "id": "5043165"
         },
         {
           "n": 23,
-          "title": "Episode 23",
+          "title": "Pour le dortoir Étoile",
           "id": "5043170"
         },
         {
           "n": 24,
-          "title": "Episode 24",
+          "title": "Ce que nous portons sur nos épaules",
           "id": "5043172"
         }
       ]
