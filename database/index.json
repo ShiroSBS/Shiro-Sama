@@ -832,5 +832,21 @@
       "Fiction",
       "Fantastique"
     ]
+  },
+  {
+    "id": "food-wars",
+    "title": "Food Wars",
+    "poster": "https://i.imgur.com/vPtxuMY.jpeg",
+    "rating": "7.8",
+    "year": "2015",
+    "status": "termine",
+    "statusLabel": "Terminé",
+    "genres": [
+      "Comédie",
+      "Ecchi",
+      "Romance",
+      "School Life",
+      "Drame"
+    ]
   }
 ]
